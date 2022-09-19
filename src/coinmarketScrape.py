@@ -4,10 +4,7 @@ from cryptocmd import CmcScraper
 
 def scrape_it(coin_name:str):
     # initialise scraper without time interval
-    scraper = CmcScraper("XRP")
-
-    # # export the data as csv file, you can also pass optional `name` parameter
-    # scraper.export("csv", name="xrp_all_time")
+    scraper = CmcScraper(coin_name)
 
     # Pandas dataFrame for the same data
     df = scraper.get_dataframe()
@@ -15,6 +12,7 @@ def scrape_it(coin_name:str):
     df.to_csv(f'data/coinmarket-{coin_name}.csv')
 
 if __name__ == '__main__':
-    coins = ['Bitcoin','XRP','Ethereum','Solana','Polkadot'] 
+    coins = ['Bitcoin','XRP','ETC','SOL','DOT'] 
     for coin in coins:
+        print(f'Scraping {coin}')
         scrape_it(coin_name=coin)
