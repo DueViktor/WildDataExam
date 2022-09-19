@@ -12,7 +12,7 @@ def scrape_it(coin_name:str):
     df.to_csv(f'data/coinmarket-{coin_name}.csv')
 
 if __name__ == '__main__':
-    coins = ['Bitcoin','XRP','ETC','SOL','DOT'] 
+    coins = ['BTC','XRP','ETC','SOL','DOT'] 
     for coin in coins:
         print(f'Scraping {coin}')
         scrape_it(coin_name=coin)
