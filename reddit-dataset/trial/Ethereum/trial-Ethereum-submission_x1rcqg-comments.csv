@@ -1,0 +1,38 @@
+comment_id,comment_parent_id,comment_body,comment_link_id
+imf9z2n,t3_x1rcqg,"Is ethermine the only party producing blocks? No? 
+
+Well, there’s your answer.",t3_x1rcqg
+imfadzf,t3_x1rcqg,"Well it's pretty simple, Ethereum =/= Ethermine. 
+
+More specifically, just because one block producer refuses to include certain transactions does not mean that the network as a whole is censoring those transactions. In practice, it just means the user has to wait a few more minutes to be included in a block. 
+
+In the future, the PoS network will be able to use proposer-builder separation and crLists to enforce non-censorship on the network. 
+
+https://notes.ethereum.org/@fradamt/H1ZqdtrBF",t3_x1rcqg
+imfb8a5,t3_x1rcqg,U should google the definition of decentralized.,t3_x1rcqg
+img6ieo,t3_x1rcqg,If you have 2 hours to spare I highly recommend [this podcast](https://www.youtube.com/watch?v=azjpYTB7PVE) with Justin Drake that goes over all the forms of censorship and possible response from the protocol or community,t3_x1rcqg
+imhqkrg,t3_x1rcqg,"Bitcoin miners censor transactions too: https://www.coindesk.com/tech/2021/05/07/marathon-miners-have-started-censoring-bitcoin-transactions-heres-what-that-means
+
+Anyway,
+
+1. The blacklisting sentence against Tornado Cash is not retroactive and [doesn't require anyone to censor transactions from people who touch TC](https://tether.to/en/tether-holds-firm-on-decision-not-to-freeze-tornado-cash-addresses-awaits-law-enforcement-instruction).
+
+2. Project teams and commentators overreacted and are still overreacting. It looks like everybody tries to exaggerate the situation to **make up** this drama. I guess that [some are happy to](https://www.coindesk.com/tech/2021/05/07/marathon-miners-have-started-censoring-bitcoin-transactions-heres-what-that-means) fud Ethereum while others hope to prompt a relieving reply from the American government.
+
+3. There exists mixers for BTC too. If a censorship were enforced, Bitcoin miners would be asked to comply as well as Ethereum stakers.
+
+4. Over the years, the FBI arrested several times criminals who stole BTC or used it to sell drugs. The court never required miners to freeze addresses. Why would it be different with Ethereum?
+
+**TL,DR: RELAX.**
+
+_feel free to give a link or copy-paste this text (or your better version) in a reply to anyone panicking or fuding on reddit, Twitter or wathever._",t3_x1rcqg
+imfl9oq,t3_x1rcqg,I think people are starting to give up on ethereums “decentralization” view.  Ethereum is highly centralizeD,t3_x1rcqg
+imhnyj1,t3_x1rcqg,I think the merge comes with some disadvantages; one of them being more centralization,t3_x1rcqg
+imfbf3n,t1_imf9z2n,But doesn't the bonding period of staking pools make it difficult for validators to switch pools quickly if they disagree with protocol level censorship?,t3_x1rcqg
+imfmnvg,t1_imfbf3n,"It's still not preventing transactions from being processed as long as there's at least one honest consensus actor who doesn't censor transactions. 
+
+That is so, unless in the specific case where censoring consensus actors are also censoring blocks from other consensus actors and are being the majority (if not the majority, they're punishing themselves and failing anyway). If so, it's called a consensus attack.
+
+Regarding a consensus attack, either you're on PoW and there's nothing you can do against big mining farms performing it as soon as they have 51% of the consensus voting power, or you're on PoS and the L0 consensus can always perform a UASF to fork away the attackers.
+
+That is why PoW is more centralized by design than PoS.",t3_x1rcqg

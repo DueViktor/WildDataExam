@@ -1,0 +1,108 @@
+comment_id,comment_parent_id,comment_body,comment_link_id
+img80lm,t3_x1t5lk,Looking nice and clean. I hope it gains traction and gets used widely my friend. Keep us updated!,t3_x1t5lk
+imgymwy,t3_x1t5lk,Application error link does not load?,t3_x1t5lk
+imgedcb,t3_x1t5lk,"Awesome project. I wonder does it updates and notify the newest event. The other ENS tracker I use has this feature and is more event-based. However, it gets kind of messy when it comes to PNL numbers.
+
+same as demo [https://rss3.io/result?search=0x383424c79874bb0b0d5f0d578bd05b890dd14637](https://rss3.io/result?search=0x383424c79874bb0b0d5f0d578bd05b890dd14637)",t3_x1t5lk
+imi3r0p,t3_x1t5lk,"Since this got quite a bit of comments, I'd like to summarize a few things here:  
+
+
+* I will be changing the UI to make it more intuative (for this I need your feedback - feel free to DM)
+* Some issues with data? Perhaps I should state how everything is calculated - I will probably write a blog post on this as its a lot. In short, USD amounts are calculated on closing daily rates, and not at transaction time. This is fine for long term traders, but not arb-EMV traders. 
+* There seems to be an issue on certain mobiles, preventing this demo from loading (I only tested on iPhone + Chrome)
+* Support for other chains - it's coming. Once everything works on Ethereum and features are done - it's quite trivial to extend the support for other chains. 
+
+&#x200B;
+
+P.S. thank you guys for all the positivity - I really appreciate it!",t3_x1t5lk
+img1ln6,t3_x1t5lk,Awesome! Keep us updated!,t3_x1t5lk
+imgpk4a,t3_x1t5lk,"can you add support to .eth domains for the address lookup? and are L2 stats planned in the future (Optimism, zkSync)?",t3_x1t5lk
+imhamhb,t3_x1t5lk,If you're planning on developing this further I'd love to have a chat about including some of this functionality into WeaverFi :),t3_x1t5lk
+imho1yc,t3_x1t5lk,"Maybe I'm reading the chart wrong, but how does USDC have a $9000+ negative ROI?
+
+This kind of project is desperately needed in the defi space, I'll definitely test it out. 
+
+Should I just DM with feedback?
+
+Edit: Nvm. I thought there was 9000 lost on 10,000 traded. I missed the other 10 million in volume. That explains the discrepancy.",t3_x1t5lk
+imhpij7,t3_x1t5lk,Getting an error message- when it’s up I’m happy to test it :),t3_x1t5lk
+immoelh,t3_x1t5lk,"Hello,  
+I love your project and the idea behind it!  
+I am not a developer, but as a long term HODLer I was thinking somebody should do a historical view of transactions and combine it with NFT minting for historical dates.  
+What I mean by this, it would be great if your tool would track all our individual transactions and if we would be able to mint some ""historical NFTs"" on some website attached to your tool proving our involvement during specific events.  
+For example:  
+\- 1 NFT for ETH holders which have transactions older then 3 years ago -> some diamond handed NFT  
+\- 1 NFT for ETH holders which were before the Mt.Gox collapse -> some NFT for Mt.Gox survivor  
+\- 1 NFT for ETH holders which bought the bottom in 2018 -> some NFT with blood in the streets    
+etc.  
+  
+These are just some examples of NFT collectibles highlighting specific events in ETHs history.   
+
+
+But I would happily pay some \~0.1 ETH to be able to mint NFTs which are linked to historical dates so that I can flex them in the future (to be able to prove based on the transaction history that I was part of the ETH history :-) )
+
+  
+Maybe they should be non-transferable NFTs, so that the NFTs remain in the account which they were minted from.  
+I think there would be demand for these historical NFTs for flexing and you could do a new NFT for each important event in ETHs history.  
+  
+What do you think of this idea?
+
+I would pay to collect these NFTs bought for ETH as well as for BTC",t3_x1t5lk
+imfta8a,t3_x1t5lk,"Cool project, but it's quite limiting to only consider the top 100 coins (and no other EVM chains although it see it's in the pipeline). Zerion does almost the same but supports multiple chains and all tokens that have liquidity on major dexes.",t3_x1t5lk
+imgqpb4,t3_x1t5lk,Sending you a dm,t3_x1t5lk
+imggjf4,t1_img80lm,"Thank you. Consider following the [project on Twitter](https://twitter.com/UplineFinance), I will be posting aggregated analyses and insights there next month. Also helps me get it off the ground :D",t3_x1t5lk
+imigh51,t1_imgymwy,The reddit hug of death?!,t3_x1t5lk
+imhxgf0,t1_imgymwy,Getting the same error,t3_x1t5lk
+imj21qc,t1_imgymwy,Was an issue with Safari mobiles - should be fixed,t3_x1t5lk
+imgg2ka,t1_imgedcb,"Thanks - it's still working progress. 
+
+As a trader myself, I was more interested in medium-long term holders, rather than EMV-arb bots, and so I didn't really need instant alerts - monthly is fine.
+
+The alerts you do get, are more on a monthly basis e.g. You have X gains and losses in this month, you did Y trades and so on. This is a monthly summary report. 
+
+However, I'd be happy to hear your use-case and possibly add event-based alerts if you explain it to me. The code is written in a way to handle event/batch modes, so it's easily extendable.",t3_x1t5lk
+imkeg1c,t1_imi3r0p,"For the calculations, try to add a small ""i"" button where ever possible to show the summarized version of it. It will be faster for someone checking out website and easier for user.
+ UX is the biggest difference maker in these projects.",t3_x1t5lk
+imgga3o,t1_img1ln6,Thank you! Do consider following on here or the [project on Twitter](https://twitter.com/UplineFinance) \- I will be posting interesting updates and analyses there soon.,t3_x1t5lk
+imn3mm4,t1_imgpk4a,".eth lookup is coming. Will be adding it this week.
+
+Regarding L2, all chain with Uniswap/popular Dexs will be added, prioritised by volume traded. 
+
+Other chains will be added once Ethereum is fully supported.",t3_x1t5lk
+imn3pde,t1_imhamhb,I'll reach out to you here in the next weeks! Would love to collab,t3_x1t5lk
+imj2m52,t1_imho1yc,"Please do send your feedback - would be great to hear it so I can improve it.
+
+As for the numbers - currently I am using daily closing dates (instead of transaction rate), which works out great for my use-case of long term analytics, but isn't really perfect for arbing type of transactions.",t3_x1t5lk
+imigqdg,t1_imhpij7,"This should be now fixed - was a regex related issue on Safari mobiles. 
+
+Do reach out once you do - would love to hear your thoughts and suggestions.",t3_x1t5lk
+immsrkh,t1_immoelh,"This is actually a great idea.  If you'd like to collaborate on this, could you DM me with your with email/twitter to stay in touch about this?
+
+I have a lot yet to implement many features which are already on the roadmap, but this for sure will be happening at some stage. Perhaps a wider collaboration between artists, engineers, marketers etc. You would need to cover all different events, both on-chain and off, as well as account for the volume of a given event. How many people were affected by hacks etc.?",t3_x1t5lk
+img1sux,t1_imfta8a,"As the other comment has stated, it's not really an issue to add support for more tokens - it's quite trivial. 
+
+Zerion is great as a tracker / general explorer, rather than a tool for traders specifically, which is what I'm building (slightly different utility but almost the same underlying data).",t3_x1t5lk
+imfwlbx,t1_imfta8a,"I would think as far as getting it off the ground, is reasonable.  Not hard to call whatever apis he’s using to generate more than top 100 once he builds the features out a bit",t3_x1t5lk
+img2bam,t1_imfta8a,Cool comment but you suck.,t3_x1t5lk
+iml4jfz,t1_imigqdg,"I would love icons that when you hover over them give definitions for some of the words, like draw down etc. this is a gorgeous tool, and I will be using it! If you had an api that would be *chefs kiss*",t3_x1t5lk
+iml4odn,t1_imigqdg,"I’m building an nft insider tool using python now, if you’d like to chat about things I’d love to jump on a call. Feel free to dm me your contact info and that would probably be a lot of fun haha",t3_x1t5lk
+immvxme,t1_immsrkh,"Thank you for your response!  
+I think there would be enough people willing to pay to mint collectibles for flexing their OG status.  
+Maybe with the Facebook and Instagram NFT integration, people will want to collect NFTs which can be shown to their friends how early we were in the space :-)  
+  
+You are right, there would be also need for artists to draw some appealing NFTs for the ETH community to be willing to mint, but it can be a step-by-step process.  
+Maybe to start with the easiest conditions, for example first transactions < older than 3 years -> OG ETH NFT mint opportunity, not to overcomplicate it from beginning on.
+
+  
+Later on, saying, every month, a new NFT can be added with new conditions and all would be able to mint the new one again (ex. a more complicated condition, to check who added ETH between 01.01.2018 and 01.01.2019 or something like that).
+
+  
+I will send you a DM with my contacts, but besides additional ideas and maybe some funding, I am not sure how I could help :-)",t3_x1t5lk
+imhcsp7,t1_img1sux,"Nice, looking forward to the upgrades!",t3_x1t5lk
+imhd04u,t1_img1sux,"Other question : how do you deal with P&L calculations for tokens that get airdropped (for example after a seed sale), tokens that apply a tax on transactions, wallet-to-wallet transfers etc?",t3_x1t5lk
+imgg4tc,t1_imfwlbx,Thats exactly the plan,t3_x1t5lk
+imn4haw,t1_imhd04u,"I should probably create a blog post on the metrics and I will at some point, but in short, every transfer is treated as an inflow/outflow. It's a standard P&L calculation in portfolio management that you see in funds. There is no way to account for airdropped tokens unless their price is discovered on uniswap already (which I use for pricing). 
+
+To simplify all these issues, I'm just looking at top 100 tokens. 
+
+But expanding to all tokens is trivial.",t3_x1t5lk

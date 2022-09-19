@@ -1,0 +1,19 @@
+comment_id,comment_parent_id,comment_body,comment_link_id
+imgtclq,t3_x1syk6,"Those things should all be exactly the same and you can keep transacting immediately before and after the merge. RPC will work the same. I guess there's a higher risk of reorgs if miners start playing silly buggers right before the merge or something goes wrong right after it, so centralized exchanges will generally pause withdrawals for an hour or two, but dapps should generally not have to do anything.
+
+There are some changes that might conceivably affect your contracts. The biggest one is that if you were using `block.hash` as a shitty random number generator, it's now even shittier. You can now use something called `PREVRANDAO` instead, which is the new name for the opcode that used to reference `block.difficulty`. This link has all the details, which you probably don't need to read:
+https://blog.ethereum.org/2021/11/29/how-the-merge-impacts-app-layer
+
+If you're running your own node (eg Geth) and using it for RPC data, you'll need to also run a beacon client (eg Lighthouse or Prism) and do some configuration to connect the two involving a file with a shared secret called something like `jwtsecret`. The beacon client will need some time to sync up, so set that up before the merge to make sure service is uninterrupted.",t3_x1syk6
+imgr5c1,t3_x1syk6,Put a  helmet  on that is all  I  am  doing.,t3_x1syk6
+imlrpc0,t3_x1syk6,Unless you are a miner or a validator nothing changes for you.,t3_x1syk6
+imfjdfh,t3_x1syk6,Ignoring crypto and shunning NFTs has worked very well for me since 2018. I suggest you do the same. #LongHoldFTW,t3_x1syk6
+imkmb9x,t1_imgtclq,"I hold erc20 stables should i just keep them through the merge or buy eth ? I cant find an abswer to that , do i risk something by holding stables ?
+
+A gyu told me i should buy eth before merge another one told me im fine holding stables through merge ...",t3_x1syk6
+imhxmz2,t1_imfjdfh,"Given that you're posting in a cryptocurrency subreddit, I think you're actually not doing very well at the ""ignoring crypto"" thing.",t3_x1syk6
+imkw88r,t1_imkmb9x,"You can keep them, it's fine.
+
+The argument for trading out to ETH is that there are some people saying they're going to make a PoW fork of Ethereum, which would mean that everyone who currently holds ETH will also be credited with some new token on their PoW chain. Stablecoins will be worth zero on the other chain because USDC/USDT will put the dollars in their bank account behind the PoS version, and DAI will be wildly undercollateralized on the PoW version. So you might prefer to have ETH so you get these extra coins. However you can also argue that the value of the ETH on the PoW fork will be split from the value of the ETH pre-fork (eg if 1 ETH is $1500 pre-fork, the fork will turn it into 1 PoS ETH worth $1450 and 1 PoW ETH worth $50) so stablecoins are better because you avoid the need to faff with the fork chain to access the full value of your pre-fork money. My advice would be to do nothing.",t3_x1syk6
+imkwl84,t1_imkw88r,So i guess ill have go watch my stables worth zero until the new coins are sent to me?,t3_x1syk6
+imkwn7x,t1_imkw88r,Thx fordetailed answer btw,t3_x1syk6
