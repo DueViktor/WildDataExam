@@ -9,7 +9,7 @@ def scrape_it(coin_name:str):
     # Pandas dataFrame for the same data
     df = scraper.get_dataframe()
 
-    df.to_csv(f'data/coinmarket-{coin_name}.csv')
+    df.to_csv(f'coin-data/coinmarket-{coin_name}.csv')
 
 if __name__ == '__main__':
     coins = ['BTC','XRP','ETH','SOL','DOT'] 
