@@ -3,7 +3,8 @@
 from cryptocmd import CmcScraper
 from config import COINS_DIR
 
-def scrape_it(coin_name:str):
+
+def scrape_it(coin_name: str):
     # initialise scraper without time interval
     scraper = CmcScraper(coin_name)
 
@@ -12,8 +13,9 @@ def scrape_it(coin_name:str):
 
     df.to_csv(f'{COINS_DIR}/coinmarket-{coin_name}.csv')
 
+
 if __name__ == '__main__':
-    coins = ['BTC','XRP','ETH','SOL','DOT'] 
+    coins = ['BTC', 'XRP', 'ETH', 'SOL', 'DOT']
     for coin in coins:
         print(f'Scraping {coin}')
         scrape_it(coin_name=coin)
