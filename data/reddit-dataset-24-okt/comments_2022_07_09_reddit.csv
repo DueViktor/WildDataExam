@@ -1,0 +1,1085 @@
+all_awardings,archived,associated_award,author,author_flair_background_color,author_flair_css_class,author_flair_richtext,author_flair_template_id,author_flair_text,author_flair_text_color,author_flair_type,author_fullname,author_patreon_flair,author_premium,body,body_sha1,can_gild,collapsed,collapsed_because_crowd_control,collapsed_reason,collapsed_reason_code,comment_type,controversiality,created_utc,distinguished,gilded,gildings,id,is_submitter,link_id,locked,no_follow,parent_id,permalink,retrieved_utc,score,score_hidden,send_replies,stickied,subreddit,subreddit_id,subreddit_name_prefixed,subreddit_type,top_awarded_type,total_awards_received,treatment_tags,unrepliable_reason
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657318332,moderator,0,{},ifegt79,False,t3_vumamp,True,True,t3_vumamp,/r/solana/comments/vumamp/steth_depeg_and_liquid_staking_comparisons_to/ifegt79/,1657318347,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,RemindMeBot,,,[],,,,text,t2_gbm4p,False,False,"I will be messaging you in 1 year on [**2023-07-08 22:03:43 UTC**](http://www.wolframalpha.com/input/?i=2023-07-08%2022:03:43%20UTC%20To%20Local%20Time) to remind you of [**this link**](https://www.reddit.com/r/solana/comments/vu9nat/2000_sol_goal/ifefn7f/?context=3)
+
+[**CLICK THIS LINK**](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5Bhttps%3A%2F%2Fwww.reddit.com%2Fr%2Fsolana%2Fcomments%2Fvu9nat%2F2000_sol_goal%2Fifefn7f%2F%5D%0A%0ARemindMe%21%202023-07-08%2022%3A03%3A43%20UTC) to send a PM to also be reminded and to reduce spam.
+
+^(Parent commenter can ) [^(delete this message to hide from others.)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Delete%20Comment&amp;message=Delete%21%20vu9nat)
+
+*****
+
+|[^(Info)](https://www.reddit.com/r/RemindMeBot/comments/e1bko7/remindmebot_info_v21/)|[^(Custom)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=Reminder&amp;message=%5BLink%20or%20message%20inside%20square%20brackets%5D%0A%0ARemindMe%21%20Time%20period%20here)|[^(Your Reminders)](https://www.reddit.com/message/compose/?to=RemindMeBot&amp;subject=List%20Of%20Reminders&amp;message=MyReminders%21)|[^(Feedback)](https://www.reddit.com/message/compose/?to=Watchful1&amp;subject=RemindMeBot%20Feedback)|
+|-|-|-|-|",05b095310efec7241ec61cf7f25c5d9d45aba9b9,True,False,,,,,0,1657317857,,0,{},ifefq0d,False,t3_vu9nat,False,True,t1_ifefn7f,/r/solana/comments/vu9nat/2000_sol_goal/ifefq0d/,1657317870,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,space0range11,,,[],,,,text,t2_c5kwnrrs,False,False,!remindme 1 year,bc8a906b778f137ebb67634ea8cd00560a5052b8,True,False,,,,,0,1657317823,,0,{},ifefn7f,False,t3_vu9nat,False,True,t1_ifee0lx,/r/solana/comments/vu9nat/2000_sol_goal/ifefn7f/,1657317838,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,PrestigiousPut3061,,,[],,,,text,t2_baq1eebz,False,False,"Good post. I like the Step team. 
+
+There is no actual peg that has been de pegged. All stETH is backed by ETH + staking rewards and can be redeemed for those once merge is done and distribution is unlocked. That is the contract a staker signed up for. That is the actual “peg.”
+
+stETH has inefficiencies on the *secondary market* right now because ETH once staked cannot be unstaked. Therefore if you have stETH and need liquidity fast, like in a crash, you need to go to the secondary market, and not lido, to trade with someone who has unstaked ETH. This will inherently be inefficient because unlike with SOL, you cannot go to Lido direct to redeem for ETH (thereby providing market competition keeping the secondary market actors trading at the correct price, “the peg”). secondary market realizes there is a premium they deserve for having the unstaked asset that people want and are simply charging for that based on supply and demand. It’s actually quite healthy. Nothing to be worried about. In fact, if you’re pro-merge and want to stake ETH, you should doing through the secondary market, get stETH, and collect on the premium.",0c9b437f86e00e9276391d7ff963728a53f31dcd,True,False,,,,,0,1657321871,,0,{},ifeos6y,False,t3_vumamp,False,True,t3_vumamp,/r/solana/comments/vumamp/steth_depeg_and_liquid_staking_comparisons_to/ifeos6y/,1657321883,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,cademore7,,,[],,,,text,t2_2jc3ebp3,False,False,"A lot of people who advertise on Reddit are already dumping on whoever listens and buys. May not be his case, just sayin",80393ec9515e37c0800cbcf164bb89962f9f9de9,True,False,,,,,0,1657321858,,0,{},ifeor69,False,t3_vu9nat,False,True,t1_ifea25k,/r/solana/comments/vu9nat/2000_sol_goal/ifeor69/,1657321869,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657321582,,0,{},ifeo5px,False,t3_vu9nat,False,True,t1_ifdq0hf,/r/solana/comments/vu9nat/2000_sol_goal/ifeo5px/,1657321595,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Tenno90,,,[],,,,text,t2_yodn6,False,False,I’m aiming for ten. N I thought that was ambitious enough,36f2da2589f22cd8c24b0012e71117d38e18dc79,True,False,,,,,0,1657320818,,0,{},ifemh4x,False,t3_vu9nat,False,True,t3_vu9nat,/r/solana/comments/vu9nat/2000_sol_goal/ifemh4x/,1657320837,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657320727,moderator,0,{},ifem9w2,False,t3_vun5jg,True,True,t3_vun5jg,/r/solana/comments/vun5jg/in_the_bear_market_we_build_presenting_gaming_ens/ifem9w2/,1657320738,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Darkc0iL,,,[],,,,text,t2_14r12v,False,False,"whoever brags how much they have/good they are usually get rekt in funny ways. when I got into crypto in mid 2013 first thing I learned is you NEVER say how much crypto you have, heck you don't say you even crypto. Buy crypto and don't tell anyone, if u want to brag tell them how poor you are because crypto crashes all the time...",89c2407a2e78fdc3dd1dbdcdcd51068cd06ebde2,True,False,,,,,0,1657323496,,0,{},ifesa4l,False,t3_vu9nat,False,True,t3_vu9nat,/r/solana/comments/vu9nat/2000_sol_goal/ifesa4l/,1657323508,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,exclaim_bot,,,[],,,,text,t2_ko79fwmf,False,False,"&gt;Great info! Thanks!
+
+You're welcome!",b3182fdc03b5dac2451fbf32b093628600695648,True,False,,,,,0,1657322665,,0,{},ifeqhrm,False,t3_vumamp,False,True,t1_ifeqgu6,/r/solana/comments/vumamp/steth_depeg_and_liquid_staking_comparisons_to/ifeqhrm/,1657322675,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,ceagleoneism,,,[],,,,text,t2_1cij5p9j,False,False,Great info! Thanks!,2bb46d4de848e9aea32ed070358af13848d54502,True,False,,,,,0,1657322653,,0,{},ifeqgu6,True,t3_vumamp,False,False,t1_ifeos6y,/r/solana/comments/vumamp/steth_depeg_and_liquid_staking_comparisons_to/ifeqgu6/,1657322668,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,lostharbor,,,[],,,,text,t2_lzh5u,False,False,A humble bragging douche bag is all it is.,c2d78d119e25bec5b2b55d8285293c70210eb665,True,False,,,,,0,1657325311,,0,{},ifew38b,False,t3_vu9nat,False,True,t1_ifcqupt,/r/solana/comments/vu9nat/2000_sol_goal/ifew38b/,1657325323,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,A_Dancing_Coder,,,[],,,,text,t2_pi5n7,False,False,Whatever you're building is gonna fail with that kind of attitude lmao,0128a5acd52ae29d1e9cd39802e0597b3bbdb37b,True,False,,,,,0,1657324678,,0,{},ifeus0q,False,t3_vtytjo,False,True,t1_ifd4c62,/r/solana/comments/vtytjo/why_im_not_paying_the_0000167sol_to_mint_a_nft/ifeus0q/,1657324692,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,A_Dancing_Coder,,,[],,,,text,t2_pi5n7,False,False,Whatever you're building is gonna fail with that kind of attitude lmao,0128a5acd52ae29d1e9cd39802e0597b3bbdb37b,True,False,,,,,0,1657324639,,0,{},ifeup36,False,t3_vtytjo,False,True,t1_ifd4c62,/r/solana/comments/vtytjo/why_im_not_paying_the_0000167sol_to_mint_a_nft/ifeup36/,1657324655,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,gtd_nc,,,[],,,,text,t2_bpry4swh,False,False,"The one I like so far that could possibly do well in the next bear is Near protocol. Also looking at gaming. Some of the gaming crypto might be high risk possible high reward. BTW, this is not financial advice.",5b187fd309bcc8b7944e34486a415e16ff92f9bb,True,False,,,,,0,1657326978,,0,{},ifezk4y,False,t3_vu9nat,False,True,t1_ifcpgcc,/r/solana/comments/vu9nat/2000_sol_goal/ifezk4y/,1657326991,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,qviavdetadipiscitvr,,,[],,,,text,t2_4oq0lkfb,False,False,Only the best and most successful ones,6548d23a4d39435f2caaba8187d058f9e1d77f49,True,False,,,,,0,1657326504,,0,{},ifeykye,False,t3_vu9nat,False,True,t1_ifecicu,/r/solana/comments/vu9nat/2000_sol_goal/ifeykye/,1657326522,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Seomonreg,,,[],,,,text,t2_f3zt5ev5,False,False,"Why is that?
+
+Hydra is on its way but native scaling is doing well afaik.",ddfd1205c4e8eb4390cff740f85cf8726447a711,True,False,,,,,0,1657331279,,0,{},iff8aea,False,t3_vt7jgu,False,True,t1_ifbe3z6,/r/solana/comments/vt7jgu/my_eth_loving_friends_are_giving_me_shit/iff8aea/,1657331291,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,boywholived1,,,[],,,,text,t2_13c6cp,False,False,I have SOL and XLM and prefer SOL over ADA gonna research KDA and XRP,32ae4f17284528016810976835fb12a292cc5d71,True,False,,,,,0,1657336318,,0,{},iffibm0,False,t3_vu9nat,False,True,t1_iffhw77,/r/solana/comments/vu9nat/2000_sol_goal/iffibm0/,1657336329,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,OpportunityNo1495,,,[],,,,text,t2_a2bxrhim,False,False,"KDA, XLM, ADA, XRP… throw a little bit at all of them and see what sticks.",07abe0e770db9673c3a4856428eec20fa2290d1b,True,False,,,,,0,1657336093,,0,{},iffhw77,False,t3_vu9nat,False,True,t1_ifcpgcc,/r/solana/comments/vu9nat/2000_sol_goal/iffhw77/,1657336104,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,nickdamicks,,,[],,,,text,t2_akstptyk,False,False,I’m sitting at 25 sol I grabbed when the market dumped and I couldn’t be happier,c428c11c5f9d9cdd5a0bb600782672c6530cf312,True,False,,,,,0,1657335610,,0,{},iffgymi,False,t3_vu9nat,False,True,t3_vu9nat,/r/solana/comments/vu9nat/2000_sol_goal/iffgymi/,1657335625,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,coppi6976,,,[],,,,text,t2_avv0md1a,False,False,Many DeGods.,1d4e70c8e3434c133960214c38c66a1336a1219a,True,False,,,,,0,1657338932,,0,{},iffn4g7,False,t3_vu9nat,False,True,t1_ifeanha,/r/solana/comments/vu9nat/2000_sol_goal/iffn4g7/,1657338949,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,coppi6976,,,[],,,,text,t2_avv0md1a,False,False,Mine is 10k SOL,c5eb70d34f7737c8fb741306e0c2cc392ad0ddf6,True,False,,,,,0,1657338872,,0,{},iffn0ow,False,t3_vu9nat,False,True,t3_vu9nat,/r/solana/comments/vu9nat/2000_sol_goal/iffn0ow/,1657338891,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,crypt0kiddie,,,[],,,,text,t2_b531pgij,False,False,"I'm a professional.
+
+Very professional, for sure, most professional.
+
+Head will cost you $60, $150 for full service. No bareback.
+
+&amp;#x200B;
+
+&amp;#x200B;
+
+I mean, how the fuck else am I supposed to afford crypto?!! I was holding LUNA!",c0c6616919435817454ba555bdc45dc07ebe4866,True,False,,,,,0,1657338664,,0,{},iffmncy,False,t3_vu9nat,False,True,t1_ifecicu,/r/solana/comments/vu9nat/2000_sol_goal/iffmncy/,1657338681,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,PBandJ_maniac,,,[],,,,text,t2_8on7bhx5,False,False,a fool and its money are soon partying...,54b3728c06958637e28c65d9f4b5abaa23f15934,True,False,,,,,0,1657337996,,0,{},ifflfzg,False,t3_vu9nat,False,True,t1_ifcqupt,/r/solana/comments/vu9nat/2000_sol_goal/ifflfzg/,1657338010,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,SC_safecoin,,,[],,,,text,t2_5bb4yo8d,False,False,More details here: https://www.safecoin.org/sustainability/,50e9976dea579879757b6cb881d8c71f9f192b88,True,False,,,,,0,1657337859,,0,{},iffl6zp,False,t3_vusmft,False,True,t3_vusmft,/r/solana/comments/vusmft/safecoin_raising_the_bar_in_blockchain_energy/iffl6zp/,1657337872,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657337795,moderator,0,{},iffl2sl,False,t3_vusmft,True,True,t3_vusmft,/r/solana/comments/vusmft/safecoin_raising_the_bar_in_blockchain_energy/iffl2sl/,1657337812,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,PizzaNoCheese3000,,,[],,,,text,t2_53dnzkvv,False,False,Love phantom,2fc962e6ea63db179ec3ba6009525bc19ca6232a,True,False,,,,,0,1657340988,,0,{},iffqn1z,False,t3_vuliee,False,True,t3_vuliee,/r/solana/comments/vuliee/phantom_wallet_issue_being_fixed/iffqn1z/,1657341004,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Gamevid4,,,[],,,,text,t2_5m75o,False,False,Yet another great achievement by SafeCoin.,cc6c81bb387641ae3fbf537da54cba8b274e4a1a,True,False,,,,,0,1657340934,,0,{},iffqjti,False,t3_vusmft,False,True,t3_vusmft,/r/solana/comments/vusmft/safecoin_raising_the_bar_in_blockchain_energy/iffqjti/,1657340946,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,coppi6976,,,[],,,,text,t2_avv0md1a,False,False,"DeGods, Taiyo Robotics, Degenerate Ape Academy, Bohemia, Blocksmiths Labs,",28d3e56313c3d7405ab9b18ca27aae6226e3f3ae,True,False,,,,,0,1657339839,,0,{},iffopam,False,t3_vu84cn,False,True,t3_vu84cn,/r/solana/comments/vu84cn/promising_project_or_not_really/iffopam/,1657339856,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,dopef123,,,[],,,,text,t2_98kql,False,False,Nice. I've been slowly stacking up a few hundred. Trying to get to 1k,bb3ae5bc5cba5b4cee2a988ce450dde0d5d4050b,True,False,,,,,0,1657343144,,0,{},iffu4xt,False,t3_vu9nat,False,True,t3_vu9nat,/r/solana/comments/vu9nat/2000_sol_goal/iffu4xt/,1657343157,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,sdcvbhjz,,,[],,,,text,t2_17resl,False,False,Eth 2.0 is also on its way. Until its on at least testnet its not worth using it in arguments imo.,afc11a6ba31321bf674e560309269755a6ebf99e,True,False,,,,,0,1657349895,,0,{},ifg3t0a,False,t3_vt7jgu,False,True,t1_iff8aea,/r/solana/comments/vt7jgu/my_eth_loving_friends_are_giving_me_shit/ifg3t0a/,1657349910,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,martok-666,,,[],,,,text,t2_fjkr8l2q,False,False,"Great Work! Energy is becoming more and more valuable. This makes high energy efficiency all the more important. 
+
+Compared to a Solana transaction (uses 0.00051 kWh), 0,000000025 kw/tx is amazing",9e483032da337f01729bd52c25a99735c6d2b425,True,False,,,,,0,1657348240,,0,{},ifg1l17,False,t3_vusmft,False,True,t3_vusmft,/r/solana/comments/vusmft/safecoin_raising_the_bar_in_blockchain_energy/ifg1l17/,1657348253,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,EvilZeroSc,,,[],,,,text,t2_12lr19,False,False,This is crazy Solana cannot handle real world adoption. Imagine when the whole world is using crypto.,7a6f778e221e42d9f88ad9df5a7d996151f7c8f2,True,False,,,,,0,1657350990,,0,{},ifg57qt,False,t3_vujp6n,False,True,t3_vujp6n,/r/solana/comments/vujp6n/solana_network_upgrades/ifg57qt/,1657351007,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657350681,moderator,0,{},ifg4tt8,False,t3_vuw47i,True,True,t3_vuw47i,/r/solana/comments/vuw47i/jjaann_opens_a_metaverse_for_alcohol_enthusiasts/ifg4tt8/,1657350697,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,QuarkGrandNagus,,,[],,,,text,t2_avo1i0yl,False,False,This,7971e6a051104074fdae0f02322417b6eb5695a2,True,False,,,,,0,1657350031,,0,{},ifg3zbw,False,t3_vu84cn,False,True,t1_iffopam,/r/solana/comments/vu84cn/promising_project_or_not_really/ifg3zbw/,1657350045,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Aggravating-Sink-244,,,[],,,,text,t2_aworfyde,False,False,I would distribute my money other more coins then just one. And remember there is not a real fixed supply here and Solana‘s Inflation quite high. I‘d put most of my money into coins with a relatively low fixed supply.,954372717cb28a582c767205eb182524ceb4d36f,True,False,,,,,0,1657352380,,0,{},ifg6z5j,False,t3_vu9nat,False,False,t3_vu9nat,/r/solana/comments/vu9nat/2000_sol_goal/ifg6z5j/,1657352396,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,UniFarm_,,,[],,,,text,t2_fd0aiyya,False,True,"Great initiative but you should always diversify your portfolio to maximize benefits...
+
+All the best...",476ee4a280307a550d7c589416e664c085f7868e,True,False,,,,,0,1657352306,,0,{},ifg6vqu,False,t3_vu9nat,False,True,t3_vu9nat,/r/solana/comments/vu9nat/2000_sol_goal/ifg6vqu/,1657352319,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,OptionalMangoes,,,[],,,,text,t2_azjmldje,False,False,Really? Why?,9b5daaeba8e7870f872b7fc36cc80215bd446855,True,False,,,,,0,1657356867,,0,{},ifgce90,False,t3_vu9nat,False,True,t1_ifdpmd5,/r/solana/comments/vu9nat/2000_sol_goal/ifgce90/,1657356880,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Hellish_Plunder,,,[],,,,text,t2_pkkaivtx,False,False,"No. NFTs still have utility.
+
+Our project - [Hellish Plunder](https://hellish-plunder.com/) \- uses NFT in a revolutionary financial model:
+
+**Passive income from owning NFT: Casinos rent your NFT for game sessions**
+
+It's like you buy an RPG character and rent it to other players. But in our case it is casinos who take your NFT and pay you for it.
+
+Our NFTs are like houses. If you have one, you can get passive income from it.",0b2ee32dd5153a2745d7da9f2764968a1755afbb,True,False,,,,,0,1657356493,,0,{},ifgbyfe,False,t3_vpmm2g,False,True,t3_vpmm2g,/r/solana/comments/vpmm2g/nfts_great_voyage_era_is_over/ifgbyfe/,1657356509,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,MinkusODonnahue,,,[],,,,text,t2_b3kio,False,False,"
+This is terrible advice… 
+
+“there’s always a bull run after a bear market and bear markets usually last a year?”
+
+Historically, bear markets have lasted YEARS, and there’s no guarantee that a bull market is always going to follow a bull market.
+
+I’m no bear, but try to go easy on telling people how they can retire if they follow the advice of someone who gets paid to shill crypto. Videos are great for noobs who are trying to learn the basics, but don’t take the advice of a YouTuber and - for fuck’s sake - please don’t recommend that another redditor takes the advice of a YouTuber..",172fc1996ffdc554d59ca5e493502e20e3f83085,True,False,,,,,0,1657364509,,0,{},ifglkpn,False,t3_vu9nat,False,True,t1_ifdfqxt,/r/solana/comments/vu9nat/2000_sol_goal/ifglkpn/,1657364524,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Clappedidiot,,,[],,,,text,t2_3t9y6exw,False,False,"Yeah💯 and Shiba Inu going to 100k, that’s why I bought 10 of them!",c1854492df0928262244f7010baf479830b5db09,True,False,,,,,0,1657364259,,0,{},ifgl95f,False,t3_vu9nat,False,True,t1_ifcpxwi,/r/solana/comments/vu9nat/2000_sol_goal/ifgl95f/,1657364275,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Clappedidiot,,,[],,,,text,t2_3t9y6exw,False,False,Do what you want,3e7d8b4476a99e0856da361fe4eee824c23cc05a,True,False,,,,,0,1657364181,,0,{},ifgl5jx,False,t3_vu9nat,False,True,t3_vu9nat,/r/solana/comments/vu9nat/2000_sol_goal/ifgl5jx/,1657364199,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Either-Welder-1034,,,[],,,,text,t2_a0xnetgu,False,False,Go get a job quick style then bro. You don't wanna still be job hunting when the actual recession breaks over us like a massive rogue set wave,ef7b7d653ee3fb9b219b35dcc0f97de5fab4b328,True,False,,,,,0,1657363893,,0,{},ifgkshc,False,t3_vu9nat,False,True,t1_ife0wwg,/r/solana/comments/vu9nat/2000_sol_goal/ifgkshc/,1657363906,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Either-Welder-1034,,,[],,,,text,t2_a0xnetgu,False,False,Why tho?,3e80c07ec22497a85129f05174f1d5f7ed2d84fb,True,False,,,,,0,1657363752,,0,{},ifgklxv,False,t3_vu9nat,False,True,t1_ifcpxwi,/r/solana/comments/vu9nat/2000_sol_goal/ifgklxv/,1657363766,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Dramatic-Shirt-3711,,,[],,,,text,t2_b930qf9t,False,False,"Trust me, where I live, my people are low key ignored when looking for work. Despite having a solid education, it's been 2 years of looking.
+Crypto and nft flipping has helped but it's dry again.",a2c3b3aa1cba613e4a9ae9b91c87fad2172055f1,True,False,,,,,0,1657366534,,0,{},ifgocil,False,t3_vu9nat,False,True,t1_ifgkshc,/r/solana/comments/vu9nat/2000_sol_goal/ifgocil/,1657366551,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,leofroger,,,[],,,,text,t2_enbmwpw6,False,False,Only invest what you can afford to loose....,ded96a8357480b0a588b22d1b177700dac68d558,True,False,,,,,0,1657366283,,0,{},ifgnzit,False,t3_vu9nat,False,True,t3_vu9nat,/r/solana/comments/vu9nat/2000_sol_goal/ifgnzit/,1657366298,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Niagaraballs71,,,[],,,,text,t2_5ksp843c,False,False,"According to Motley Fool, the average bear market lasts 388 days, which is less than a month over one year.  According to Seeking Alpha, which analyzed every bear market since 1928,the longest bear market in record was 630 days in 1973-74.  That's less than two years.  The second longest bear market on record was 1980-1982 and was 622 days, also a little less than two years.  
+
+So, when you say bear markets can last years and the longest one was just short of two years, where are you getting that information?  My ""terrible advice"" seems a little less terrible in light of the numbers.  Did you have opposing data you'd like to site to contradict those two sources?",f649aa5fc6f5271a72db0e971651cbef1772f4e9,True,False,,,,,0,1657365586,,0,{},ifgn0kt,False,t3_vu9nat,False,True,t1_ifglkpn,/r/solana/comments/vu9nat/2000_sol_goal/ifgn0kt/,1657365599,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,mitchell-suchner,,,[],,,,text,t2_o0junerm,False,False,nevermind I think I found it already lol. There is a little blue button that says unstake.,1b6edad020134e12a251051f6a9919b118673f4f,True,False,,,,,0,1657371144,,0,{},ifgvoix,True,t3_vv11gx,False,True,t3_vv11gx,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifgvoix/,1657371161,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657371045,moderator,0,{},ifgvifn,False,t3_vv11gx,True,True,t3_vv11gx,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifgvifn/,1657371058,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AmunTokens,,,[],,,,text,t2_dphudve4,False,False,So surprised that so little SOL is liquid staked. Makes me think there is not enough education in the system or that Marinade needs to step it up with getting people to stake their SOL with them.,2d14f466c0c35a3f59a2aa8319cd4f3a584c30ca,True,False,,,,,0,1657370457,,0,{},ifguhzp,False,t3_vumamp,False,True,t3_vumamp,/r/solana/comments/vumamp/steth_depeg_and_liquid_staking_comparisons_to/ifguhzp/,1657370475,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Seomonreg,,,[],,,,text,t2_f3zt5ev5,False,False,"not what I asked... but I think it definitely is a valid argument... ETH 2.0 is delayed considerably already. If that happened with Cardano all the maxis would be shouting from the rooftops: Cardano so slow
+
+I mean, it's not like the blockchain crashing or anything but still a valid argument in my view.",d824f61200e5fb20993e0eaf481d7f45029e8532,True,False,,,,,0,1657370140,,0,{},ifgtysd,False,t3_vt7jgu,False,False,t1_ifg3t0a,/r/solana/comments/vt7jgu/my_eth_loving_friends_are_giving_me_shit/ifgtysd/,1657370152,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Initial_Blueberry_29,,,[],,,,text,t2_dzsj1jpi,False,False,Hi! Newbie here. When you say “get stETH” did you mean stake via Lido or get them from trading or buying from the secondary market? And how do you collect the premium please. I have been thinking about stETH but still not sure as I need more understanding of it. Thanks!,c8b4fad68c5c8f46c29b8ca069f9596f4320428c,True,False,,,,,0,1657371802,,0,{},ifgwu6h,False,t3_vumamp,False,True,t3_vumamp,/r/solana/comments/vumamp/steth_depeg_and_liquid_staking_comparisons_to/ifgwu6h/,1657371814,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Tutu_ny,,,[],,,,text,t2_ip6ouspp,False,False,Avoid my dick bruh.,a564b755b55a50c222a3c2dd59f8388c1d054c9d,True,False,,,,,0,1657375756,,0,{},ifh4fd3,True,t3_vtytjo,False,True,t1_ifdywph,/r/solana/comments/vtytjo/why_im_not_paying_the_0000167sol_to_mint_a_nft/ifh4fd3/,1657375773,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,rekt_noobb,,,[],,,,text,t2_nvnrcz95,False,False,Jeez thats a lot of money honey 🤑 Can you tell me how to invest into Celsius?? I heard your money is so safely locked up that you can’t even take it out yourself 🥴,7eb3fab64326b0b69bf3470ba06fa0e338a8314b,True,False,,,,,0,1657375449,,0,{},ifh3sdv,False,t3_vu9nat,False,True,t1_iffmncy,/r/solana/comments/vu9nat/2000_sol_goal/ifh3sdv/,1657375464,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jec84,,,[],,,,text,t2_4r6p0crg,False,False,Where can I follow this guy?!,7ed5bab03461f32f27197497def7d495ff46d2ac,True,False,,,,,0,1657374974,,0,{},ifh2tul,False,t3_vt50e2,False,True,t1_if6zohs,/r/solana/comments/vt50e2/solanas_key_backers_are_accused_of_violating/ifh2tul/,1657374992,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,FunEastern,,,[],,,,text,t2_aaf9v1pm,False,False,What about the lawsuit?,27d6e516a374f99aca28419dab6e38d5a2338374,True,False,,,,,0,1657374495,,0,{},ifh1vmd,False,t3_vuliee,False,True,t3_vuliee,/r/solana/comments/vuliee/phantom_wallet_issue_being_fixed/ifh1vmd/,1657374507,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,aselwyn1,,,[],,,,text,t2_3nnk3,False,False,Honestly it’s pretty hard in phantom to see the increase from staking and ya doesn’t show what % rate your getting,9a2af50e0c34f358f8c269e2d4c5fa6da50e3ff5,True,False,,,,,0,1657374311,,0,{},ifh1ip5,False,t3_vv11gx,False,True,t1_ifgvoix,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifh1ip5/,1657374325,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,lifesagamble2018zl1,,,[],,,,text,t2_guqr2lgz,False,False,I have no idea.,46ebbe8ed79efd73608207a8c318ea067b7e5223,True,False,,,,,0,1657377940,,0,{},ifh940l,False,t3_vt50e2,False,True,t1_ifh2tul,/r/solana/comments/vt50e2/solanas_key_backers_are_accused_of_violating/ifh940l/,1657377955,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,1Secret_Daikon,,,[],,,,text,t2_bi0sgel3,False,False,next time just use Kraken bro,271135445143a1b798f3bfcaad387df5e08ea63d,True,False,,,,,0,1657377396,,0,{},ifh7x78,False,t3_vv11gx,False,True,t1_ifgvoix,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifh7x78/,1657377412,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,FewMagazine938,,,[],,,,text,t2_bbflc379,False,False,DYOR,31da9709297d1f9cb57b3c3c3c7e5ec419c9fda2,True,False,,,,,0,1657376278,,0,{},ifh5i9q,False,t3_vv11gx,False,True,t1_ifgvoix,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifh5i9q/,1657376297,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657381798,moderator,0,{},ifhhybn,False,t3_vv4ks2,True,True,t3_vv4ks2,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifhhybn/,1657381815,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Illustrious_Sky7830,,,[],,,,text,t2_9hjmorrq,False,False,You thought you could get your stake back? Staking on Solana just means donating to SBF.,b77a3cbdbb48e37a5890e91df6df7e5c89278b42,True,False,,,,,0,1657380792,,0,{},ifhfn1a,False,t3_vv11gx,False,True,t3_vv11gx,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifhfn1a/,1657380808,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657384051,moderator,0,{},ifhn4l9,False,t3_vv5dnp,True,True,t3_vv5dnp,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifhn4l9/,1657384065,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,CBTKnox,,,[],,,,text,t2_461qqk4e,False,True,Hey there! It’s till the end of the current epoch. Give this a watch and it’ll make more sense https://youtu.be/jd56V8qEb44,62059d82b0def8c48890c4919d839b0bfd738d14,True,False,,,,,0,1657383880,,0,{},ifhmqam,False,t3_vv4ks2,False,True,t3_vv4ks2,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifhmqam/,1657383891,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,DaTuki,,,[],,,,text,t2_bwdm5cjd,False,False,Funny . Can’t believe people downvoted this,3d0f3bdf76df209258504d63038230e66c7eaec3,True,False,,,,,0,1657383161,,0,{},ifhl2lf,False,t3_vv11gx,False,True,t1_ifhfn1a,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifhl2lf/,1657383178,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657383106,moderator,0,{},ifhkxxv,False,t3_vv51m7,True,True,t3_vv51m7,/r/solana/comments/vv51m7/useful_tools_for_solana/ifhkxxv/,1657383123,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Pure_fuel_,,,[],,,,text,t2_nz4vthxy,False,False,If I remember right think it's 2 or 3 days for it to unstake,878eb39bb0df1fefaaf800f20f4e178354c72d7c,True,False,,,,,0,1657383059,,0,{},ifhku12,False,t3_vv4ks2,False,True,t3_vv4ks2,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifhku12/,1657383075,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Not_my_real_name____,,,[],,,,text,t2_ckzcq0d3,False,False,Yes.,c53c562dab4b33b3e42f3bc4d8e5719439a9c155,True,False,,,,,0,1657386483,,0,{},ifhssp8,False,t3_vv5dnp,False,False,t3_vv5dnp,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifhssp8/,1657386502,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657388217,moderator,0,{},ifhws6z,False,t3_vv6toq,True,True,t3_vv6toq,/r/solana/comments/vv6toq/icymi_hxro_making_progress_on_its_derivatives/ifhws6z/,1657388235,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,PrestigiousPut3061,,,[],,,,text,t2_baq1eebz,False,False,No. The lawsuit is absolute crap. Not remotely similar to XRP suit. Sleep easy.,04e62b6ed4a31a0b76012ce2372e4b3a800b3b3c,True,False,,,,,0,1657386944,,0,{},ifhtvbw,False,t3_vv5dnp,False,True,t3_vv5dnp,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifhtvbw/,1657386956,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390870,,0,{},ifi2q79,False,t3_vmhztg,False,True,t3_vmhztg,/r/solana/comments/vmhztg/just_to_make_sure_defi_like_celsius_vs_native/ifi2q79/,1657390883,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390859,,0,{},ifi2pae,False,t3_vn0nk5,False,True,t3_vn0nk5,/r/solana/comments/vn0nk5/usdc_payment_into_phantom_wallet/ifi2pae/,1657390875,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390850,,0,{},ifi2okx,False,t3_vm70ox,False,True,t3_vm70ox,/r/solana/comments/vm70ox/any_blockchain_that_tried_to_transact_what_solana/ifi2okx/,1657390868,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390846,,0,{},ifi2o97,False,t3_vmpp9e,False,True,t3_vmpp9e,/r/solana/comments/vmpp9e/best_space_to_view_solana_daos/ifi2o97/,1657390860,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390842,,0,{},ifi2nxq,False,t3_vmtpkl,False,True,t3_vmtpkl,/r/solana/comments/vmtpkl/daoplays_soft_launch/ifi2nxq/,1657390860,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390838,,0,{},ifi2nlj,False,t3_vmotbh,False,True,t3_vmotbh,/r/solana/comments/vmotbh/solana_beach_tps_drops_real_or_corrupted_data/ifi2nlj/,1657390853,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390832,,0,{},ifi2n5f,False,t3_vn4n92,False,True,t3_vn4n92,/r/solana/comments/vn4n92/crypto_accounting_software_for_web_3_companies/ifi2n5f/,1657390845,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390821,,0,{},ifi2m8h,False,t3_vn0cut,False,True,t3_vn0cut,/r/solana/comments/vn0cut/get_sysvars_in_c/ifi2m8h/,1657390837,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390817,,0,{},ifi2lvk,False,t3_vnchk0,False,True,t3_vnchk0,/r/solana/comments/vnchk0/newbie_seeking_for_advice/ifi2lvk/,1657390829,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390813,,0,{},ifi2ljw,False,t3_vnnivf,False,True,t3_vnnivf,/r/solana/comments/vnnivf/coinbase_staking/ifi2ljw/,1657390830,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390808,,0,{},ifi2l51,False,t3_vnbkgh,False,True,t3_vnbkgh,/r/solana/comments/vnbkgh/thank_you_solana_f_for_a_great_week_at_the_hacker/ifi2l51/,1657390822,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390804,,0,{},ifi2kss,False,t3_vnlq4f,False,True,t3_vnlq4f,/r/solana/comments/vnlq4f/fastest_growing_projects_in_the_sol_ecossystem/ifi2kss/,1657390822,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390800,,0,{},ifi2kgj,False,t3_vo231k,False,True,t3_vo231k,/r/solana/comments/vo231k/what_are_your_thoughts_about_mercurial_and_jupiter/ifi2kgj/,1657390814,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390796,,0,{},ifi2k54,False,t3_vo8e11,False,True,t3_vo8e11,/r/solana/comments/vo8e11/fast_unpacking_of_account_data_from_snapshots/ifi2k54/,1657390806,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390790,,0,{},ifi2jnk,False,t3_voeufs,False,True,t3_voeufs,/r/solana/comments/voeufs/how_to_import_solana_wallet_into_phantom_with/ifi2jnk/,1657390807,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390786,,0,{},ifi2jbn,False,t3_voezyh,False,True,t3_voezyh,/r/solana/comments/voezyh/solana_nakamoto_coefficient_increases/ifi2jbn/,1657390798,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390782,,0,{},ifi2j03,False,t3_vogjes,False,True,t3_vogjes,/r/solana/comments/vogjes/safest_exchange_to_keep_your_dry_powder_probably/ifi2j03/,1657390799,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390779,,0,{},ifi2ipc,False,t3_vo9p9n,False,True,t3_vo9p9n,/r/solana/comments/vo9p9n/nakamoto_coefficient_at_27/ifi2ipc/,1657390790,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390774,,0,{},ifi2ias,False,t3_vo81fr,False,True,t3_vo81fr,/r/solana/comments/vo81fr/414_solana_lost_sent_to_address_with_one_letter/ifi2ias/,1657390791,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390770,,0,{},ifi2hzj,False,t3_vp02ow,False,True,t3_vp02ow,/r/solana/comments/vp02ow/best_staking_providers/ifi2hzj/,1657390784,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390766,,0,{},ifi2hm1,False,t3_vp3cjg,False,True,t3_vp3cjg,/r/solana/comments/vp3cjg/solaland_launchpad_legit_or_scam/ifi2hm1/,1657390784,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390762,,0,{},ifi2hbn,False,t3_vp6jb2,False,True,t3_vp6jb2,/r/solana/comments/vp6jb2/weekly_summary_june_24_july_1_2022/ifi2hbn/,1657390776,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390758,,0,{},ifi2gxw,False,t3_vpkqa8,False,True,t3_vpkqa8,/r/solana/comments/vpkqa8/does_anywhere_have_ftt_put_selling_strategy/ifi2gxw/,1657390776,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390754,,0,{},ifi2gnv,False,t3_vpkxqh,False,True,t3_vpkxqh,/r/solana/comments/vpkxqh/how_do_i_take_snapshot_of_my_nft_holders_wallet/ifi2gnv/,1657390768,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390750,,0,{},ifi2gbt,False,t3_vpea8s,False,True,t3_vpea8s,/r/solana/comments/vpea8s/nft_staking_providers_with_customizable_ui/ifi2gbt/,1657390768,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390746,,0,{},ifi2g0v,False,t3_voy15v,False,True,t3_voy15v,/r/solana/comments/voy15v/major_solana_update_sol_sweet_friday_1_july/ifi2g0v/,1657390760,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390742,,0,{},ifi2fqa,False,t3_vpl17p,False,True,t3_vpl17p,/r/solana/comments/vpl17p/ledger_nano_cannot_find_an_already_created_sol/ifi2fqa/,1657390761,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390738,,0,{},ifi2fd9,False,t3_vpmm2g,False,True,t3_vpmm2g,/r/solana/comments/vpmm2g/nfts_great_voyage_era_is_over/ifi2fd9/,1657390753,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390734,,0,{},ifi2f2a,False,t3_vpp86x,False,True,t3_vpp86x,/r/solana/comments/vpp86x/how_to_transfer_my_matic_to_sol/ifi2f2a/,1657390745,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390730,,0,{},ifi2eos,False,t3_vq814m,False,True,t3_vq814m,/r/solana/comments/vq814m/legit_mainnet_solana_faucet/ifi2eos/,1657390746,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390725,,0,{},ifi2ebj,False,t3_vq9u3m,False,True,t3_vq9u3m,/r/solana/comments/vq9u3m/kucoin_withdrawals_on_sol_network_unavailable_for/ifi2ebj/,1657390738,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390721,,0,{},ifi2dz9,False,t3_vqqk3p,False,True,t3_vqqk3p,/r/solana/comments/vqqk3p/onchain_random_number_generators/ifi2dz9/,1657390738,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390716,,0,{},ifi2dk6,False,t3_vqkkuo,False,True,t3_vqkkuo,/r/solana/comments/vqkkuo/adding_more/ifi2dk6/,1657390731,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390711,,0,{},ifi2d37,False,t3_vqr6u0,False,False,t3_vqr6u0,/r/solana/comments/vqr6u0/another_hacked_storydouble_stupid_but_i_am_trying/ifi2d37/,1657390722,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390707,,0,{},ifi2cs0,False,t3_vquwwj,False,True,t3_vquwwj,/r/solana/comments/vquwwj/why_am_i_receiving_random_tokens_in_my_wallet/ifi2cs0/,1657390723,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390703,,0,{},ifi2ch9,False,t3_vqn4sx,False,True,t3_vqn4sx,/r/solana/comments/vqn4sx/one_of_canadas_main_regulated_exchanges_just/ifi2ch9/,1657390715,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390699,,0,{},ifi2c54,False,t3_vrhe7q,False,True,t3_vrhe7q,/r/solana/comments/vrhe7q/help_please_cant_by_nfts_signature_verification/ifi2c54/,1657390715,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390696,,0,{},ifi2btq,False,t3_vr22u6,False,True,t3_vr22u6,/r/solana/comments/vr22u6/aver_is_the_first_decentralised_prediction_and/ifi2btq/,1657390707,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390691,,0,{},ifi2bgd,False,t3_vrc64v,False,True,t3_vrc64v,/r/solana/comments/vrc64v/staking_sol_ledger/ifi2bgd/,1657390708,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390687,,0,{},ifi2b6b,False,t3_vrm8ts,False,True,t3_vrm8ts,/r/solana/comments/vrm8ts/dokia_validator_is_permanently_shutdown/ifi2b6b/,1657390699,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390684,,0,{},ifi2avb,False,t3_vrrpgu,False,True,t3_vrrpgu,/r/solana/comments/vrrpgu/buying_sol_outside_a_centralised_exchange_for_a/ifi2avb/,1657390699,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390678,,0,{},ifi2agf,False,t3_vroaw3,False,True,t3_vroaw3,/r/solana/comments/vroaw3/monthly_community_update_june_2022/ifi2agf/,1657390691,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390675,,0,{},ifi2a5e,False,t3_vrtv6l,False,False,t3_vrtv6l,/r/solana/comments/vrtv6l/solana_vs_polygon/ifi2a5e/,1657390692,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390671,,0,{},ifi29ui,False,t3_vrtxs4,False,True,t3_vrtxs4,/r/solana/comments/vrtxs4/what_are_the_best_nftcommunity_engagement/ifi29ui/,1657390685,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390667,,0,{},ifi29hu,False,t3_vs8htf,False,True,t3_vs8htf,/r/solana/comments/vs8htf/need_for_support/ifi29hu/,1657390677,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390663,,0,{},ifi296c,False,t3_vs571l,False,True,t3_vs571l,/r/solana/comments/vs571l/srly_vs_srly2/ifi296c/,1657390677,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390659,,0,{},ifi28uz,False,t3_vs2nj7,False,True,t3_vs2nj7,/r/solana/comments/vs2nj7/using_pyth_to_create_seeds_for_onchain_random/ifi28uz/,1657390670,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390655,,0,{},ifi28ic,False,t3_vsj175,False,True,t3_vsj175,/r/solana/comments/vsj175/suspicious_gift/ifi28ic/,1657390670,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390650,,0,{},ifi2842,False,t3_vs972h,False,True,t3_vs972h,/r/solana/comments/vs972h/if_fees_are_so_cheap_why_does_mass_adoption_of/ifi2842/,1657390661,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390645,,0,{},ifi27p3,False,t3_vsdyf9,False,True,t3_vsdyf9,/r/solana/comments/vsdyf9/sol_max_supply_question/ifi27p3/,1657390662,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,jazabivala,,,[],,,,text,t2_psjdd5jn,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390636,,0,{},ifi26yf,False,t3_vspaqs,False,True,t3_vspaqs,/r/solana/comments/vspaqs/i_am_looking_for_a_solana_developer_for_possible/ifi26yf/,1657390655,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390538,,0,{},ifi1yxv,False,t3_vsrxp6,False,True,t3_vsrxp6,/r/solana/comments/vsrxp6/is_it_possible_to_access_onchain_program_smart/ifi1yxv/,1657390556,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Mahyarr-,,,[],,,,text,t2_psgi6bqs,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390533,,0,{},ifi1yku,False,t3_vsjrvf,False,True,t3_vsjrvf,/r/solana/comments/vsjrvf/ukraine_sells_a_cryptopunk_nft_to_aid_war_efforts/ifi1yku/,1657390547,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390528,,0,{},ifi1y62,False,t3_vsrhaw,False,True,t3_vsrhaw,/r/solana/comments/vsrhaw/defense_against_the_dark_arts_be_wary_of_links/ifi1y62/,1657390548,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390517,,0,{},ifi1xb8,False,t3_vstjeq,False,True,t3_vstjeq,/r/solana/comments/vstjeq/how_magic_eden_went_from_0_to_95_market_share_in/ifi1xb8/,1657390532,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Mahyarr-,,,[],,,,text,t2_psgi6bqs,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390513,,0,{},ifi1wzk,False,t3_vt7jgu,False,True,t3_vt7jgu,/r/solana/comments/vt7jgu/my_eth_loving_friends_are_giving_me_shit/ifi1wzk/,1657390524,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390509,,0,{},ifi1wna,False,t3_vt50e2,False,True,t3_vt50e2,/r/solana/comments/vt50e2/solanas_key_backers_are_accused_of_violating/ifi1wna/,1657390525,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Mahyarr-,,,[],,,,text,t2_psgi6bqs,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390504,,0,{},ifi1w97,False,t3_vtytjo,False,True,t3_vtytjo,/r/solana/comments/vtytjo/why_im_not_paying_the_0000167sol_to_mint_a_nft/ifi1w97/,1657390516,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390500,,0,{},ifi1vxh,False,t3_vu64yg,False,True,t3_vu64yg,/r/solana/comments/vu64yg/just_realized_nfteyezglobal_is_down/ifi1vxh/,1657390517,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390496,,0,{},ifi1vm2,False,t3_vu84cn,False,True,t3_vu84cn,/r/solana/comments/vu84cn/promising_project_or_not_really/ifi1vm2/,1657390509,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Mahyarr-,,,[],,,,text,t2_psgi6bqs,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390491,,0,{},ifi1v83,False,t3_vts1ur,False,True,t3_vts1ur,/r/solana/comments/vts1ur/what_is_the_average_gas_price/ifi1v83/,1657390509,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390487,,0,{},ifi1uvq,False,t3_vu3rcy,False,True,t3_vu3rcy,/r/solana/comments/vu3rcy/staking_via_solflare_marinade/ifi1uvq/,1657390501,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Mahyarr-,,,[],,,,text,t2_psgi6bqs,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390483,,0,{},ifi1uh7,False,t3_vujsld,False,True,t3_vujsld,/r/solana/comments/vujsld/hit_the_road_to_breakpoint_with_more_solana_x/ifi1uh7/,1657390493,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390478,,0,{},ifi1u4f,False,t3_vuctmr,False,True,t3_vuctmr,/r/solana/comments/vuctmr/why_is_chainlink_not_on_solana/ifi1u4f/,1657390494,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Mahyarr-,,,[],,,,text,t2_psgi6bqs,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390474,,0,{},ifi1ttt,False,t3_vujlgm,False,True,t3_vujlgm,/r/solana/comments/vujlgm/weekly_summary_july_1_july_8_2022/ifi1ttt/,1657390486,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Mahyarr-,,,[],,,,text,t2_psgi6bqs,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390470,,0,{},ifi1tii,False,t3_vue3ml,False,True,t3_vue3ml,/r/solana/comments/vue3ml/solana_builders_we_are_looking_for_you/ifi1tii/,1657390486,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Mahyarr-,,,[],,,,text,t2_psgi6bqs,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390466,,0,{},ifi1t80,False,t3_vu9nat,False,True,t3_vu9nat,/r/solana/comments/vu9nat/2000_sol_goal/ifi1t80/,1657390478,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390463,,0,{},ifi1sxz,False,t3_vuliee,False,True,t3_vuliee,/r/solana/comments/vuliee/phantom_wallet_issue_being_fixed/ifi1sxz/,1657390479,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390459,,0,{},ifi1slo,False,t3_vumamp,False,True,t3_vumamp,/r/solana/comments/vumamp/steth_depeg_and_liquid_staking_comparisons_to/ifi1slo/,1657390479,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390455,,0,{},ifi1saa,False,t3_vujp6n,False,True,t3_vujp6n,/r/solana/comments/vujp6n/solana_network_upgrades/ifi1saa/,1657390470,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Mahyarr-,,,[],,,,text,t2_psgi6bqs,False,False,"🔥Welcome to LAUNCHGAMEFi 
+
+LaunchGamefi is a decentralized cross-chain infrastructure empowering project owners to launch NFT games and Metaverse projects.
+
+The platform offers guaranteed fair-levels for exclusive access to NFT, GameFi and Metaverse IDO.
+
+We strongly believe in the future of the Metaverse, and our team is absolutely ready to launch the next-generation tools for NFT games and Metaverse projects.
+
+👉 How to get a White List: sweepwidget.com/view/59758-r0ngo4mv
+
+✅ KYCED &amp; AUDITED
+✅ SC/HC :50/100 Bnb
+✅ Min / Max: 0.2 /1.2 Bnb
+ Low tax
+✅15:00 UTC 13th July 2022
+
+👉 PinkSale IDO link:  pinksale.finance/launchpad/0x983EE8B7feAf23220A19bca5D16f97DAF782A85D?chain=BSC
+
+🌎 t.me/LaunchgamefiChat
+🌐Website: launchgamefi.com/
+🐦Twitter : twitter.com/LaunchGamefi/
+📢Channel: t.me/launchgamefi",c383915e1f7cef9b347dd29338f9eab7e51008c4,True,False,,,,,0,1657390450,,0,{},ifi1rvr,False,t3_vv5dnp,False,True,t3_vv5dnp,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifi1rvr/,1657390462,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390444,,0,{},ifi1rg9,False,t3_vv6toq,False,True,t3_vv6toq,/r/solana/comments/vv6toq/icymi_hxro_making_progress_on_its_derivatives/ifi1rg9/,1657390463,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390439,,0,{},ifi1r0v,False,t3_vv11gx,False,True,t3_vv11gx,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifi1r0v/,1657390455,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390435,,0,{},ifi1qq6,False,t3_vv4ks2,False,True,t3_vv4ks2,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifi1qq6/,1657390447,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,[deleted],,,,,,dark,,,,,[removed],fe993932d6dced4c0a879e9aa5d7a6e0fbb467f5,True,False,,,,,0,1657390429,,0,{},ifi1q9v,False,t3_vqtn42,False,True,t3_vqtn42,/r/solana/comments/vqtn42/weekly_thread_july_4_2022/ifi1q9v/,1657390440,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Fun-Drummer7171,,,[],,,,text,t2_gf1zvg9l,False,False,Thank you !!,8cda1fa089415b0052ae5c76335d7db50ade1ba7,True,False,,,,,0,1657390400,,0,{},ifi1nyk,True,t3_vv5dnp,False,True,t1_ifhtvbw,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifi1nyk/,1657390417,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,timg430008171976,,,[],,,,text,t2_b4st5sdl,False,False,Polka dot just implemented. New way for staking to make it easier and link is def worth holding and  dydx just left eth and migrated  over to cosmos a couple weeks ago which is huge news for cosmos they left the the eth chain altogether !!,f244c306b2285a9ae934326d9acbb48f9db1251a,True,False,,,,,0,1657390111,,0,{},ifi110h,False,t3_vu9nat,False,True,t1_ife4rwa,/r/solana/comments/vu9nat/2000_sol_goal/ifi110h/,1657390126,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,wannabecpa93,,,[],,,,text,t2_16dfeg,False,False,Basing it off of eths growth and assuming it captures a bit more of the L1 market share next bull run. Too lazy to math it out right now. But it’s pretty consistent with a lot of big firms estimates.,8999f773cd0a6fb210dc2e0b84ff9c72bdc32e2e,True,False,,,,,0,1657388967,,0,{},ifhygu7,False,t3_vu9nat,False,True,t1_ifgklxv,/r/solana/comments/vu9nat/2000_sol_goal/ifhygu7/,1657388983,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Slash123vegas,,,[],,,,text,t2_f4hhu8d0,False,False,This lawsuit reminds me of a person on the news who got super fat and tried suing Mac Donald’s ..,846e3de4e5d9a6675b6ccf4183a63e9662d3fa7c,True,False,,,,,0,1657392764,,0,{},ifi6yqq,False,t3_vv5dnp,False,True,t3_vv5dnp,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifi6yqq/,1657392777,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,tarunisonreddit,,,[],,,,text,t2_7sqrds6x,False,False,"It’s till the end of epoch usually. Phantom UX for staking and portfolio management isnt ideal, try out Avana wallet instead. Try liquid staking if you want flexibility.",c41d584164c104b587cad855976b39f83b9380bf,True,False,,,,,0,1657392091,,0,{},ifi5gr5,False,t3_vv4ks2,False,False,t3_vv4ks2,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifi5gr5/,1657392109,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Aotrx,,,[],,,,text,t2_39lrh0fa,False,False,"I don't think Something like that's going to happen. In any case, even if the US government somehow tries to harm Sol, the network will continue to run. People will be inclined to unstake their Sol from US-based validators and stake it to validators based in other locations. It will just take a few days. I am also not worried about delisting since even the most government-hated crypto (Monero) is still listed on a few US exchanges and there are various ways to buy it.",c82b84eaad8c8fb620cc2684a4e4a19657746770,True,False,,,,,0,1657392044,,0,{},ifi5cx8,False,t3_vv5dnp,False,True,t3_vv5dnp,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifi5cx8/,1657392071,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,wannabecpa93,,,[],,,,text,t2_16dfeg,False,False,Pretty sure it’s on epoch ~3 days or so.,99877401b4580cff63b46c2b5156c28900310d31,True,False,,,,,0,1657391960,,0,{},ifi5673,False,t3_vv4ks2,False,True,t3_vv4ks2,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifi5673/,1657391978,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Boss_BrownSugar,,,[],,,,text,t2_b2z0vn8y,False,False,"Depending on the time you unstaked on the period of the epoch, it can take a couple of hours to two or three days.",56d72d5391245b94c59c8ab987b4285b9c93d290,True,False,,,,,0,1657391923,,0,{},ifi5390,False,t3_vv4ks2,False,True,t3_vv4ks2,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifi5390/,1657391939,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Wonderful_Yam82,,,[],,,,text,t2_bjv6v95f,False,False,Google 'staking epoch' - you'll be a wise man in no time.,2fa5dd9c240fa7fc302dfccdfd0953aefc588f53,True,False,,,,,0,1657391922,,0,{},ifi535m,False,t3_vv4ks2,False,True,t1_ifhku12,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifi535m/,1657391939,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657391491,moderator,0,{},ifi4481,False,t3_vv7yih,True,True,t3_vv7yih,/r/solana/comments/vv7yih/decentralized_sports_betting/ifi4481/,1657391507,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,FunEarnings,,,[],,,,text,t2_92eu1zhu,False,False,"If you do native staking, it takes up to 2-3 days (until the end of an epoch) to unstake. If you want something like instant unstaking or being able to move stake around easily, try liquid staking! I run a liquid staking pool called BlazeStake ([stake.solblaze.org](https://stake.solblaze.org)) that is struggling to grow and is in need of some new stake, but there are also a few other liquid staking pools as well.",b825fb3212464a513cab18721964ef75adcf9c07,True,False,,,,,0,1657395035,,0,{},ific12a,False,t3_vv4ks2,False,True,t3_vv4ks2,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ific12a/,1657395046,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657395033,moderator,0,{},ific0wr,False,t3_vv96qt,True,False,t3_vv96qt,/r/solana/comments/vv96qt/how_to_set_alerts_for_public_key_transactions/ific0wr/,1657395046,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,physalisx,,,[],,,,text,t2_b078b,False,False,"Or it can be 1 minute.
+
+It depends on how long the current epoch has left.",a65973138f7ad38bc9bca2d6bda419c008f11062,True,False,,,,,0,1657395011,,0,{},ifibz4h,False,t3_vv4ks2,False,True,t1_ifhku12,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifibz4h/,1657395023,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Current_North4661,,,[],,,,text,t2_56j1meum,False,False,"Solana foundation != Solana
+
+Solana is a software, that is developed in open source mainly by solana foundation.
+
+But can continue even if the solana foundation disolves as long as there are developers to keep it going.",15409863655c67e5a4da572155055e3adda4f9d9,True,False,,,,,0,1657394326,,0,{},ifiage7,False,t3_vv5dnp,False,True,t3_vv5dnp,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifiage7/,1657394337,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Future-Tomorrow,,,[],,,,text,t2_3d3cyhto,False,True,"It's ""Mcdonald's"" but you still win the internet for the day. That's a perfect analogy.",845ed66c1c4d76e68dba79b737d7ca02bcd5acc1,True,False,,,,,0,1657396678,,0,{},ififmtc,False,t3_vv5dnp,False,True,t1_ifi6yqq,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ififmtc/,1657396694,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,ceagleoneism,,,[],,,,text,t2_1cij5p9j,False,False,"Hey! Yes, you can either go to [lido.fi](https://lido.fi) and stake your ETH for stETH, or just buy stETH from a DEX. Then your stETH balance will just increase over time via automatic rebasing once per day. So if you stake 1 ETH for 1 stETH, about a year later your stETH balance should be 1.04 (since staking ETH earns 4% apr). You won't be able to redeem your stETH with Lido in reverse of how you staked in until ETH 2.0 happens (the merge). But you can swap your stETH for ETH on a dex if you need. On Solana you can redeem your stSOL for SOL because Solana is already functioning a proof of stake network. Hope this helps!",097c9062ae6b2bad0bc5652e8ead84b4debcabdf,True,False,,,,,0,1657395803,,0,{},ifidq8u,True,t3_vumamp,False,True,t1_ifgwu6h,/r/solana/comments/vumamp/steth_depeg_and_liquid_staking_comparisons_to/ifidq8u/,1657395821,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657399650,moderator,0,{},ifim84q,False,t3_vvasdd,True,True,t3_vvasdd,/r/solana/comments/vvasdd/send_some_solanas_to_my_phantom_wallet_from_cb_it/ifim84q/,1657399661,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657399269,moderator,0,{},ifildps,False,t3_vvanq2,True,True,t3_vvanq2,/r/solana/comments/vvanq2/market_minute_solana_catches_up_on_ethereum_in/ifildps/,1657399291,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,placidmelon,,,[],,,,text,t2_pq0jqtaq,False,False,How many SOL do you need to stake on phantom?,6c4889c9da60fa60630cea017d2fba405aefcf20,True,False,,,,,0,1657398933,,0,{},ifikmm2,False,t3_vv4ks2,False,True,t3_vv4ks2,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifikmm2/,1657398950,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,sam_jobs,,,[],,,,text,t2_11movp,False,False,approximately 1-2 days.,2fc5e29920dcd2a4bb4a127e218fb0187ff7bce7,True,False,,,,,0,1657398705,,0,{},ifik45w,False,t3_vv4ks2,False,True,t3_vv4ks2,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifik45w/,1657398717,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AwarenessFickle,,,[],,,,text,t2_7l1dg2s2,False,False,"3 days, but depends when  u withdraw",cdd193288c5a097e30a816c38e4c9c2c78d8aaeb,True,False,,,,,0,1657398374,,0,{},ifijdul,False,t3_vv4ks2,False,True,t3_vv4ks2,/r/solana/comments/vv4ks2/how_long_does_it_take_to_unstake_on_the_phantom/ifijdul/,1657398390,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Slash123vegas,,,[],,,,text,t2_f4hhu8d0,False,False,"It was autocorrect,didn’t feel like fixing it lol",a0864ad95c4be68e0e062f45b8dc2741e1bf99de,True,False,,,,,0,1657397819,,0,{},ifii4yy,False,t3_vv5dnp,False,False,t1_ififmtc,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifii4yy/,1657397832,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657401615,moderator,0,{},ifiql3q,False,t3_vvbgaz,True,True,t3_vvbgaz,/r/solana/comments/vvbgaz/no_access_to_ledger_how_to_restore/ifiql3q/,1657401628,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,cel3sta,,,[],,,,text,t2_8uf68523,False,False,"Ofc you'll get them back, what are you talking about?
+
+Staking doesn't move the coins from a wallet – you are the only owner of them and once unstaked, free to use them the way you wish. Staking is basically type of ""freezing"" coins in the wallet to participate in the blocks validation.",f6033d2569bf0cf95275b979781159b00a8c3b69,True,False,,,,,0,1657401019,,0,{},ifip9r1,False,t3_vv11gx,False,True,t1_ifhfn1a,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifip9r1/,1657401035,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,cel3sta,,,[],,,,text,t2_8uf68523,False,False,"wallets normally display only the last epoch reward. to track all staking rewards (they compound in Solana), check your wallet address in the explorer (I placed the link to the guide in my other comment)",e8a7b6fde2d62b9c3828e57ca70bf6b36ca115ad,True,False,,,,,0,1657400804,,0,{},ifiosfx,False,t3_vv11gx,False,True,t1_ifhcj5y,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifiosfx/,1657400821,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,cel3sta,,,[],,,,text,t2_8uf68523,False,False,"Do not forget to withdraw SOL once the stake gets deactivated (the very next epoch). Once withdrawn, the coins are available to use freely.
+
+We have created guides for all kinds of wallets where you can stake SOL. 
+
+Talking about Phantom:
+
+How to Stake Solana SOL via Phantom Web Wallet – [watch on Youtube](https://www.youtube.com/watch?v=nGB7EdF9bOQ); or read the text [Guide](https://everstake.one/blog/how-to-stake-solana-sol-using-phantom-wallet) in our Blog.
+
+In addition, since you asked about staking rewards, check this article: [How to Track SOL Staking Rewards](https://everstake.one/blog/how-to-track-sol-staking-rewards).
+
+You may be interested in other guides and articles on our website: [https://everstake.one/solana](https://everstake.one/solana).",04745f625c3e19af2e3ff0a4e129a27d14dd6f52,True,False,,,,,0,1657400596,,0,{},ifiobq4,False,t3_vv11gx,False,True,t3_vv11gx,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifiobq4/,1657400614,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,WkittySkittyLBoF,,,[],,,,text,t2_23tpftfz,False,False,I won’t and thank you!,9b0c7aed23caa2d8ba902f988715b490ce229678,True,False,,,,,0,1657403995,,0,{},ifivr4a,True,t3_vvbgaz,False,True,t1_ifivpp5,/r/solana/comments/vvbgaz/no_access_to_ledger_how_to_restore/ifivr4a/,1657404006,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,loaky80,,,[],,,,text,t2_1tcy388x,False,False,"Can't help, but don't trust anyone on PMs!",bf32a4e156d058eb8ecc159e0975fc4243a7a233,True,False,,,,,0,1657403976,,0,{},ifivpp5,False,t3_vvbgaz,False,True,t3_vvbgaz,/r/solana/comments/vvbgaz/no_access_to_ledger_how_to_restore/ifivpp5/,1657403992,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,PrestigiousPut3061,,,[],,,,text,t2_baq1eebz,False,False,Gotchya. Good to know.,053a80288a31162238882cb2025386152f531764,True,False,,,,,0,1657403903,,0,{},ifivk4x,False,t3_vv5dnp,False,True,t1_ifivddb,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifivk4x/,1657403916,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,TITANIC_DONG,,,[],,,,text,t2_8o17ja4l,False,False,"I don’t disagree with this. My governor is a corrupt piece of shit and an authoritarian. 
+
+That said, Solana is located in San Diego county. This area is super tech friendly, and the California politicians will be motivated to keep this potentially massive business in the area!",1702606ab5d521410aa6022f50a6d9346ef177aa,True,False,,,,,0,1657403814,,0,{},ifivddb,False,t3_vv5dnp,False,True,t1_ifiuu50,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifivddb/,1657403831,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,PrestigiousPut3061,,,[],,,,text,t2_baq1eebz,False,False,"I thought solana labs was Chicago? Even so, Newsoulini in CA is a bigger threat than this suit.",6d2558c2c27ca6375fb5a450dfbad5ca1a4540ee,True,False,,,,,0,1657403562,,0,{},ifiuu50,False,t3_vv5dnp,False,True,t1_ifiu3i2,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifiuu50/,1657403581,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,TITANIC_DONG,,,[],,,,text,t2_8o17ja4l,False,False,"This is correct! Solana is a California company, and have gone out of their way to follow the regulations. 
+
+If Sol gets beat down by the press from this lawsuit, I’m definitely going to be buying",71e995868a43390b5f7132370cab202762aaae18,True,False,,,,,0,1657403220,,0,{},ifiu3i2,False,t3_vv5dnp,False,True,t1_ifi1nyk,/r/solana/comments/vv5dnp/are_you_worried_about_a_potential_class_action/ifiu3i2/,1657403238,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Nina_Gonchar,,,[],,,,text,t2_dj5vtdnt,False,False,"They have a nice visual style. Their social media are not so flooded with people but it doesn't really mean anything. I guess it is okay when you don't have to play the game. There's nothing to discuss actually. You buy NFT and that's it.
+
+I would look closer into it. $100 is not that much to invest. And who knows, maybe the profit will be actually much larger. As far as I understand, you will get this money back in half a year tops, maybe sooner if the game is popular among gamblers. And if then you start getting profit... Why not, I say.",42f3d2a0baf7b728e4ee3ce1d486f93a347ecaf1,True,False,,,,,0,1657355721,,0,{},ifgb23r,False,t3_vu84cn,False,True,t3_vu84cn,/r/solana/comments/vu84cn/promising_project_or_not_really/ifgb23r/,1657355732,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,OptionalMangoes,,,[],,,,text,t2_azjmldje,False,False,How does diversification maximise benefit? Doesn’t it just lower risk?,a67174125990c040fe28067984d7c67bfc048c08,True,False,,,,,0,1657355349,,0,{},ifgameq,False,t3_vu9nat,False,True,t1_ifg6vqu,/r/solana/comments/vu9nat/2000_sol_goal/ifgameq/,1657355364,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,bipolarnegrito,,,[],,,,text,t2_4vxdwhi8,False,False,100%,fae31ecec0fc6f77b09e2dad840d052ca7f87f0d,True,False,,,,,0,1657354938,,0,{},ifga4wc,False,t3_vuliee,False,False,t1_iffcg9v,/r/solana/comments/vuliee/phantom_wallet_issue_being_fixed/ifga4wc/,1657354955,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,niklas_ema0,,,[],,,,text,t2_e6chso8m,False,False,"This is from june 28th. I thought some of this stuff already was running on the main net.
+And what about the localized fee-market? That allows fees to go up for a specific dapp when the traffic spikes because of bot spam? I don’t see that in this list.",b171d6bbb0d2a9b51f4f055fc2db04aa303416df,True,False,,,,,0,1657354871,,0,{},ifga237,False,t3_vujp6n,False,True,t3_vujp6n,/r/solana/comments/vujp6n/solana_network_upgrades/ifga237/,1657354886,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657380199,moderator,0,{},ifheap5,False,t3_vv40ty,True,True,t3_vv40ty,/r/solana/comments/vv40ty/anyone_saw_this_solana_sol_in_serious_legal/ifheap5/,1657380217,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,AutoModerator,,,[],,,,text,t2_6l4z3,False,True,"WARNING: 
+1) Do not trust DMs from anyone offering to help/support you with your funds (Scammers)! 
+2) Never give out your Seed Phrase and DO NOT ENTER it on ANY websites sent to you.
+3) MODS or Community Managers will NEVER DM you first regarding your funds/wallet.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/solana) if you have any questions or concerns.*",14dd8b569135602c5532d6566410f9a64883f0a5,True,False,,,,,0,1657380181,moderator,0,{},ifhe93r,False,t3_vv40ld,True,True,t3_vv40ld,/r/solana/comments/vv40ld/hire_me/ifhe93r/,1657380193,1,True,False,True,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,mitchell-suchner,,,[],,,,text,t2_o0junerm,False,False,"Thanks for this, I will look into Avana, does it show you your staking rewards rate unlike phantom? Or do neither of them show you your rewards rate?",822aae3ddcce623ba9c58c5c084e2aba7990133a,True,False,,,,,0,1657379440,,0,{},ifhcj5y,True,t3_vv11gx,False,True,t1_ifhbnng,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifhcj5y/,1657379451,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,tarunisonreddit,,,[],,,,text,t2_7sqrds6x,False,False,"Well for staking you can use either defi platform or use wallet staking method, for both you’ll need an HD wallet. So for defi app, you can either delegate sol or stake them on blockdemon or lido fi , as far as for solana wallet, phantom is nowadays a lot buggy, so I’ll suggest Avana wallet, they got staking functionality as well, and it’s better UX and easy to use.",0effbfb36b1d623f14334f9718ed48bd55801886,True,False,,,,,0,1657379068,,0,{},ifhbnng,False,t3_vv11gx,False,True,t1_ifgvoix,/r/solana/comments/vv11gx/how_do_i_unstake_my_solana/ifhbnng/,1657379079,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,illustrious-Egg2,,,[],,,,text,t2_noqm7bq9,False,False,"Why 2,000? It is a lot of money to put toward 1 project BUT as you mentioned it is 10-15 of your total bag. I would personally limit myself to about 5% to any 1 position, in your case about 1,000 SOL, a nice round number. SOL has its issues and strengths. You are probably looking at a long term 5-6 x but what if something goes wrong, like SOL going down even more or it gets hacked multiple timer or.... who knows....Diversify more. You will still make a killing if things go well and be more protected in things go south. Maybe 20% BTC, 10% ETH and 5% in another 14 alts.....NFA just what I would do....",94c74d48eb2d08509e0323b33386e3a586175041,True,False,,,,,0,1657345199,,0,{},iffx8bn,False,t3_vu9nat,False,True,t3_vu9nat,/r/solana/comments/vu9nat/2000_sol_goal/iffx8bn/,1657345213,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,Cilantr0_is_Bad,,,[],,,,text,t2_dway5kq4,False,False,you could also just use Slope wallet and not have to deal with this nonsense,3fb38e9d2551baf65bdf782d89c88919989fac24,True,False,,,,,0,1657333343,,0,{},iffcg9v,False,t3_vuliee,False,True,t3_vuliee,/r/solana/comments/vuliee/phantom_wallet_issue_being_fixed/iffcg9v/,1657333357,1,False,True,False,solana,t5_hcs2n,r/solana,public,,0,[],
+[],False,,rickrhua,,,[],,,,text,t2_49x1a58v,False,False,I mean when you have to re-select your new nominations; you are charged fees to re-submit them. I am anyway (0.0646 DOT),4bb3797e0f6404d303afa48501d7a7e194d98605,True,False,,,,,0,1657327346,,0,{},iff0b2t,False,t3_vu4c2b,False,False,t1_ifezwgf,/r/Polkadot/comments/vu4c2b/new_to_ledger_and_polkadot_staking/iff0b2t/,1657327359,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,atca1999,,,[],,,,text,t2_dz0ug,False,False,What do you mean more fees? It should select one of the 16. And the fee is for that one.,9d3dea2235ea49bacdcc09604142c034595c494e,True,False,,,,,0,1657327148,,0,{},ifezwgf,False,t3_vu4c2b,False,True,t1_ife4y6t,/r/Polkadot/comments/vu4c2b/new_to_ledger_and_polkadot_staking/ifezwgf/,1657327163,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,atca1999,,,[],,,,text,t2_dz0ug,False,False,"Whats more concerning is that a ux designer should be part of the process, and clearly isn’t. Which raises more red flags.",d3f60e353714419afeb0d21c6fa2e655ac491199,True,False,,,,,0,1657331312,,0,{},iff8cqa,False,t3_vrz35n,False,True,t1_if1m1m8,/r/Polkadot/comments/vrz35n/why_is_staking_on_polkadot_such_an_painful/iff8cqa/,1657331329,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,Fishfortrout,,,[],,,,text,t2_z3c7q,False,False,Technically yes. It’s a software wallet and can be installed on your phone.,be5a25f2bcfd7c735d7eefbb0d8bf1cc04fdbdf3,True,False,,,,,0,1657333789,,0,{},iffdcht,False,t3_vu4c2b,False,True,t1_iffcy76,/r/Polkadot/comments/vu4c2b/new_to_ledger_and_polkadot_staking/iffdcht/,1657333802,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,atca1999,,,[],,,,text,t2_dz0ug,False,False,Thanks will have to look into this. Do you own your keys in this situation?,4bb91eb61d55bf33bf37c3d8eb507b5aefc83432,True,False,,,,,0,1657333593,,0,{},iffcy76,False,t3_vu4c2b,False,True,t1_iffcrtw,/r/Polkadot/comments/vu4c2b/new_to_ledger_and_polkadot_staking/iffcy76/,1657333607,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,Fishfortrout,,,[],,,,text,t2_z3c7q,False,False,Staking LDOT on the Acala network using a Polkawallet is even easier. If you’re just looking to get your dot off the exchanges. 16% returns and no maintenance needed.,e1546bee11cd5f7b11123152a12091cb6cb86684,True,False,,,,,0,1657333505,,0,{},iffcrtw,False,t3_vu4c2b,False,True,t1_ifezwgf,/r/Polkadot/comments/vu4c2b/new_to_ledger_and_polkadot_staking/iffcrtw/,1657333516,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,disdicozi,,,[],,,,text,t2_da12g83f,False,False,"You are right buddy. It is better to stay off CEx. I actually invested mine in the testnet of Equilibrium, Genshiro. Staking it as xDOT there.",ddd655aae59cd30ffc970d02f73c823977123460,True,False,,,,,0,1657336685,,0,{},iffj08v,False,t3_vu4c2b,False,True,t1_iffcrtw,/r/Polkadot/comments/vu4c2b/new_to_ledger_and_polkadot_staking/iffj08v/,1657336696,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,Pairywhite3213,,,[],,,,text,t2_ei03zfma,False,False,"I hope you don't end up looking for opportunities. It has a limited number available, but if you keep yours, don't ask for mine when the time comes because you don't want to pay attention to Squid NFT and the possible opportunities that come with it😉.",8dd88986b41a9c7f07fa205d54768b4905692d42,True,False,,,,,0,1657335728,,0,{},iffh74f,False,t3_vqcofj,False,True,t1_ieyo1lu,/r/Polkadot/comments/vqcofj/nft_from_decoded/iffh74f/,1657335746,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,KnockoutInvesting,,,[],,,,text,t2_bqkye3f5,False,False,"Currently staking 10,000 DOT on Kraken. Not feeling confident enough to try staking the way you suggested. It is more secure, but way too complicated. :D",f15ca70ddf2a4e74752717cca359b63d023ef4c7,True,False,,,,,0,1657342201,,0,{},iffsn2y,False,t3_vs9880,False,True,t3_vs9880,/r/Polkadot/comments/vs9880/polkadot_staking_is_misunderstood_not_very/iffsn2y/,1657342218,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,daijorobu,,,[],,,,text,t2_dy4o6qi,False,False,"I am wondering this same thing. My ""withdrawn unbonded funds"" option is greyed out but it says my tokens are redeemable. Any idea what's going on?",0bc26629f2d800cce3887c958c0fc6a68ab65b6c,True,False,,,,,0,1657349816,,0,{},ifg3p72,False,t3_qz5xkn,False,True,t1_hln8owq,/r/Polkadot/comments/qz5xkn/help_needed_how_do_i_redeem_the_dot/ifg3p72/,1657349831,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,SafetyAgile,,,[],,,,text,t2_a4lremdg,False,False,"I'm talking same that there are some projects that doing but I see no one is recognising it in community it means polkadot team should have some kind of mechanism to discover undervalued projects so I'm here.
+
+Can I send brief introduction of project to you to go through?",57b23c0fcd6eddb10ef02833d6afa9ca08e10296,True,False,,,,,0,1657348867,,0,{},ifg2fvi,False,t3_vsm0wl,False,True,t1_ifccqew,/r/Polkadot/comments/vsm0wl/bill_laboon_ama_8_jul_1300_1400_utc/ifg2fvi/,1657348879,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,antiwrappingpaper,,,[],,,,text,t2_1hvjboiz,False,False,"With that amount you'd have no problems staking directly on-chain. If you worry about complexity, try something like the Acala, you'll get way more out of your money.",89282668735134cab88a4c60485f65ea51c756b5,True,False,,,,,0,1657352826,,0,{},ifg7jld,True,t3_vs9880,False,True,t1_iffsn2y,/r/Polkadot/comments/vs9880/polkadot_staking_is_misunderstood_not_very/ifg7jld/,1657352841,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,Rougarou1999,,,[],,,,text,t2_9xvk0ppx,False,True,"Hello, you still have not edited your [previous posts](https://www.reddit.com/r/news/comments/uzssqd/police_inaction_moves_to_center_of_uvalde/iadpt76/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf&amp;context=3) to remove the flagrant lies. Please do so at your earliest convenience.",27d4b09485743d47f7f879c1ee215ae1ae270733,True,False,,,,,0,1657363906,,0,{},ifgkt0z,False,t3_vu4c2b,False,True,t1_iffdcht,/r/Polkadot/comments/vu4c2b/new_to_ledger_and_polkadot_staking/ifgkt0z/,1657363920,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,Rougarou1999,,,[],,,,text,t2_9xvk0ppx,False,True,"Hello, you still have not edited your [previous posts](https://www.reddit.com/r/news/comments/uzssqd/police_inaction_moves_to_center_of_uvalde/iadpt76/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf&amp;context=3) to remove the flagrant lies. Please do so at your earliest convenience.",27d4b09485743d47f7f879c1ee215ae1ae270733,True,False,,,,,0,1657363892,,0,{},ifgksft,False,t3_vu4c2b,False,True,t1_iffcrtw,/r/Polkadot/comments/vu4c2b/new_to_ledger_and_polkadot_staking/ifgksft/,1657363906,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,TrampNamedOlene,,,[],,,,text,t2_4qdaxe6m,False,False,Thank you! :),ec7fd2f5bbb015ca9bb2f65a6b4c655f3e9f4d63,True,False,,,,,0,1657371173,,0,{},ifgvq9q,True,t3_vth0hs,False,True,t1_ifbpfve,/r/Polkadot/comments/vth0hs/a_novice_question_about_slashing/ifgvq9q/,1657371190,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,roote14,,,[],,,,text,t2_a10ubm16,False,False,"Sounds kind of intimidating.   
+Something I can do on my phone? 
+I don’t have a computer or internet service where I live.    Not affordable anyway.",655af5b9caf51e2fe4c7f70ba9e35382ddafc8c3,True,False,,,,,0,1657386444,,0,{},ifhspeo,True,t3_vqhrxm,False,True,t1_iet8xk2,/r/Polkadot/comments/vqhrxm/advice_to_the_unfamiliar_im_pretty_new_in_the/ifhspeo/,1657386463,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,CartographerWorth649,,,[],,,,text,t2_cumkycm9,False,False,"Here is the official link from Unique's RFT campaign  
+[https://unique.network/punk/](https://unique.network/punk/)  
+
+
+Here's also some coverage on it also  
+https://echochamberesearch.com/from-nfts-to-rfts/",3cf798c6e64033df555c57e74845544b2081e6db,True,False,,,,,0,1657397315,,0,{},ifih0xm,False,t3_vtc1wm,False,True,t1_ifbdg7s,/r/Polkadot/comments/vtc1wm/polkadot_digest_7_jul_2022/ifih0xm/,1657397327,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,faceof333,,,[],,,,text,t2_bx11josj,False,False,"Dears, I need help, I stake 15 dot recently in ledger live for testing purpose, but in status all nominators are in inaction status since 2 days, Anyone can help with that? I'm new in staking...  
+Anyone send private msg will be blocked and reported as spam.",05ad8d1593d966237a03155630a2bd5c93d855b7,True,False,,,,,0,1657401775,,0,{},ifiqxwl,False,t3_vu4c2b,False,True,t3_vu4c2b,/r/Polkadot/comments/vu4c2b/new_to_ledger_and_polkadot_staking/ifiqxwl/,1657401787,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,faceof333,,,[],,,,text,t2_bx11josj,False,False,"&gt;Dear, select commission less than 100 , not oversubscribed, less than 100 nominations, 16 validators, and  not slashed (https://polkadot.js.org/apps/#/staking/targets)
+
+Dear, select commission less than 100 , not oversubscribed, less than 100 nominations, 16 validators, and not slashed ([https://polkadot.js.org/apps/#/staking/targets](https://polkadot.js.org/apps/#/staking/targets))",7912d634a701e7512e15f8c3e35e49e58c4d4e78,True,False,,,,,0,1657402146,,0,{},ifirr35,False,t3_vu4c2b,False,False,t1_ifdxas8,/r/Polkadot/comments/vu4c2b/new_to_ledger_and_polkadot_staking/ifirr35/,1657402161,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
+[],False,,faceof333,,,[],,,,text,t2_bx11josj,False,False,"Dear, select commission less than 100 , not oversubscribed, less than 100 nominations, 16 validators, and  not slashed (https://polkadot.js.org/apps/#/staking/targets)",95ca514b419ca9b3bc9929aa41b412232bc9a235,True,False,,,,,0,1657402120,,0,{},ifirp1b,False,t3_vu4c2b,False,True,t1_ifdrnya,/r/Polkadot/comments/vu4c2b/new_to_ledger_and_polkadot_staking/ifirp1b/,1657402138,1,False,True,False,Polkadot,t5_2ublt,r/Polkadot,public,,0,[],
