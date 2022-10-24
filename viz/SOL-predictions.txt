@@ -1,0 +1,10 @@
+## 20221024_12:08:49 - 
+cols: Open, High, Low, Close, Volume, Market Cap, high-low
+LogisticRegression : 
+Training Accuracy : 0.815
+Validation Accuracy : 0.855
+
+SVC : 
+Training Accuracy : 0.706
+Validation Accuracy : 0.751
+
