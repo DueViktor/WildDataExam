@@ -1,9 +1,0 @@
-comment_id,comment_parent_id,comment_body,comment_link_id
-iml0t3z,t3_x2nyoy,"By sovereignty, I suppose they mean the L2 is the one being centralized and having sovereignty over the code deployed in it. Well, in a sense, it's true.
-
-But what I think is that we will end up with easy to copy-paste L2 code, so that anyone can be an L2 with its own apps. And we'll have very easy and cheap transfers between L2s thanks to more efficient bridges using hub-like L2s from which most L2s will take ingoing funds and towards which most L2s will direct outgoing funds. 
-
-This way, you can have bridges using high volume to reduce cost per transaction, just like a rollup does. Under such circumstances, you have no problem having each app being a self-sovereign L2.
-
-Even more so, doing so allows for the L2 to be specialized to more efficiently compute and store the data of its app.",t3_x2nyoy
-imnge47,t3_x2nyoy,"Well I'm sure someone who is more knowledgable on the technological side of things but I think building on Ethereum offers many advantages outside of technicalities. First of all Ethereum is by the most popular and diverse network by an absolute mile. Drop the same NFT on Ethereum and Solana, You'll see the ETH version become insanely popular just because it's on ETH. Second of all there are many L2s and many ways to build on Ethereum. For example Polygon Edge lets you build your own blockchain on-top of ETH and scale it to your liking. This is just one example of how diverse Ethereum is as far as options.",t3_x2nyoy
