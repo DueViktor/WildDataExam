@@ -13,7 +13,7 @@
 - Under `Data Import` import `data/annotation/data.csv`. and pick "`List of Tasks`".
 - Then pick the setup: Go to "Natural Language Processing" and choose "Text Classification". It will open an interface where you should go to `code` and replace the existing code with this [HTML CODE](##-HTML-CODE).
 - Press `save`. 
-- Start annotating!
+- Start annotating by pressing `Label All Tasks`.
 
 ## When you're done annotating
 - Go to `Export` and export the annotations as `CSV` file.
