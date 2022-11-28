@@ -12,6 +12,11 @@
         "subreddit": "Bitcoin",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Fun",
+                "Conflict"
+            ],
             "aske": [
                 "Knowledge",
                 "Fun"
@@ -32,6 +37,10 @@
         "subreddit": "Bitcoin",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -51,6 +60,10 @@
         "subreddit": "Bitcoin",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Support"
+            ],
             "aske": [
                 "Knowledge",
                 "Support",
@@ -74,6 +87,12 @@
         "subreddit": "Bitcoin",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Support",
+                "Status",
+                "Identity"
+            ],
             "aske": [
                 "Support",
                 "Trust",
@@ -96,6 +115,10 @@
         "subreddit": "XRP",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Conflict"
+            ],
             "aske": [
                 "Knowledge",
                 "Conflict"
@@ -115,6 +138,9 @@
         "subreddit": "XRP",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Similarity",
@@ -137,6 +163,9 @@
         "subreddit": "XRP",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -154,6 +183,9 @@
         "subreddit": "XRP",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -171,6 +203,9 @@
         "subreddit": "XRP",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -190,6 +225,10 @@
         "subreddit": "solana",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Identity",
+                "Fun"
+            ],
             "aske": [
                 "Status",
                 "Conflict"
@@ -209,6 +248,7 @@
         "subreddit": "solana",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -226,6 +266,9 @@
         "subreddit": "solana",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Fun"
+            ],
             "aske": [
                 "Trust"
             ],
@@ -243,6 +286,9 @@
         "subreddit": "solana",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -262,6 +308,10 @@
         "subreddit": "solana",
         "date": "2022_08_01",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Status"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -281,6 +331,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -300,6 +353,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [],
             "mateusz": [
                 "Knowledge"
@@ -313,6 +369,10 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Identity"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -330,6 +390,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -347,6 +410,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -364,6 +430,10 @@
         "subreddit": "ethereum",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -383,6 +453,9 @@
         "subreddit": "ethereum",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -400,6 +473,9 @@
         "subreddit": "ethereum",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -417,6 +493,7 @@
         "subreddit": "ethereum",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -436,6 +513,9 @@
         "subreddit": "ethereum",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -453,6 +533,9 @@
         "subreddit": "XRP",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Trust"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -473,6 +556,9 @@
         "subreddit": "XRP",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [],
             "mateusz": [
                 "Knowledge",
@@ -487,6 +573,9 @@
         "subreddit": "XRP",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -505,6 +594,7 @@
         "subreddit": "XRP",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [],
             "aske": [],
             "mateusz": [
                 "Knowledge"
@@ -518,6 +608,9 @@
         "subreddit": "XRP",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Trust"
+            ],
             "aske": [
                 "Trust"
             ],
@@ -535,6 +628,9 @@
         "subreddit": "Polkadot",
         "date": "2022_07_20",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust",
@@ -558,6 +654,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -575,6 +674,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Power"
+            ],
             "aske": [
                 "Trust"
             ],
@@ -594,6 +696,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Power"
+            ],
             "aske": [
                 "Fun"
             ],
@@ -612,6 +717,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Fun"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -629,6 +737,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [],
             "mateusz": [
                 "Knowledge"
@@ -642,6 +753,9 @@
         "subreddit": "ethereum",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Trust"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -662,6 +776,11 @@
         "subreddit": "ethereum",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Support",
+                "Trust",
+                "Identity"
+            ],
             "aske": [
                 "Trust"
             ],
@@ -679,6 +798,9 @@
         "subreddit": "ethereum",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Fun"
+            ],
             "aske": [],
             "mateusz": [
                 "Fun"
@@ -692,6 +814,10 @@
         "subreddit": "ethereum",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -709,6 +835,10 @@
         "subreddit": "ethereum",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -726,6 +856,10 @@
         "subreddit": "XRP",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -743,6 +877,9 @@
         "subreddit": "XRP",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust",
@@ -766,6 +903,9 @@
         "subreddit": "XRP",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [],
             "mateusz": [
                 "Knowledge"
@@ -779,6 +919,9 @@
         "subreddit": "XRP",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Fun"
             ],
@@ -797,6 +940,9 @@
         "subreddit": "XRP",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -815,6 +961,11 @@
         "subreddit": "Polkadot",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Identity",
+                "Fun"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -833,6 +984,9 @@
         "subreddit": "Polkadot",
         "date": "2022_11_06",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -851,6 +1005,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -869,6 +1026,10 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Power"
+            ],
             "aske": [
                 "Trust"
             ],
@@ -887,6 +1048,10 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -906,6 +1071,11 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Support",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -926,6 +1096,10 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Identity",
+                "Fun"
+            ],
             "aske": [
                 "Fun"
             ],
@@ -943,6 +1117,9 @@
         "subreddit": "ethereum",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -960,6 +1137,9 @@
         "subreddit": "ethereum",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -978,6 +1158,9 @@
         "subreddit": "ethereum",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -996,6 +1179,9 @@
         "subreddit": "ethereum",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1013,6 +1199,9 @@
         "subreddit": "ethereum",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Power"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1031,6 +1220,9 @@
         "subreddit": "solana",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Support"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -1050,6 +1242,9 @@
         "subreddit": "solana",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Fun"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1067,6 +1262,11 @@
         "subreddit": "solana",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Support",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1084,6 +1284,9 @@
         "subreddit": "solana",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1102,6 +1305,7 @@
         "subreddit": "solana",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1119,6 +1323,9 @@
         "subreddit": "Polkadot",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Support"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1136,6 +1343,9 @@
         "subreddit": "Polkadot",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1153,6 +1363,9 @@
         "subreddit": "Polkadot",
         "date": "2022_07_18",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1171,6 +1384,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1189,6 +1405,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1207,6 +1426,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1224,6 +1444,11 @@
         "subreddit": "Bitcoin",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Support",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1241,6 +1466,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1258,6 +1486,9 @@
         "subreddit": "ethereum",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1276,6 +1507,12 @@
         "subreddit": "ethereum",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Support",
+                "Power",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1297,6 +1534,11 @@
         "subreddit": "ethereum",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Trust",
+                "Identity"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -1319,6 +1561,11 @@
         "subreddit": "ethereum",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Status",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -1338,6 +1585,11 @@
         "subreddit": "ethereum",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Trust",
+                "Identity"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -1357,6 +1609,9 @@
         "subreddit": "XRP",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1374,6 +1629,9 @@
         "subreddit": "XRP",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1391,6 +1649,9 @@
         "subreddit": "XRP",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Status",
@@ -1415,6 +1676,9 @@
         "subreddit": "XRP",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Fun"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1433,6 +1697,7 @@
         "subreddit": "solana",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1451,6 +1716,7 @@
         "subreddit": "solana",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1469,6 +1735,9 @@
         "subreddit": "solana",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1486,6 +1755,7 @@
         "subreddit": "solana",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1503,6 +1773,9 @@
         "subreddit": "solana",
         "date": "2022_08_26",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1520,6 +1793,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [
+                "Support"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1537,6 +1813,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [
+                "Status"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1554,6 +1833,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [
+                "Conflict"
+            ],
             "aske": [
                 "Knowledge",
                 "Fun"
@@ -1573,6 +1855,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1590,6 +1873,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1607,6 +1891,9 @@
         "subreddit": "ethereum",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [
+                "Support"
+            ],
             "aske": [
                 "Knowledge",
                 "Status",
@@ -1628,6 +1915,7 @@
         "subreddit": "ethereum",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge",
                 "Fun"
@@ -1647,6 +1935,9 @@
         "subreddit": "ethereum",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1664,6 +1955,9 @@
         "subreddit": "ethereum",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1681,6 +1975,10 @@
         "subreddit": "ethereum",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Support"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1698,6 +1996,9 @@
         "subreddit": "XRP",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1716,6 +2017,9 @@
         "subreddit": "XRP",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Similarity",
@@ -1738,6 +2042,7 @@
         "subreddit": "XRP",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1756,6 +2061,7 @@
         "subreddit": "XRP",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1774,6 +2080,9 @@
         "subreddit": "XRP",
         "date": "2022_07_08",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1792,6 +2101,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1810,6 +2120,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1828,6 +2139,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1846,6 +2158,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1864,6 +2177,10 @@
         "subreddit": "Bitcoin",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Conflict"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1882,6 +2199,7 @@
         "subreddit": "ethereum",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -1900,6 +2218,9 @@
         "subreddit": "ethereum",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1918,6 +2239,9 @@
         "subreddit": "ethereum",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1935,6 +2259,9 @@
         "subreddit": "ethereum",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Fun"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -1952,6 +2279,12 @@
         "subreddit": "ethereum",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Support",
+                "Trust",
+                "Identity"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -1971,6 +2304,10 @@
         "subreddit": "XRP",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Support",
+                "Identity"
+            ],
             "aske": [
                 "Knowledge",
                 "Status",
@@ -1994,6 +2331,9 @@
         "subreddit": "XRP",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Similarity",
@@ -2016,6 +2356,10 @@
         "subreddit": "XRP",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Support"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -2034,6 +2378,9 @@
         "subreddit": "XRP",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Conflict"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -2051,6 +2398,7 @@
         "subreddit": "XRP",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2068,6 +2416,7 @@
         "subreddit": "solana",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -2087,6 +2436,9 @@
         "subreddit": "solana",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -2106,6 +2458,7 @@
         "subreddit": "solana",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2124,6 +2477,9 @@
         "subreddit": "solana",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -2141,6 +2497,7 @@
         "subreddit": "solana",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2159,6 +2516,10 @@
         "subreddit": "Polkadot",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Support",
+                "Status"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -2178,6 +2539,9 @@
         "subreddit": "Polkadot",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Power"
@@ -2199,6 +2563,9 @@
         "subreddit": "Polkadot",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -2216,6 +2583,9 @@
         "subreddit": "Polkadot",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -2233,6 +2603,9 @@
         "subreddit": "Polkadot",
         "date": "2022_03_31",
         "annotations": {
+            "bence": [
+                "Support"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -2250,6 +2623,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -2270,6 +2646,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2288,6 +2665,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2306,6 +2684,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [
+                "Similarity"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -2327,6 +2708,9 @@
         "subreddit": "Bitcoin",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [
+                "Fun"
+            ],
             "aske": [
                 "Fun"
             ],
@@ -2344,6 +2728,7 @@
         "subreddit": "ethereum",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge",
                 "Power"
@@ -2364,6 +2749,7 @@
         "subreddit": "ethereum",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2382,6 +2768,7 @@
         "subreddit": "ethereum",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2400,6 +2787,9 @@
         "subreddit": "ethereum",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [
+                "Support"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust",
@@ -2421,6 +2811,7 @@
         "subreddit": "ethereum",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [],
             "aske": [],
             "mateusz": [],
             "viktor": []
@@ -2432,6 +2823,7 @@
         "subreddit": "solana",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2449,6 +2841,7 @@
         "subreddit": "solana",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2467,6 +2860,7 @@
         "subreddit": "solana",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2485,6 +2879,10 @@
         "subreddit": "solana",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [
+                "Support",
+                "Identity"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -2505,6 +2903,10 @@
         "subreddit": "solana",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [
+                "Support",
+                "Identity"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -2524,6 +2926,10 @@
         "subreddit": "Polkadot",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [
+                "Power",
+                "Identity"
+            ],
             "aske": [
                 "Knowledge",
                 "Similarity",
@@ -2547,6 +2953,7 @@
         "subreddit": "Polkadot",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2564,6 +2971,9 @@
         "subreddit": "Polkadot",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -2582,6 +2992,7 @@
         "subreddit": "Polkadot",
         "date": "2022_05_11",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2600,6 +3011,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2617,6 +3029,10 @@
         "subreddit": "Bitcoin",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Identity"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -2636,6 +3052,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2653,6 +3070,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge",
                 "Power"
@@ -2676,6 +3094,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2693,6 +3112,7 @@
         "subreddit": "ethereum",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2711,6 +3131,10 @@
         "subreddit": "ethereum",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Support"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -2730,6 +3154,9 @@
         "subreddit": "ethereum",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [
+                "Support"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust",
@@ -2751,6 +3178,9 @@
         "subreddit": "ethereum",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [
+                "Support"
+            ],
             "aske": [
                 "Trust",
                 "Conflict"
@@ -2770,6 +3200,10 @@
         "subreddit": "ethereum",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Support"
+            ],
             "aske": [
                 "Trust",
                 "Conflict"
@@ -2789,6 +3223,9 @@
         "subreddit": "XRP",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Similarity"
@@ -2808,6 +3245,7 @@
         "subreddit": "XRP",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2825,6 +3263,9 @@
         "subreddit": "XRP",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Similarity",
@@ -2847,6 +3288,9 @@
         "subreddit": "XRP",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -2865,6 +3309,9 @@
         "subreddit": "XRP",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -2883,6 +3330,7 @@
         "subreddit": "Polkadot",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2901,6 +3349,7 @@
         "subreddit": "Polkadot",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2918,6 +3367,7 @@
         "subreddit": "Polkadot",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2936,6 +3386,9 @@
         "subreddit": "Polkadot",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -2954,6 +3407,7 @@
         "subreddit": "Polkadot",
         "date": "2022_01_31",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2971,6 +3425,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -2988,6 +3443,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -3005,6 +3461,10 @@
         "subreddit": "Bitcoin",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [
+                "Support",
+                "Status"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -3024,6 +3484,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -3041,6 +3502,7 @@
         "subreddit": "Bitcoin",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Power"
             ],
@@ -3059,6 +3521,7 @@
         "subreddit": "ethereum",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge",
                 "Power"
@@ -3081,6 +3544,9 @@
         "subreddit": "ethereum",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -3099,6 +3565,10 @@
         "subreddit": "ethereum",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [
+                "Support",
+                "Trust"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -3117,6 +3587,7 @@
         "subreddit": "ethereum",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -3135,6 +3606,9 @@
         "subreddit": "ethereum",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge"
             ],
@@ -3152,6 +3626,7 @@
         "subreddit": "XRP",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -3171,6 +3646,7 @@
         "subreddit": "XRP",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -3189,6 +3665,7 @@
         "subreddit": "XRP",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -3206,6 +3683,7 @@
         "subreddit": "XRP",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -3224,6 +3702,9 @@
         "subreddit": "solana",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Similarity",
@@ -3246,6 +3727,7 @@
         "subreddit": "solana",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -3263,6 +3745,7 @@
         "subreddit": "solana",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge",
                 "Power"
@@ -3284,6 +3767,7 @@
         "subreddit": "solana",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -3301,6 +3785,10 @@
         "subreddit": "solana",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [
+                "Knowledge",
+                "Identity"
+            ],
             "aske": [
                 "Knowledge",
                 "Power"
@@ -3320,6 +3808,9 @@
         "subreddit": "Polkadot",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [
+                "Knowledge"
+            ],
             "aske": [
                 "Knowledge",
                 "Trust"
@@ -3340,6 +3831,7 @@
         "subreddit": "Polkadot",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -3357,6 +3849,7 @@
         "subreddit": "Polkadot",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
@@ -3374,6 +3867,7 @@
         "subreddit": "Polkadot",
         "date": "2022_09_10",
         "annotations": {
+            "bence": [],
             "aske": [
                 "Knowledge"
             ],
