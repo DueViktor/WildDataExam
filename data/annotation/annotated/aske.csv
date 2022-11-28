@@ -1,0 +1,406 @@
+id	text	subreddit	date	sentiment	annotator	annotation_id	created_at	updated_at	lead_time
+102	"The Crypto Couple fixes Greenpeace's FUD video. Let's all hijack #changethecode on Twitter
+"	Bitcoin	2022_03_31	"{""choices"": [""Knowledge"", ""Fun""]}"	1	102	2022-11-28T07:05:08.191648Z	2022-11-28T07:05:08.191677Z	5.865
+101	"Get PAID For Testing Out Free Apps with EliteZap |
+"	Bitcoin	2022_03_31	Knowledge	1	101	2022-11-28T07:05:02.111846Z	2022-11-28T07:05:02.111871Z	2.79
+100	"Ripple/XRP-The Secret Disclosed Jeremy Hogan-What SECvsRipple All About...
+"	XRP	2022_07_08	Knowledge	1	100	2022-11-28T07:04:59.108928Z	2022-11-28T07:04:59.108956Z	3.829
+99	"XRP Ledger’s Latest Milestone Is ‘Actually Huge’ Says Legal Expert Jeremy Hogan
+"	XRP	2022_07_08	Knowledge	1	99	2022-11-28T07:04:55.052636Z	2022-11-28T07:04:55.052665Z	2.417
+98	"Dogecoin Dogecoin Price Free Dogecoin Wallet Faucet Lottery and Dice!
+"	XRP	2022_07_08	Knowledge	1	98	2022-11-28T07:04:52.428694Z	2022-11-28T07:04:52.428721Z	1.72
+97	"Dogecoin Dogecoin Price Free Dogecoin Wallet Faucet Lottery and Dice!
+"	XRP	2022_07_08	Knowledge	1	97	2022-11-28T07:04:50.497363Z	2022-11-28T07:04:50.497396Z	3.851
+96	"07/07/22 [Join FlareXRP Discord] - discord.com/invite/FlareXRP
+# FlareXRP Discord
+
+\&gt;&gt;&gt; **Invite Link:** [**discord.com/invite/FlareXRP**](https://discord.com/invite/FlareXRP)
+
+**Official Discord for the following Partner Subs:**
+
+* r/XRP
+* r/Ripple
+* r/FlareNetwork
+* r/Songbird
+* r/Evernode
+
+**Channels**
+
+1. Announcements
+2. News and media
+3. ​Infographics and visual aids
+
+**Categories**
+
+1. Exchanges &amp; Wallets FinTech DeFi &amp; NFTs Investing Cryptocurrency
+2. Interledger Protocol RippleX Polysign
+3. XRPL Labs (XUMM) Bifrost D'CENT Exodus and more
+
+**Special Perks for** **FlareXRP Discord server boosters**
+
+ ⠀"	XRP	2022_07_08	Knowledge	1	96	2022-11-28T07:04:46.425893Z	2022-11-28T07:04:46.425922Z	5.009
+95	"uni- s (floor 0.035eth) ........... Once this collection is sold out 20% of ETH made will be given to one of the collector who owns atleast one NFT from this collection
+"	ethereum	2022_07_08	Knowledge	1	95	2022-11-28T07:04:41.202722Z	2022-11-28T07:04:41.202753Z	4.454
+94	"How to download the complete Ethereum blockchain?
+Hello all
+
+I would like to conduct a content analysis of the Ethereum blockchain as part of a research project. Ideally I download it so that I can explore the entire dataset using Bigdata methods. At this point my question: How would you proceed to download this almost 800 GByte and which tools are best suited for this?"	ethereum	2022_07_08	"{""choices"": [""Knowledge"", ""Similarity""]}"	1	94	2022-11-28T07:04:36.536308Z	2022-11-28T07:04:36.536339Z	9.543
+93	"Ethereum Transaction Fees Have Dropped To Their Lowest Level Since December 2020
+"	ethereum	2022_07_08	Knowledge	1	93	2022-11-28T07:04:26.778954Z	2022-11-28T07:04:26.778986Z	2.763
+92	"How to get test large quantities of test ETH?
+"	ethereum	2022_07_08	Knowledge	1	92	2022-11-28T07:04:23.800891Z	2022-11-28T07:04:23.800916Z	14.349
+91	"lol that ens post name
+[https://opensea.io/assets/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/91935371695976285802090358007475942732042646073194419906195791053467406774906](https://opensea.io/assets/ethereum/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85/91935371695976285802090358007475942732042646073194419906195791053467406774906)"	ethereum	2022_07_08	Fun	1	91	2022-11-28T07:04:09.226819Z	2022-11-28T07:04:09.226848Z	5.113
+90	"Bitcoin problems?
+just some guy who's really into bitcoin and wants to fix/ improve on **Bitcoin**. What is the current problem with bitcoin what could possibly dramatically help out with the net work I just really want to be a part of helping **Bitcoin** succeed or at least try."	Bitcoin	2022_07_08	"{""choices"": [""Knowledge"", ""Power""]}"	1	90	2022-11-28T07:04:03.887154Z	2022-11-28T07:04:03.887180Z	123.432
+89	"WaterJug challenge! Save all your change for the next year. Get MONEY! #money #foryou #explore
+"	Bitcoin	2022_07_08	Knowledge	1	89	2022-11-28T07:02:00.234138Z	2022-11-28T07:02:00.234165Z	3.541
+88	"Stop saving cash!MAKE MONEY WORK FOR YOU. #money #viral #foryou #bitcoin #explore #viralvideo #video
+"	Bitcoin	2022_07_08	Knowledge	1	88	2022-11-28T07:01:56.478481Z	2022-11-28T07:01:56.478512Z	4.385
+87	"This is without a doubt the most embarrassing bitcoin discussion I have ever seen
+"	Bitcoin	2022_07_08	Fun	1	87	2022-11-28T07:01:51.867575Z	2022-11-28T07:01:51.867601Z	19.867
+86	"I made a commitment to stack sats this year with a certain end goal in sight. but shit it's getting exhausting. bitcoin life is a hard slog.
+"	Bitcoin	2022_07_08	"{""choices"": [""Knowledge"", ""Support""]}"	1	86	2022-11-28T07:01:31.786688Z	2022-11-28T07:01:31.786716Z	19.65
+85	"Can anyone guide on how to create staking dapp for a solana nft?
+"	solana	2022_08_26	"{""choices"": [""Knowledge"", ""Trust"", ""Similarity""]}"	1	85	2022-11-28T07:01:11.913400Z	2022-11-28T07:01:11.913425Z	7.541
+84	"Build your Solana project with talent you can trust using Freeflow. Get connected with a network of vetted secure blockchain developers to ensure your next launch is smooth and safe!
+"	solana	2022_08_26	Knowledge	1	84	2022-11-28T07:01:04.152824Z	2022-11-28T07:01:04.152853Z	12.921
+83	"The Best Solana NFT Tools Part I: Matrica Solswatch and SolanaFloor
+"	solana	2022_08_26	Knowledge	1	83	2022-11-28T07:00:51.018605Z	2022-11-28T07:00:51.018635Z	11.382
+82	"DeGods' token $DUST is the number #1 trending SPL Token on Solana. Up 100%+ in the last days.
+"	solana	2022_08_26	Knowledge	1	82	2022-11-28T07:00:39.420683Z	2022-11-28T07:00:39.420709Z	2.003
+81	"theCollege NFTs 🎷 Follow Discord &amp; Twitter NOW to get the FREEMINT Whitelists !! NFT
+"	solana	2022_08_26	Knowledge	1	81	2022-11-28T07:00:37.195332Z	2022-11-28T07:00:37.195357Z	3.011
+80	"If WEF adopts XRP as a global currency I don't see it going more than $1USD
+"	XRP	2022_08_26	"{""choices"": [""Knowledge"", ""Power""]}"	1	80	2022-11-28T07:00:33.965127Z	2022-11-28T07:00:33.965152Z	8.266
+79	"Mark Cuban Slams SEC Chair Gary Gensler for His Take on Crypto
+"	XRP	2022_08_26	Knowledge	1	79	2022-11-28T07:00:25.483099Z	2022-11-28T07:00:25.483124Z	4.507
+78	"08/25/22 [Join FlareXRP Discord] - discord.com/invite/FlareXRP
+# FlareXRP Discord
+
+\&gt;&gt;&gt; **Invite Link:** [**discord.com/invite/FlareXRP**](https://discord.com/invite/FlareXRP)
+
+**Official Discord for the following Partner Subs:**
+
+* r/XRP
+* r/Ripple
+* r/FlareNetwork
+* r/Songbird
+* r/Evernode
+
+**Channels**
+
+1. Announcements
+2. News and media
+3. ​Infographics and visual aids
+
+**Categories**
+
+1. Exchanges &amp; Wallets FinTech DeFi &amp; NFTs Investing Cryptocurrency
+2. Interledger Protocol RippleX Polysign
+3. XRPL Labs (XUMM) Bifrost D'CENT Exodus and more
+
+**Special Perks for** **FlareXRP Discord server boosters**
+
+ ⠀"	XRP	2022_08_26	Knowledge	1	78	2022-11-28T07:00:20.750595Z	2022-11-28T07:00:20.750626Z	3.416
+77	"Full proposal including all details for changing the Flare FLR Token Distribution mechanics have been published!
+"	XRP	2022_08_26	Knowledge	1	77	2022-11-28T07:00:17.119311Z	2022-11-28T07:00:17.119341Z	2.644
+76	"If I leave my eth in Trezor wallet will I get both the ETHS and ETHW tokens post merge?
+"	ethereum	2022_08_26	"{""choices"": [""Knowledge"", ""Similarity""]}"	1	76	2022-11-28T07:00:14.250697Z	2022-11-28T07:00:14.250726Z	9.628
+75	"LEDGER ETH GIFT
+Hey Ledger peeps I want to gift a kid a ledger nano with ETH loaded on it any ideas if possible and what’s the best way to do it ?"	ethereum	2022_08_26	"{""choices"": [""Knowledge"", ""Similarity""]}"	1	75	2022-11-28T07:00:04.410249Z	2022-11-28T07:00:04.410278Z	4.207
+74	"How to raise seed funding for web 3 start up?
+Hey there i am exploring entrepreneurship and trying to startup on a idea which I have pre-planned so now I want to really harness the power of web3  defi and crypto to raise funds and make a good brand out of it. But i am really unaware of how can I raise seed funds since right now i am at idea stage with my startup therefore i would like to know from reddit how can I do it ?  I would appreciate brief description. Thank you"	ethereum	2022_08_26	"{""choices"": [""Knowledge"", ""Similarity""]}"	1	74	2022-11-28T06:59:59.978600Z	2022-11-28T06:59:59.978627Z	17.909
+73	"Whats the Rockepool staking risk
+Hope the community can help me with some perspective.   I know the whole point of the ETH merge is to move to proof of stake. So cool!
+
+If you cant be your own validator and go with one of the popular staking options Rocketpool and get rETH. 
+
+It's right to say your taking risks of the bridge being hacked and losing all your  ETH and could it happen that rETH depegs?
+
+Is there a particular reason why Rocketpool is less vulnerable?"	ethereum	2022_08_26	"{""choices"": [""Knowledge"", ""Trust"", ""Similarity""]}"	1	73	2022-11-28T06:59:41.836819Z	2022-11-28T06:59:41.836857Z	364.388
+72	"GMX Staking Rewards Calculator
+Dear DeFi enthusiasts and GMX fans
+
+I have developed a GMX Staking Calculator which should simply show you how much esGMX + ETH Rewards you are earning from staking the GMX Token.
+
+The GMX Calculator is based on live-data from the gmx exchange and uses the 7-day-average of fee revenue which gets distributed to GMX holders.
+
+Check out the GMX Calculator: [GmxStaking.com](https://GmxStaking.com)
+
+Please let me know any suggestions/feedback so I can improve the website or add new features!"	ethereum	2022_08_26	Knowledge	1	72	2022-11-28T06:53:37.222173Z	2022-11-28T06:53:37.222201Z	191.469
+71	"Indian OTC: India’s First Cryptocurrency Exchange That Allows You To Invest Into Tokenized Funds Making bitcoin available for every Indian.
+"	Bitcoin	2022_08_26	Knowledge	1	71	2022-11-28T06:50:25.523353Z	2022-11-28T06:50:25.523377Z	5.211
+70	"Bitcoin and crypto adoption:
+Country                Users ————————————
+
+📷 USA            46 million 
+
+📷 India            27 million 
+
+📷 Pakistan     26 million 
+
+📷 Nigeria        22 million 
+
+📷 Vietnam      20 million 
+
+📷 China          20 million 
+
+📷 Brazil           16 million 
+
+👇👇👇👇👇👇👇👇👇👇👇👇
+
+[https://twitter.com/jon\_Favr/status/1562716646686334977](https://twitter.com/jon_Favr/status/1562716646686334977)"	Bitcoin	2022_08_26	Knowledge	1	70	2022-11-28T06:50:20.069446Z	2022-11-28T06:50:20.069486Z	10.329
+69	"Cake wallet?
+Does anyone know the best way to get someone to send bitcoin from binance to my wallet? It says a minimum of 0.001 btc to send with btc network. Can I change this to other networks and still get my money on cake wallet?"	Bitcoin	2022_08_26	"{""choices"": [""Knowledge"", ""Trust"", ""Similarity""]}"	1	69	2022-11-28T06:50:09.519396Z	2022-11-28T06:50:09.519424Z	5.516
+68	"Crypto ATM Firm to Go Public with $885M SPAC Deal
+"	Bitcoin	2022_08_26	Knowledge	1	68	2022-11-28T06:50:03.720214Z	2022-11-28T06:50:03.720256Z	3.401
+67	"Why does digital currency thrive these days?
+[Cryptocurrency](https://fullhouseclubs.com/cryptocurrency-payment-review) is the PRESENT and the FUTURE but how long?   
+
+
+\#thingsthatmakeyougohmm #cryptocurrencypayments #digitalcurrency"	Bitcoin	2022_08_26	Knowledge	1	67	2022-11-28T06:50:00.029584Z	2022-11-28T06:50:00.029611Z	3.037
+66	"Bonus Episode with Jusup11 Host of the Alpha Podcast w/ NVRLand Labs - Space Monkeys Podcast 064
+"	Polkadot	2022_07_18	Knowledge	1	66	2022-11-28T06:49:56.760051Z	2022-11-28T06:49:56.760079Z	4.034
+65	"Too busy to stay updated on Astar? Here is a 5 min TLDR of the weeks news to help you stay informed.
+"	Polkadot	2022_07_18	Knowledge	1	65	2022-11-28T06:49:52.534575Z	2022-11-28T06:49:52.534602Z	3.3
+64	"W3F Grant Recipient Prosopo founder Chris Taylor Talks Battling Bots @ Polkadot Decoded 2022 Berlin.
+"	Polkadot	2022_07_18	Knowledge	1	64	2022-11-28T06:49:48.989987Z	2022-11-28T06:49:48.990015Z	31.042
+63	"Help
+anyone know a platform for using NFTs to vote on proposals?"	solana	2022_07_18	"{""choices"": [""Knowledge"", ""Similarity""]}"	1	63	2022-11-28T06:49:17.668399Z	2022-11-28T06:49:17.668425Z	36.53
+62	"Solana Mobile Saga. Who is this phone for?
+Now I'm not a genius or any kind of fanboy when I comes to new phones or Web3 topics. For the last few weeks I saw this project all over my social media and know I want to ask:
+- Who is this phone for? And why is it worth to upgrade to a Web3 phone?"	solana	2022_07_18	"{""choices"": [""Knowledge"", ""Status"", ""Trust""]}"	1	62	2022-11-23T16:03:32.258714Z	2022-11-23T16:03:32.258741Z	194.571
+61	"Why is the majority of SOL not liquid staked?
+Over 95% of staked SOL is delegated to individual validators instead of with a liquid stake pool. There are real risks to liquid
+stake pools (risk of depeg namely) but also real risks to delegating to a single validator (slashing namely). So why is the proportion so skewed?
+
+[View Poll](https://www.reddit.com/poll/w16k16)"	solana	2022_07_18	"{""choices"": [""Knowledge"", ""Status"", ""Trust""]}"	1	61	2022-11-23T16:00:17.466649Z	2022-11-23T16:00:17.466678Z	16.0
+60	"Finalized (MAX confirmations)
+hey there
+
+&amp;#x200B;
+
+I am not able to mint error message:  Finalized (MAX confirmations) 
+
+&amp;#x200B;
+
+Anyone knows whats going on?
+
+&amp;#x200B;
+
+Thanks"	solana	2022_07_18	"{""choices"": [""Knowledge"", ""Status""]}"	1	60	2022-11-23T16:00:01.267010Z	2022-11-23T16:00:01.267038Z	10.27
+59	"ETH-heads when you tell them you like Solana cos the fees are low
+"	solana	2022_07_18	Fun	1	59	2022-11-23T15:59:50.771103Z	2022-11-23T15:59:50.771132Z	7.125
+58	"Help! Lost my ETH. Sent on Cronos beta network. Any ideas about how to recover
+"	ethereum	2022_07_18	"{""choices"": [""Knowledge"", ""Status"", ""Trust""]}"	1	58	2022-11-23T15:59:43.429720Z	2022-11-23T15:59:43.429754Z	5.739
+57	"🎁NFT MINT. ONLY 1000 NFTs. Floor price is 0.31 ETH!🎁
+"	ethereum	2022_07_18	Knowledge	1	57	2022-11-23T15:59:37.474180Z	2022-11-23T15:59:37.474211Z	6.272
+56	"Is there a crypto company doing what fiverr does?
+"	ethereum	2022_07_18	Knowledge	1	56	2022-11-23T15:59:30.984528Z	2022-11-23T15:59:30.984560Z	4.03
+55	"Is there a crypto company doing what fiverr does?
+ **Is there a crypto company doing what fiverr does?**    
+
+
+Fiverr is really good for freelancing.  Is there currently a site fiverr offering to do business with crypto payments?
+
+  
+Thanks"	ethereum	2022_07_18	Knowledge	1	55	2022-11-23T15:59:26.732069Z	2022-11-23T15:59:26.732099Z	7.484
+54	"Otherside.xyz uses Stadia's tech to stream the game on the browser
+Basically the title details here if required (my own post): [https://www.reddit.com/r/Stadia/comments/w0xsm7/big\_news\_othersidexyz\_yuga\_uses\_google\_cloud/](https://www.reddit.com/r/Stadia/comments/w0xsm7/big_news_othersidexyz_yuga_uses_google_cloud/)"	ethereum	2022_07_18	Knowledge	1	54	2022-11-23T15:59:19.029045Z	2022-11-23T15:59:19.029078Z	6.561
+53	"Is it true that in Russia ...
+... It is prohibited to transfer or accept digital financial assets as a consideration for transferred goods performed works rendered services as well as in any other way that allows one to assume payment for goods (works services) by a digital financial asset except as otherwise provided by federal laws."	Bitcoin	2022_07_18	Knowledge	1	53	2022-11-23T15:59:12.241437Z	2022-11-23T15:59:12.241472Z	27.575
+52	"My purpose in life is to troll buttcoin posts
+"	Bitcoin	2022_07_18	Fun	1	52	2022-11-23T15:58:44.417136Z	2022-11-23T15:58:44.417165Z	5.845
+51	"[serious] I’m a set it and forget it type of person. I had crypto on voyager and I’m just hearing about it. Can someone ELI5?
+I understand they declared bankruptcy what does that mean for my crypto? Is it gone? Is the company doing something to repay us or am I shit out of luck?"	Bitcoin	2022_07_18	"{""choices"": [""Knowledge"", ""Status"", ""Trust""]}"	1	51	2022-11-23T15:58:38.290831Z	2022-11-23T15:58:38.290857Z	226.886
+50	"any way to purchase BTC anonymously?
+i dont like giving big companies my personal ID and shit and i wanna know if theres an anonymous way 2 do this"	Bitcoin	2022_07_18	"{""choices"": [""Knowledge"", ""Trust""]}"	1	50	2022-11-23T15:54:51.189482Z	2022-11-23T15:54:51.189532Z	7.8
+49	"Anyone trying to make a quick $500 in NY at Home ? Add my snap I got you queenbean326
+"	Bitcoin	2022_07_18	Knowledge	1	49	2022-11-23T15:54:43.182387Z	2022-11-23T15:54:43.182415Z	6.365
+48	"Web3 Foundation asserts DOT is not a security after 3 years of meetings with the SEC
+"	Polkadot	2022_11_06	Knowledge	1	48	2022-11-23T15:54:36.600726Z	2022-11-23T15:54:36.600756Z	5.579
+47	"Polkadot at the Bear Market San Fransisco Blockchain Week - SER Have ya Heard?
+"	Polkadot	2022_11_06	Knowledge	1	47	2022-11-23T15:54:30.797061Z	2022-11-23T15:54:30.797087Z	42.823
+46	"Ripple Struggles above $0.44 as Bears Threaten to Short
+"	XRP	2022_11_06	Knowledge	1	46	2022-11-23T15:53:47.754587Z	2022-11-23T15:53:47.754617Z	5.774
+45	"Who has an ELLIPAL wallet? I have money trapped in usdc and want to sell it but it’s saying I need mining fees? I thought you didn’t need to pay for usdc?
+"	XRP	2022_11_06	"{""choices"": [""Knowledge"", ""Trust"", ""Similarity""]}"	1	45	2022-11-23T15:53:41.768031Z	2022-11-23T15:53:41.768059Z	16.707
+44	"First culture marketplace. Create Buy Sell Explore Images Memes and GIFs
+"	XRP	2022_11_06	Knowledge	1	44	2022-11-23T15:53:24.849630Z	2022-11-23T15:53:24.849661Z	5.177
+43	"ALCHEMY CRYPTO CYPHER 11/4/22 XRP NEWS &amp; MUCH MORE!
+"	XRP	2022_11_06	Knowledge	1	43	2022-11-23T15:53:19.450374Z	2022-11-23T15:53:19.450404Z	3.886
+42	"11/05/22 [Join XRPLounge Discord] - discord.com/invite/XRPLounge
+# XRPLounge Discord
+
+\&gt;&gt;&gt; **Invite Link:** [discord.com/invite/XRPLounge](https://discord.com/invite/XRPLounge)
+
+**Official Discord for the following Partner Subs:**
+
+* r/XRP
+* r/Ripple
+* r/FlareNetwork
+* r/Songbird
+* r/Evernode
+
+**Channels**
+
+1. Announcements
+2. News and media
+3. ​Infographics and visual aids
+
+**Categories**
+
+1. Exchanges &amp; Wallets FinTech DeFi &amp; NFTs Investing Cryptocurrency
+2. Interledger Protocol RippleX Polysign
+3. XRPL Labs (XUMM) Bifrost D'CENT Exodus and more
+
+**Special Perks for** **XRPLounge Discord server boosters**
+
+ ⠀"	XRP	2022_11_06	Knowledge	1	42	2022-11-23T15:53:15.341804Z	2022-11-23T15:53:15.341832Z	3.95
+41	"Where can i buy safely buy Ethereum without the transaction getting cancelled by my bank
+"	ethereum	2022_11_06	"{""choices"": [""Knowledge"", ""Trust""]}"	1	41	2022-11-23T15:53:11.169308Z	2022-11-23T15:53:11.169336Z	7.462
+40	"Where can i buy safely buy Ethereum without the transaction getting cancelled by my bank
+As i am a minor its quite hard for me to access safe websites to buy from without the transaction being rejected by my bank"	ethereum	2022_11_06	"{""choices"": [""Knowledge"", ""Trust""]}"	1	40	2022-11-23T15:53:03.495084Z	2022-11-23T15:53:03.495112Z	17.786
+39	"looking for ethereum and bitcoin olny wallet
+hello guys I'm looking for ethereum and bitcoin only wallet. I've got mycelium but it shows no network connection at the ethereum wallet most of the times. and the error is a yellow triangle with and exclamation mark. I'm using andoid.
+
+thanks"	ethereum	2022_11_06	Trust	1	39	2022-11-23T15:52:45.499484Z	2022-11-23T15:52:45.499518Z	11.587
+38	"take a look I think it's worth it the bidding war is starting 😁
+"	ethereum	2022_11_06	Knowledge	1	38	2022-11-23T15:52:33.691750Z	2022-11-23T15:52:33.691786Z	6.54
+37	"I have a question can anybody send me 10€ worth of Ethereum and I give u a paysafe card. Sounds strange but you would help me a lot 🙏
+"	ethereum	2022_11_06	Trust	1	37	2022-11-23T15:52:26.918396Z	2022-11-23T15:52:26.918426Z	26.595
+36	"Is Blockchain Really Necessary?
+After a short period of development and especially after the industrial revolution people have a clear perception of the finiteness of the earth's resources.
+
+To solve this problem people have created the Internet an infinite resource space. But is the Internet really infinite and is that infinity good or bad?
+
+Blockchain is one of the next development solutions of the Internet. What effect does Blockchain have for the development of the Internet and is it really the inevitable development of the Internet?"	Bitcoin	2022_11_06	Knowledge	1	36	2022-11-23T15:52:00.103618Z	2022-11-23T15:52:00.103647Z	16.887
+35	"Fed is not slowing down with BTC Gandalf - State of Bitcoin Ep. 47
+"	Bitcoin	2022_11_06	Knowledge	1	35	2022-11-23T15:51:43.012275Z	2022-11-23T15:51:43.012301Z	6.225
+34	"What's the value of an infinitely tall stack of $1 bills?
+"	Bitcoin	2022_11_06	Knowledge	1	34	2022-11-23T15:51:36.571216Z	2022-11-23T15:51:36.571247Z	3.556
+33	"You MUST see this AI generated video on Grimes lyrics - Delicate Weapon Cyberpunk !!
+"	Bitcoin	2022_11_06	Knowledge	1	33	2022-11-23T15:51:32.805044Z	2022-11-23T15:51:32.805075Z	3.681
+32	"Join crypto today by earning massive profits dailyweeklymonthly contact me for more details
+"	Bitcoin	2022_11_06	Knowledge	1	32	2022-11-23T15:51:28.913983Z	2022-11-23T15:51:28.914012Z	12.781
+31	"Play-to-Earn Buy NFT Miners and Create Passive Crypto Income by Mining Online BTC ETH BNB MATIC DOGE SOL
+"	Polkadot	2022_07_20	Knowledge	1	31	2022-11-23T15:51:15.915796Z	2022-11-23T15:51:15.915828Z	4.482
+30	"07/19/22 [Join FlareXRP Discord] - discord.com/invite/FlareXRP
+# FlareXRP Discord
+
+\&gt;&gt;&gt; **Invite Link:** [**discord.com/invite/FlareXRP**](https://discord.com/invite/FlareXRP)
+
+**Official Discord for the following Partner Subs:**
+
+* r/XRP
+* r/Ripple
+* r/FlareNetwork
+* r/Songbird
+* r/Evernode
+
+**Channels**
+
+1. Announcements
+2. News and media
+3. ​Infographics and visual aids
+
+**Categories**
+
+1. Exchanges &amp; Wallets FinTech DeFi &amp; NFTs Investing Cryptocurrency
+2. Interledger Protocol RippleX Polysign
+3. XRPL Labs (XUMM) Bifrost D'CENT Exodus and more
+
+**Special Perks for** **FlareXRP Discord server boosters**
+
+ ⠀"	XRP	2022_07_20	Knowledge	1	30	2022-11-23T15:51:11.220585Z	2022-11-23T15:51:11.220613Z	5.183
+29	"Thinking of Investing in $XRP Coin? Insanely CHEAP Prices ($XRP &amp; SEC Lawsuit Update)
+"	XRP	2022_07_20	Knowledge	1	29	2022-11-23T15:51:05.552693Z	2022-11-23T15:51:05.552753Z	4.105
+28	"Subcommittee on Investor Protection Entrepreneurship and Capital Markets Grills SEC Enforcement Director
+"	XRP	2022_07_20	Knowledge	1	28	2022-11-23T15:51:01.231935Z	2022-11-23T15:51:01.231963Z	4.47
+27	"Ripple is one of the few cryptos supposedly compliant with ISO 20022
+"	XRP	2022_07_20	Knowledge	1	27	2022-11-23T15:50:56.539839Z	2022-11-23T15:50:56.539867Z	7.165
+26	"Sologenic check it out if you haven’t low market cap gem!!!! Easy 100 times returned and it’s built on XRP!!!
+"	XRP	2022_07_20	Knowledge	1	26	2022-11-23T15:50:49.160408Z	2022-11-23T15:50:49.160439Z	9.969
+25	"I admittedly don’t know much about the topic but I am wondering if Quantum Computing will destroy the crypto market as we know it today. Will Ethereum 2.0 be resistant to Quantum attacks? Is it smart to invest in both crypto and Quantum Computing stocks?
+"	ethereum	2022_07_20	"{""choices"": [""Knowledge"", ""Trust""]}"	1	25	2022-11-23T15:50:38.970104Z	2022-11-23T15:50:38.970136Z	14.42
+24	"Crypto asset manager Valkyrie looks to raise $30M for its new VC arm
+"	ethereum	2022_07_20	Knowledge	1	24	2022-11-23T15:50:24.335314Z	2022-11-23T15:50:24.335343Z	5.662
+23	"Building a way to discover new dapps everyday what do you guys think ?
+"	ethereum	2022_07_20	"{""choices"": [""Knowledge"", ""Trust""]}"	1	23	2022-11-23T15:50:18.454419Z	2022-11-23T15:50:18.454448Z	14.6
+22	"Crypto more popular than mutual funds among millennials survey shows
+"	ethereum	2022_07_20	Knowledge	1	22	2022-11-23T15:50:03.638686Z	2022-11-23T15:50:03.638717Z	5.142
+21	"Three Arrows Capital (3AC) Su Zhu and Kyle Davies may have purchased a $50 million yacht with borrowed funds
+"	ethereum	2022_07_20	Knowledge	1	21	2022-11-23T15:49:58.281365Z	2022-11-23T15:49:58.281395Z	5.302
+20	"New ath in 2023?
+It seems like a new ath for this year is pretty much impossible. I see some bears here and elsewhere saying that it will take till 2025 and even 2026 to see a new ath. Would it be reasonable to hope for a new ath next year or is that just a fantasy? What are the chances we see one next year?"	Bitcoin	2022_07_20	"{""choices"": [""Knowledge"", ""Trust""]}"	1	20	2022-11-23T15:49:52.763704Z	2022-11-23T15:49:52.763732Z	22.434
+19	"Total cryptocurrency market cap returns to $1 trillion! Bitcoin stands at $22000 Ether surges to $1500
+"	Bitcoin	2022_07_20	Knowledge	1	19	2022-11-23T15:49:30.121235Z	2022-11-23T15:49:30.121265Z	5.087
+18	"Total cryptocurrency market cap returns to $1 trillion! Bitcoin stands at $22000 Ether surges to $1500
+"	Bitcoin	2022_07_20	Knowledge	1	18	2022-11-23T15:49:24.812257Z	2022-11-23T15:49:24.812284Z	4.652
+17	"Bitcoin
+Let's all come in and discuss. Some people say the bull market is coming what do you think?"	Bitcoin	2022_07_20	"{""choices"": [""Knowledge"", ""Trust""]}"	1	17	2022-11-23T15:49:19.918333Z	2022-11-23T15:49:19.918364Z	13.299
+16	"Scaramucci Halts Withdrawals in a Fund After Stock Crypto Swoon
+"	Bitcoin	2022_07_20	Knowledge	1	16	2022-11-23T15:49:06.388779Z	2022-11-23T15:49:06.388807Z	3.784
+15	"SOL/USDC: 123% APR on orca whirlpool but 13.1% on raydium ?
+I mainly use raydium but today i decided that i will add some ORCA to my bag of SPL token that why i went directly on orca website and i noticed this difference.
+
+Both are calculate based on the last 24h
+
+Do somebody now why is it like that ? Because then i should move all my SOL/USDC to Orca whirlpool instead of classic pool"	solana	2022_08_01	Knowledge	1	15	2022-11-23T15:49:02.389325Z	2022-11-23T15:49:02.389353Z	8.774
+14	"Solana space stores will attract 100k users to the Solana blockchain monthly! - CEO of Solana. Is the Solana space stores capable of attracting 100k users monthly?
+"	solana	2022_08_01	Knowledge	1	14	2022-11-23T15:48:53.388930Z	2022-11-23T15:48:53.388959Z	10.347
+13	"Solana blockchain shows a higher decentralization than other major blockchains in the crypto sector. Is Solana blockchain more centralized than decentralized?
+"	solana	2022_08_01	"{""choices"": [""Knowledge"", ""Trust""]}"	1	13	2022-11-23T15:48:42.816989Z	2022-11-23T15:48:42.817018Z	27.024
+12	"Solana candy machine (sugar) mainnet is not working - please help
+"	solana	2022_08_01	"{""choices"": [""Knowledge"", ""Trust""]}"	1	12	2022-11-23T15:48:15.586874Z	2022-11-23T15:48:15.586904Z	22.066
+11	"""How To Get Rich With Bitcoin Even If You Have No Clue About Technology""
+"	solana	2022_08_01	Knowledge	1	11	2022-11-23T15:47:53.309203Z	2022-11-23T15:47:53.309236Z	9.352
+10	"this is the beginning. I am the definition of army. this game ended long time ago. this is war. I am a victim ""Remote Nueral Monitoring"" you wanna know more?
+"	XRP	2022_08_01	Conflict	1	10	2022-11-23T15:47:43.720703Z	2022-11-23T15:47:43.720730Z	19.732
+9	"Do banks have to buy Xrp to use the ODL service.
+"	XRP	2022_08_01	Knowledge	1	9	2022-11-23T15:47:23.767557Z	2022-11-23T15:47:23.767588Z	4.626
+8	"New XRPL DEX application receives $100K in XRPL Grants - Digital Journal
+"	XRP	2022_08_01	Knowledge	1	8	2022-11-23T15:47:18.921960Z	2022-11-23T15:47:18.921993Z	2.333
+7	"New XRPL DEX application receives $100K in XRPL Grants - Digital Journal
+"	XRP	2022_08_01	Knowledge	1	7	2022-11-23T15:47:16.368939Z	2022-11-23T15:47:16.368967Z	4.882
+6	"07/31/22 [Join FlareXRP Discord] - discord.com/invite/FlareXRP
+# FlareXRP Discord
+
+\&gt;&gt;&gt; **Invite Link:** [**discord.com/invite/FlareXRP**](https://discord.com/invite/FlareXRP)
+
+**Official Discord for the following Partner Subs:**
+
+* r/XRP
+* r/Ripple
+* r/FlareNetwork
+* r/Songbird
+* r/Evernode
+
+**Channels**
+
+1. Announcements
+2. News and media
+3. ​Infographics and visual aids
+
+**Categories**
+
+1. Exchanges &amp; Wallets FinTech DeFi &amp; NFTs Investing Cryptocurrency
+2. Interledger Protocol RippleX Polysign
+3. XRPL Labs (XUMM) Bifrost D'CENT Exodus and more
+
+**Special Perks for** **FlareXRP Discord server boosters**
+
+ ⠀"	XRP	2022_08_01	Knowledge	1	6	2022-11-23T15:47:11.251737Z	2022-11-23T15:47:11.251769Z	6.864
+5	"Slowly then all at once: Major Israeli credit card provider launches Bitcoin rewards card (spare me the anti-Israel BS)
+"	Bitcoin	2022_08_01	"{""choices"": [""Knowledge"", ""Conflict""]}"	1	5	2022-11-23T15:47:04.160520Z	2022-11-23T15:47:04.160550Z	13.297
+4	"Finally got an Online job after waiting for months ....
+I was depressed from 5 months as i applied for many jobs but rejected from all ... Then I tried to apply for an online job and eventually a website hired me . Fast forward to now I am employed from a month and got a payout of $3700 this month....
+Don't worry you will also get a good job soon ..
+For your curiosity i found the job [here](https://linktr.ee/free_jobs_) ."	Bitcoin	2022_08_01	"{""choices"": [""Support"", ""Trust""]}"	1	4	2022-11-23T15:46:50.637719Z	2022-11-23T15:46:50.637748Z	44.988
+3	"Question about Sparrow wallet coinjoin.
+How many coinjoin mixes is sufficient? Is 3 or 4 the sweet spot or would more mixes be required?"	Bitcoin	2022_08_01	Knowledge	1	3	2022-11-23T15:46:05.425635Z	2022-11-23T15:46:05.425663Z	11.284
+2	"Bull24coin .com legit?
+Has anyone heard of or used this platform?"	Bitcoin	2022_08_01	"{""choices"": [""Knowledge"", ""Trust""]}"	1	2	2022-11-23T15:45:53.912953Z	2022-11-23T15:45:53.912979Z	10.917
+1	"An interesting Bitcoin read from 2011. This guy must be a time traveler!
+"	Bitcoin	2022_08_01	"{""choices"": [""Knowledge"", ""Fun""]}"	1	1	2022-11-23T15:45:42.760386Z	2022-11-23T15:45:42.760412Z	11.837
