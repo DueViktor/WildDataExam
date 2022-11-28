@@ -16,8 +16,8 @@
 - Start annotating by pressing `Label All Tasks`.
 
 ## When you're done annotating
-- Go to `Export` and export the annotations as `CSV` file.
-- Rename the file to `yourname.csv` and upload to `data/annotation/annotated/yourname.csv` like this: `viktor.csv`
+- Go to `Export` and export the annotations as `JSON` file.
+- Rename the file to `yourname.json` and upload to `data/annotation/annotated/yourname.json` like this: `viktor.json`
 - For those needing git help:
   ```bash
   git add data/annotation/annotated/git commit -m "Added annotations"
