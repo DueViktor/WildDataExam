@@ -53,11 +53,7 @@ for file_path in annotation_files:
 ### calculate the kappa score for each annotator
 # how to calculate the kappa score for multiple annotators
 # calculate the kappa score for each annotator
-
 for entry in master:
-
-    print(f"id: {master[entry]['id']}")
-
     
     all_annotations = set()
     
