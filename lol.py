@@ -8,7 +8,6 @@ import seaborn as sns
 import plotly.express as px
 
 
-
 btc = pd.read_csv("data/coins/coinmarket-BTC.csv", index_col=0)[['Date','Close']]
 
 btc = btc[btc["Date"] >= "2022-01-01"]
