@@ -49,3 +49,7 @@ for file_path in annotation_files:
 # save master to a json file named master.json
 with open("data/annotation/master.json", "w") as f:
     json.dump(master, f)
+
+### calculate the kappa score for each annotator
+# how to calculate the kappa score for multiple annotators
+# calculate the kappa score for each annotator
