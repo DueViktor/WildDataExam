@@ -4,7 +4,8 @@
         "text": "An interesting Bitcoin read from 2011. This guy must be a time traveler!",
         "subreddit": "Bitcoin",
         "date": "2022_08_01",
-        "annotations": {}
+        "annotations": {},
+        "fleiss-kappa": 0
     },
     "1": {
         "id": "wcigs5",
@@ -29,7 +30,8 @@
                 "Knowledge",
                 "Fun"
             ]
-        }
+        },
+        "fleiss-kappa": -0.26984126984126994
     },
     "2": {
         "id": "wchpsa",
@@ -52,7 +54,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.14285714285714285
     },
     "3": {
         "id": "wchnfb",
@@ -79,7 +82,8 @@
                 "Power",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": 0.32121212121212106
     },
     "4": {
         "id": "wchmke",
@@ -107,7 +111,8 @@
                 "Trust",
                 "Identity"
             ]
-        }
+        },
+        "fleiss-kappa": -0.14583333333333348
     },
     "5": {
         "id": "wcfm2b",
@@ -130,7 +135,8 @@
                 "Knowledge",
                 "Conflict"
             ]
-        }
+        },
+        "fleiss-kappa": -0.14285714285714285
     },
     "6": {
         "id": "wcw0e5",
@@ -155,7 +161,8 @@
                 "Similarity",
                 "Identity"
             ]
-        }
+        },
+        "fleiss-kappa": 0.11111111111111101
     },
     "7": {
         "id": "wcvxjo",
@@ -175,7 +182,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "8": {
         "id": "wccsr6",
@@ -195,7 +203,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "9": {
         "id": "wccomz",
@@ -217,7 +226,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.3333333333333333
     },
     "10": {
         "id": "wce128",
@@ -240,7 +250,8 @@
                 "Status",
                 "Conflict"
             ]
-        }
+        },
+        "fleiss-kappa": -0.208791208791209
     },
     "11": {
         "id": "wcmv66",
@@ -258,7 +269,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "12": {
         "id": "wcx5j9",
@@ -278,7 +290,8 @@
             "viktor": [
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -1.0
     },
     "13": {
         "id": "wcx2ef",
@@ -300,7 +313,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.3333333333333333
     },
     "14": {
         "id": "wcxryn",
@@ -323,7 +337,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.26984126984126994
     },
     "15": {
         "id": "w2mol3",
@@ -345,7 +360,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.3333333333333333
     },
     "16": {
         "id": "w2mkzd",
@@ -361,7 +377,8 @@
                 "Knowledge"
             ],
             "viktor": []
-        }
+        },
+        "fleiss-kappa": 1
     },
     "17": {
         "id": "w2mhhc",
@@ -382,7 +399,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.37142857142857166
     },
     "18": {
         "id": "w2mfzh",
@@ -402,7 +420,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "19": {
         "id": "w2macy",
@@ -422,7 +441,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "20": {
         "id": "w2w4ek",
@@ -445,7 +465,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.37142857142857166
     },
     "21": {
         "id": "w2vw8x",
@@ -465,7 +486,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "22": {
         "id": "w2vtit",
@@ -485,7 +507,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "23": {
         "id": "w2vqiq",
@@ -505,7 +528,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": 0.4666666666666667
     },
     "24": {
         "id": "w2u25x",
@@ -525,7 +549,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "25": {
         "id": "w2ozuw",
@@ -548,7 +573,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.14285714285714285
     },
     "26": {
         "id": "w36clo",
@@ -565,7 +591,8 @@
                 "Fun"
             ],
             "viktor": []
-        }
+        },
+        "fleiss-kappa": 0.4666666666666667
     },
     "27": {
         "id": "w30zr7",
@@ -586,7 +613,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "28": {
         "id": "w2spsn",
@@ -600,7 +628,8 @@
                 "Knowledge"
             ],
             "viktor": []
-        }
+        },
+        "fleiss-kappa": 1
     },
     "29": {
         "id": "w2j434",
@@ -620,7 +649,8 @@
             "viktor": [
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "30": {
         "id": "w33lsx",
@@ -646,7 +676,8 @@
                 "Similarity",
                 "Identity"
             ]
-        }
+        },
+        "fleiss-kappa": 0.4666666666666667
     },
     "31": {
         "id": "ymxq0c",
@@ -666,7 +697,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "32": {
         "id": "ymxnfv",
@@ -688,7 +720,8 @@
             "viktor": [
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.07142857142857122
     },
     "33": {
         "id": "ymwe9b",
@@ -709,7 +742,8 @@
             "viktor": [
                 "Fun"
             ]
-        }
+        },
+        "fleiss-kappa": -0.37142857142857166
     },
     "34": {
         "id": "ymw9uk",
@@ -729,7 +763,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -1.0
     },
     "35": {
         "id": "ymvxen",
@@ -745,7 +780,8 @@
                 "Knowledge"
             ],
             "viktor": []
-        }
+        },
+        "fleiss-kappa": 1
     },
     "36": {
         "id": "ymno52",
@@ -768,7 +804,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.37142857142857166
     },
     "37": {
         "id": "ymmzym",
@@ -790,7 +827,8 @@
             "viktor": [
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -1.1102230246251565e-16
     },
     "38": {
         "id": "ymmx3f",
@@ -806,7 +844,8 @@
                 "Fun"
             ],
             "viktor": []
-        }
+        },
+        "fleiss-kappa": 1
     },
     "39": {
         "id": "ymmmcm",
@@ -827,7 +866,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "40": {
         "id": "ymmlgl",
@@ -848,7 +888,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "41": {
         "id": "ymjjfj",
@@ -869,7 +910,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "42": {
         "id": "ymgzw1",
@@ -895,7 +937,8 @@
                 "Similarity",
                 "Identity"
             ]
-        }
+        },
+        "fleiss-kappa": 0.4666666666666667
     },
     "43": {
         "id": "ymtr5j",
@@ -911,7 +954,8 @@
                 "Knowledge"
             ],
             "viktor": []
-        }
+        },
+        "fleiss-kappa": 1
     },
     "44": {
         "id": "ymyzzb",
@@ -932,7 +976,8 @@
             "viktor": [
                 "Fun"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "45": {
         "id": "ymmowf",
@@ -953,7 +998,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.37142857142857166
     },
     "46": {
         "id": "yn1u3l",
@@ -976,7 +1022,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.10052910052910057
     },
     "47": {
         "id": "ymzt0m",
@@ -997,7 +1044,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "48": {
         "id": "w0ya94",
@@ -1018,7 +1066,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "49": {
         "id": "w0wsiv",
@@ -1040,7 +1089,8 @@
             "viktor": [
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.33333333333333337
     },
     "50": {
         "id": "w0wm0b",
@@ -1063,7 +1113,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.14285714285714285
     },
     "51": {
         "id": "w0wlyk",
@@ -1088,7 +1139,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.3333333333333335
     },
     "52": {
         "id": "w0w59n",
@@ -1109,7 +1161,8 @@
             "viktor": [
                 "Fun"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "53": {
         "id": "w0xtx3",
@@ -1129,7 +1182,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "54": {
         "id": "w1a6oc",
@@ -1150,7 +1204,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "55": {
         "id": "w1a52f",
@@ -1171,7 +1226,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "56": {
         "id": "w18am2",
@@ -1191,7 +1247,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "57": {
         "id": "w180j0",
@@ -1212,7 +1269,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.37142857142857166
     },
     "58": {
         "id": "w1am7u",
@@ -1234,7 +1292,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.33333333333333337
     },
     "59": {
         "id": "w176u0",
@@ -1254,7 +1313,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -1.0
     },
     "60": {
         "id": "w16k16",
@@ -1276,7 +1336,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -1.1102230246251565e-16
     },
     "61": {
         "id": "w1h0et",
@@ -1297,7 +1358,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "62": {
         "id": "w1e6bu",
@@ -1315,7 +1377,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "63": {
         "id": "w0y2j9",
@@ -1335,7 +1398,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.5000000000000001
     },
     "64": {
         "id": "w1374z",
@@ -1355,7 +1419,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "65": {
         "id": "w1e6y7",
@@ -1376,7 +1441,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "66": {
         "id": "wxbaki",
@@ -1397,7 +1463,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "67": {
         "id": "wxba43",
@@ -1418,7 +1485,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "68": {
         "id": "wx8oio",
@@ -1436,7 +1504,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "69": {
         "id": "wx8hb0",
@@ -1458,7 +1527,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -1.1102230246251565e-16
     },
     "70": {
         "id": "wx8a90",
@@ -1478,7 +1548,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "71": {
         "id": "wx7m7l",
@@ -1499,7 +1570,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "72": {
         "id": "wx7gw9",
@@ -1526,7 +1598,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.227972027972028
     },
     "73": {
         "id": "wx632h",
@@ -1553,7 +1626,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.06666666666666675
     },
     "74": {
         "id": "wx4ewp",
@@ -1577,7 +1651,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.1250000000000002
     },
     "75": {
         "id": "wxhq0b",
@@ -1601,7 +1676,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.1250000000000002
     },
     "76": {
         "id": "wxf152",
@@ -1621,7 +1697,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -1.0
     },
     "77": {
         "id": "wx3zgc",
@@ -1641,7 +1718,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "78": {
         "id": "wxnoai",
@@ -1668,7 +1746,8 @@
                 "Similarity",
                 "Identity"
             ]
-        }
+        },
+        "fleiss-kappa": 0.32121212121212106
     },
     "79": {
         "id": "wxk3t5",
@@ -1689,7 +1768,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.37142857142857166
     },
     "80": {
         "id": "wxf9w4",
@@ -1708,7 +1788,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "81": {
         "id": "wxoavv",
@@ -1727,7 +1808,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "82": {
         "id": "wxnmmr",
@@ -1747,7 +1829,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "83": {
         "id": "wxi3gq",
@@ -1765,7 +1848,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "84": {
         "id": "wx9npe",
@@ -1785,7 +1869,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "85": {
         "id": "vt9b2z",
@@ -1805,7 +1890,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.5000000000000001
     },
     "86": {
         "id": "vt9032",
@@ -1825,7 +1911,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.5000000000000001
     },
     "87": {
         "id": "vt8l6l",
@@ -1847,7 +1934,8 @@
                 "Knowledge",
                 "Fun"
             ]
-        }
+        },
+        "fleiss-kappa": -0.33333333333333337
     },
     "88": {
         "id": "vt8k9q",
@@ -1865,7 +1953,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "89": {
         "id": "vt8f2a",
@@ -1883,7 +1972,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "90": {
         "id": "vtchze",
@@ -1907,7 +1997,8 @@
                 "Status",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "91": {
         "id": "vtbss4",
@@ -1927,7 +2018,8 @@
                 "Knowledge",
                 "Fun"
             ]
-        }
+        },
+        "fleiss-kappa": 0.4666666666666667
     },
     "92": {
         "id": "vtbspn",
@@ -1947,7 +2039,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -1.0
     },
     "93": {
         "id": "vtkuhk",
@@ -1967,7 +2060,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "94": {
         "id": "vtkmjy",
@@ -1988,7 +2082,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.37142857142857166
     },
     "95": {
         "id": "vt9cv7",
@@ -2009,7 +2104,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "96": {
         "id": "vt8z5k",
@@ -2034,7 +2130,8 @@
                 "Similarity",
                 "Identity"
             ]
-        }
+        },
+        "fleiss-kappa": 0.11111111111111101
     },
     "97": {
         "id": "vt8yw9",
@@ -2053,7 +2150,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "98": {
         "id": "vt7rop",
@@ -2072,7 +2170,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "99": {
         "id": "vtlzed",
@@ -2093,7 +2192,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "100": {
         "id": "trxskd",
@@ -2112,7 +2212,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "101": {
         "id": "trxc51",
@@ -2131,7 +2232,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "102": {
         "id": "trwsx1",
@@ -2150,7 +2252,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "103": {
         "id": "trwldk",
@@ -2169,7 +2272,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "104": {
         "id": "trwbio",
@@ -2191,7 +2295,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.33333333333333337
     },
     "105": {
         "id": "trwstx",
@@ -2210,7 +2315,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "106": {
         "id": "trv7ic",
@@ -2231,7 +2337,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "107": {
         "id": "truwqm",
@@ -2251,7 +2358,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "108": {
         "id": "trub1o",
@@ -2271,7 +2379,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -1.0
     },
     "109": {
         "id": "ts1cb1",
@@ -2296,7 +2405,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": 0.06878306878306871
     },
     "110": {
         "id": "trxsnt",
@@ -2323,7 +2433,8 @@
                 "Status",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.1748251748251746
     },
     "111": {
         "id": "truot5",
@@ -2348,7 +2459,8 @@
                 "Similarity",
                 "Identity"
             ]
-        }
+        },
+        "fleiss-kappa": 0.11111111111111101
     },
     "112": {
         "id": "ts2gu7",
@@ -2370,7 +2482,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.3333333333333333
     },
     "113": {
         "id": "ts81d6",
@@ -2390,7 +2503,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -1.0
     },
     "114": {
         "id": "ts6uq1",
@@ -2408,7 +2522,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "115": {
         "id": "trudl6",
@@ -2428,7 +2543,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": 0.4666666666666667
     },
     "116": {
         "id": "ts18tw",
@@ -2450,7 +2566,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.3333333333333333
     },
     "117": {
         "id": "ts3mmr",
@@ -2469,7 +2586,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "118": {
         "id": "ts30ew",
@@ -2489,7 +2607,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "119": {
         "id": "ts1xyz",
@@ -2508,7 +2627,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "120": {
         "id": "tru63u",
@@ -2531,7 +2651,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.26984126984126994
     },
     "121": {
         "id": "ts8u96",
@@ -2555,7 +2676,8 @@
                 "Knowledge",
                 "Power"
             ]
-        }
+        },
+        "fleiss-kappa": -0.16666666666666674
     },
     "122": {
         "id": "ts4u3x",
@@ -2575,7 +2697,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "123": {
         "id": "tse019",
@@ -2595,7 +2718,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "124": {
         "id": "tsdrc6",
@@ -2615,7 +2739,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.5000000000000001
     },
     "125": {
         "id": "umddbn",
@@ -2638,7 +2763,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.37142857142857166
     },
     "126": {
         "id": "umdc3m",
@@ -2657,7 +2783,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "127": {
         "id": "umd8ai",
@@ -2676,7 +2803,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "128": {
         "id": "umcho0",
@@ -2700,7 +2828,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.16666666666666674
     },
     "129": {
         "id": "umcgj6",
@@ -2720,7 +2849,8 @@
             "viktor": [
                 "Fun"
             ]
-        }
+        },
+        "fleiss-kappa": -1.0
     },
     "130": {
         "id": "umcfqo",
@@ -2741,7 +2871,8 @@
                 "Knowledge",
                 "Power"
             ]
-        }
+        },
+        "fleiss-kappa": -0.06666666666666679
     },
     "131": {
         "id": "umcakl",
@@ -2760,7 +2891,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "132": {
         "id": "umblqc",
@@ -2779,7 +2911,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "133": {
         "id": "umbe82",
@@ -2803,7 +2936,8 @@
                 "Trust",
                 "Conflict"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "134": {
         "id": "umb9l8",
@@ -2815,7 +2949,8 @@
             "aske": [],
             "mateusz": [],
             "viktor": []
-        }
+        },
+        "fleiss-kappa": 1
     },
     "135": {
         "id": "um9jff",
@@ -2833,7 +2968,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "136": {
         "id": "um7nmi",
@@ -2852,7 +2988,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "137": {
         "id": "um6v6b",
@@ -2871,7 +3008,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "138": {
         "id": "um6dsa",
@@ -2895,7 +3033,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.33333333333333337
     },
     "139": {
         "id": "umejff",
@@ -2918,7 +3057,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.26984126984126994
     },
     "140": {
         "id": "ump8z6",
@@ -2945,7 +3085,8 @@
                 "Similarity",
                 "Identity"
             ]
-        }
+        },
+        "fleiss-kappa": -0.2606060606060607
     },
     "141": {
         "id": "umcbk5",
@@ -2963,7 +3104,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "142": {
         "id": "umvwpr",
@@ -2984,7 +3126,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "143": {
         "id": "umvhds",
@@ -3003,7 +3146,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "144": {
         "id": "sg7jpy",
@@ -3021,7 +3165,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "145": {
         "id": "sg7925",
@@ -3044,7 +3189,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.37142857142857166
     },
     "146": {
         "id": "sg70m5",
@@ -3062,7 +3208,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "147": {
         "id": "sg6s07",
@@ -3086,7 +3233,8 @@
                 "Knowledge",
                 "Power"
             ]
-        }
+        },
+        "fleiss-kappa": 0.3939393939393937
     },
     "148": {
         "id": "sg64wf",
@@ -3104,7 +3252,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "149": {
         "id": "sfzwhp",
@@ -3123,7 +3272,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "150": {
         "id": "sfzdtz",
@@ -3146,7 +3296,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.37142857142857166
     },
     "151": {
         "id": "sfz4kw",
@@ -3170,7 +3321,8 @@
                 "Trust",
                 "Conflict"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "152": {
         "id": "sfz07q",
@@ -3192,7 +3344,8 @@
                 "Trust",
                 "Conflict"
             ]
-        }
+        },
+        "fleiss-kappa": -0.33333333333333337
     },
     "153": {
         "id": "sfyt5d",
@@ -3215,7 +3368,8 @@
                 "Trust",
                 "Conflict"
             ]
-        }
+        },
+        "fleiss-kappa": -0.26984126984126994
     },
     "154": {
         "id": "sg3qmx",
@@ -3237,7 +3391,8 @@
                 "Knowledge",
                 "Similarity"
             ]
-        }
+        },
+        "fleiss-kappa": -0.33333333333333337
     },
     "155": {
         "id": "sg1bni",
@@ -3255,7 +3410,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "156": {
         "id": "sg53uo",
@@ -3280,7 +3436,8 @@
                 "Similarity",
                 "Identity"
             ]
-        }
+        },
+        "fleiss-kappa": 0.11111111111111101
     },
     "157": {
         "id": "sg50pm",
@@ -3301,7 +3458,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "158": {
         "id": "sg91v2",
@@ -3322,7 +3480,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "159": {
         "id": "sg1ltb",
@@ -3341,7 +3500,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "160": {
         "id": "sgbn4f",
@@ -3359,7 +3519,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "161": {
         "id": "sgioev",
@@ -3378,7 +3539,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0
     },
     "162": {
         "id": "sgg9as",
@@ -3399,7 +3561,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "163": {
         "id": "sg65qn",
@@ -3417,7 +3580,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "164": {
         "id": "x9o8ud",
@@ -3435,7 +3599,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "165": {
         "id": "x9o6ma",
@@ -3453,7 +3618,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "166": {
         "id": "x9nyz0",
@@ -3476,7 +3642,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.26984126984126994
     },
     "167": {
         "id": "x9mxik",
@@ -3494,7 +3661,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "168": {
         "id": "x9lvgr",
@@ -3513,7 +3681,8 @@
             "viktor": [
                 "Power"
             ]
-        }
+        },
+        "fleiss-kappa": -0.1250000000000002
     },
     "169": {
         "id": "x9oanz",
@@ -3536,7 +3705,8 @@
                 "Knowledge",
                 "Power"
             ]
-        }
+        },
+        "fleiss-kappa": 0.1666666666666666
     },
     "170": {
         "id": "x9ln7j",
@@ -3557,7 +3727,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.6
     },
     "171": {
         "id": "x9lb4s",
@@ -3579,7 +3750,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.33333333333333337
     },
     "172": {
         "id": "x9z7rg",
@@ -3601,7 +3773,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.19999999999999996
     },
     "173": {
         "id": "x9z4yn",
@@ -3624,7 +3797,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -1.0
     },
     "174": {
         "id": "x9z9xc",
@@ -3648,7 +3822,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.19642857142857137
     },
     "175": {
         "id": "x9xprj",
@@ -3671,7 +3846,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.1666666666666666
     },
     "176": {
         "id": "x9wvvo",
@@ -3692,7 +3868,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "177": {
         "id": "x9l6ea",
@@ -3712,7 +3889,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.1666666666666666
     },
     "178": {
         "id": "x9keid",
@@ -3740,7 +3918,8 @@
                 "Similarity",
                 "Identity"
             ]
-        }
+        },
+        "fleiss-kappa": 0.0999999999999999
     },
     "179": {
         "id": "x9hmul",
@@ -3761,7 +3940,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "180": {
         "id": "x9g5ik",
@@ -3786,7 +3966,8 @@
                 "Knowledge",
                 "Power"
             ]
-        }
+        },
+        "fleiss-kappa": 0.027777777777777728
     },
     "181": {
         "id": "x9z70u",
@@ -3810,7 +3991,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.3406593406593405
     },
     "182": {
         "id": "x9z1ya",
@@ -3836,7 +4018,8 @@
                 "Knowledge",
                 "Power"
             ]
-        }
+        },
+        "fleiss-kappa": -0.2500000000000001
     },
     "183": {
         "id": "x9s4rc",
@@ -3862,7 +4045,8 @@
                 "Knowledge",
                 "Trust"
             ]
-        }
+        },
+        "fleiss-kappa": -0.33928571428571436
     },
     "184": {
         "id": "x9qwrc",
@@ -3883,7 +4067,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 1
     },
     "185": {
         "id": "x9qu19",
@@ -3906,7 +4091,8 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": 0.16666666666666682
     },
     "186": {
         "id": "x9pbd1",
@@ -3928,6 +4114,7 @@
             "viktor": [
                 "Knowledge"
             ]
-        }
+        },
+        "fleiss-kappa": -0.19999999999999996
     }
 }
