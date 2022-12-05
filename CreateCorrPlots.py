@@ -39,7 +39,7 @@ for et in dataset['event_type'].unique():
     # Group event posts by date (summed)
     # Basically assigns a count of posts containing a given dimension for each day
     cols = ['date']+dims+['Mean']
-    dataset_onehot = dataset_onehot[cols].groupby('date').sum().sort_index()
+    dataset_onehot = dataset_onehot[cols].groupby('date').mean().sort_index()
 
     # Apply rolling average, essentially, iterating over the days,
     # taking the average over the previous 3 days and 3 next days
