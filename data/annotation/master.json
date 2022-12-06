@@ -5,7 +5,8 @@
         "subreddit": "Bitcoin",
         "date": "2022_08_01",
         "annotations": {},
-        "fleiss-kappa": 0
+        "inter-annotation-agreement": {},
+        "fleiss_kappa_score": NaN
     },
     "1": {
         "id": "wcigs5",
@@ -31,7 +32,29 @@
                 "Fun"
             ]
         },
-        "fleiss-kappa": -0.26984126984126994
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.5,
+                "mateusz": -0.5,
+                "viktor": 0.5
+            },
+            "aske": {
+                "bence": 0.5,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.5,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.26984126984126994
     },
     "2": {
         "id": "wchpsa",
@@ -55,7 +78,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.14285714285714285
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.14285714285714285
     },
     "3": {
         "id": "wchnfb",
@@ -83,7 +128,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": 0.32121212121212106
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": -0.5,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.32121212121212106
     },
     "4": {
         "id": "wchmke",
@@ -112,7 +179,29 @@
                 "Identity"
             ]
         },
-        "fleiss-kappa": -0.14583333333333348
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.36363636363636354,
+                "mateusz": 0.2857142857142857,
+                "viktor": -0.36363636363636354
+            },
+            "aske": {
+                "bence": -0.36363636363636354,
+                "mateusz": -0.15384615384615374,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.2857142857142857,
+                "aske": -0.15384615384615374,
+                "viktor": -0.15384615384615374
+            },
+            "viktor": {
+                "bence": -0.36363636363636354,
+                "aske": 1,
+                "mateusz": -0.15384615384615374
+            }
+        },
+        "fleiss_kappa_score": -0.14583333333333348
     },
     "5": {
         "id": "wcfm2b",
@@ -136,7 +225,29 @@
                 "Conflict"
             ]
         },
-        "fleiss-kappa": -0.14285714285714285
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.14285714285714285
     },
     "6": {
         "id": "wcw0e5",
@@ -162,7 +273,29 @@
                 "Identity"
             ]
         },
-        "fleiss-kappa": 0.11111111111111101
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": -0.8000000000000003,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.11111111111111101
     },
     "7": {
         "id": "wcvxjo",
@@ -183,7 +316,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "8": {
         "id": "wccsr6",
@@ -204,7 +359,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "9": {
         "id": "wccomz",
@@ -227,7 +404,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.3333333333333333
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 1,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.3333333333333333
     },
     "10": {
         "id": "wce128",
@@ -251,7 +450,29 @@
                 "Conflict"
             ]
         },
-        "fleiss-kappa": -0.208791208791209
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.6666666666666667,
+                "mateusz": -0.36363636363636354,
+                "viktor": -0.6666666666666667
+            },
+            "aske": {
+                "bence": -0.6666666666666667,
+                "mateusz": -0.36363636363636354,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.36363636363636354,
+                "aske": -0.36363636363636354,
+                "viktor": -0.36363636363636354
+            },
+            "viktor": {
+                "bence": -0.6666666666666667,
+                "aske": 1,
+                "mateusz": -0.36363636363636354
+            }
+        },
+        "fleiss_kappa_score": -0.208791208791209
     },
     "11": {
         "id": "wcmv66",
@@ -270,7 +491,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "12": {
         "id": "wcx5j9",
@@ -291,7 +534,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -1.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -1.0,
+                "mateusz": -1.0,
+                "viktor": -1.0
+            },
+            "aske": {
+                "bence": -1.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -1.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": -1.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -1.0
     },
     "13": {
         "id": "wcx2ef",
@@ -314,7 +579,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.3333333333333333
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 1,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.3333333333333333
     },
     "14": {
         "id": "wcxryn",
@@ -338,7 +625,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.26984126984126994
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": -0.5,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.26984126984126994
     },
     "15": {
         "id": "w2mol3",
@@ -361,7 +670,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.3333333333333333
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": -1.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -1.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.3333333333333333
     },
     "16": {
         "id": "w2mkzd",
@@ -378,7 +709,29 @@
             ],
             "viktor": []
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 1,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.5
     },
     "17": {
         "id": "w2mhhc",
@@ -400,7 +753,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.37142857142857166
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.3999999999999999,
+                "mateusz": -0.8000000000000003,
+                "viktor": 0.3999999999999999
+            },
+            "aske": {
+                "bence": 0.3999999999999999,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": 0.3999999999999999,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.37142857142857166
     },
     "18": {
         "id": "w2mfzh",
@@ -421,7 +796,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "19": {
         "id": "w2macy",
@@ -442,7 +839,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "20": {
         "id": "w2w4ek",
@@ -466,7 +885,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.37142857142857166
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": -0.8000000000000003,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": -0.8000000000000003,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": -0.8000000000000003,
+                "viktor": -0.8000000000000003
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": -0.8000000000000003
+            }
+        },
+        "fleiss_kappa_score": -0.37142857142857166
     },
     "21": {
         "id": "w2vw8x",
@@ -487,7 +928,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "22": {
         "id": "w2vtit",
@@ -508,7 +971,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "23": {
         "id": "w2vqiq",
@@ -529,7 +1014,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": 0.4666666666666667
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.4666666666666667
     },
     "24": {
         "id": "w2u25x",
@@ -550,7 +1057,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "25": {
         "id": "w2ozuw",
@@ -574,7 +1103,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.14285714285714285
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -0.14285714285714285
     },
     "26": {
         "id": "w36clo",
@@ -592,7 +1143,29 @@
             ],
             "viktor": []
         },
-        "fleiss-kappa": 0.4666666666666667
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.4666666666666667
     },
     "27": {
         "id": "w30zr7",
@@ -614,7 +1187,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "28": {
         "id": "w2spsn",
@@ -629,7 +1224,29 @@
             ],
             "viktor": []
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.25
     },
     "29": {
         "id": "w2j434",
@@ -650,7 +1267,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "30": {
         "id": "w33lsx",
@@ -677,7 +1316,29 @@
                 "Identity"
             ]
         },
-        "fleiss-kappa": 0.4666666666666667
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": -0.33333333333333326,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.33333333333333326,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.4666666666666667
     },
     "31": {
         "id": "ymxq0c",
@@ -698,7 +1359,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "32": {
         "id": "ymxnfv",
@@ -721,7 +1404,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.07142857142857122
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.25,
+                "mateusz": -0.4285714285714286,
+                "viktor": -0.25
+            },
+            "aske": {
+                "bence": -0.25,
+                "mateusz": -0.4285714285714286,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.4285714285714286,
+                "aske": -0.4285714285714286,
+                "viktor": -0.4285714285714286
+            },
+            "viktor": {
+                "bence": -0.25,
+                "aske": 1,
+                "mateusz": -0.4285714285714286
+            }
+        },
+        "fleiss_kappa_score": -0.07142857142857122
     },
     "33": {
         "id": "ymwe9b",
@@ -743,7 +1448,29 @@
                 "Fun"
             ]
         },
-        "fleiss-kappa": -0.37142857142857166
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.5,
+                "mateusz": -0.8000000000000003,
+                "viktor": -0.5
+            },
+            "aske": {
+                "bence": -0.5,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": -0.5,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.37142857142857166
     },
     "34": {
         "id": "ymw9uk",
@@ -764,7 +1491,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -1.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -1.0,
+                "mateusz": -1.0,
+                "viktor": -1.0
+            },
+            "aske": {
+                "bence": -1.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -1.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": -1.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -1.0
     },
     "35": {
         "id": "ymvxen",
@@ -781,7 +1530,29 @@
             ],
             "viktor": []
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 1,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.5
     },
     "36": {
         "id": "ymno52",
@@ -805,7 +1576,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.37142857142857166
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.3999999999999999,
+                "mateusz": -0.8000000000000003,
+                "viktor": 0.3999999999999999
+            },
+            "aske": {
+                "bence": 0.3999999999999999,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": 0.3999999999999999,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.37142857142857166
     },
     "37": {
         "id": "ymmzym",
@@ -828,7 +1621,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -1.1102230246251565e-16
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -1.1102230246251565e-16
     },
     "38": {
         "id": "ymmx3f",
@@ -845,7 +1660,29 @@
             ],
             "viktor": []
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 1,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.5
     },
     "39": {
         "id": "ymmmcm",
@@ -867,7 +1704,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "40": {
         "id": "ymmlgl",
@@ -889,7 +1748,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "41": {
         "id": "ymjjfj",
@@ -911,7 +1792,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "42": {
         "id": "ymgzw1",
@@ -938,7 +1841,29 @@
                 "Identity"
             ]
         },
-        "fleiss-kappa": 0.4666666666666667
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": -0.33333333333333326,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.33333333333333326,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.4666666666666667
     },
     "43": {
         "id": "ymtr5j",
@@ -955,7 +1880,29 @@
             ],
             "viktor": []
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 1,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.5
     },
     "44": {
         "id": "ymyzzb",
@@ -977,7 +1924,29 @@
                 "Fun"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -1.0,
+                "mateusz": 0.0,
+                "viktor": -1.0
+            },
+            "aske": {
+                "bence": -1.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": -1.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "45": {
         "id": "ymmowf",
@@ -999,7 +1968,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.37142857142857166
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": -0.8000000000000003,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": -0.8000000000000003,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": -0.8000000000000003,
+                "viktor": -0.8000000000000003
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": -0.8000000000000003
+            }
+        },
+        "fleiss_kappa_score": -0.37142857142857166
     },
     "46": {
         "id": "yn1u3l",
@@ -1023,7 +2014,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.10052910052910057
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.19999999999999996,
+                "mateusz": -0.5,
+                "viktor": 0.19999999999999996
+            },
+            "aske": {
+                "bence": 0.19999999999999996,
+                "mateusz": 0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.5,
+                "viktor": 0.5
+            },
+            "viktor": {
+                "bence": 0.19999999999999996,
+                "aske": 1,
+                "mateusz": 0.5
+            }
+        },
+        "fleiss_kappa_score": -0.10052910052910057
     },
     "47": {
         "id": "ymzt0m",
@@ -1045,7 +2058,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "48": {
         "id": "w0ya94",
@@ -1067,7 +2102,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "49": {
         "id": "w0wsiv",
@@ -1090,7 +2147,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.33333333333333337
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.8000000000000003,
+                "mateusz": -0.5,
+                "viktor": -0.8000000000000003
+            },
+            "aske": {
+                "bence": -0.8000000000000003,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": -0.8000000000000003,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.33333333333333337
     },
     "50": {
         "id": "w0wm0b",
@@ -1114,7 +2193,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.14285714285714285
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.14285714285714285
     },
     "51": {
         "id": "w0wlyk",
@@ -1140,7 +2241,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.3333333333333335
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -0.3333333333333335
     },
     "52": {
         "id": "w0w59n",
@@ -1162,7 +2285,29 @@
                 "Fun"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "53": {
         "id": "w0xtx3",
@@ -1183,7 +2328,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "54": {
         "id": "w1a6oc",
@@ -1205,7 +2372,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "55": {
         "id": "w1a52f",
@@ -1227,7 +2416,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "56": {
         "id": "w18am2",
@@ -1248,7 +2459,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "57": {
         "id": "w180j0",
@@ -1270,7 +2503,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.37142857142857166
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.5,
+                "mateusz": -0.8000000000000003,
+                "viktor": -0.5
+            },
+            "aske": {
+                "bence": -0.5,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": -0.5,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.37142857142857166
     },
     "58": {
         "id": "w1am7u",
@@ -1293,7 +2548,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.33333333333333337
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.8000000000000003,
+                "mateusz": -0.5,
+                "viktor": -0.8000000000000003
+            },
+            "aske": {
+                "bence": -0.8000000000000003,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": -0.8000000000000003,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.33333333333333337
     },
     "59": {
         "id": "w176u0",
@@ -1314,7 +2591,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -1.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -1.0,
+                "mateusz": -1.0,
+                "viktor": -1.0
+            },
+            "aske": {
+                "bence": -1.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -1.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": -1.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -1.0
     },
     "60": {
         "id": "w16k16",
@@ -1337,7 +2636,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -1.1102230246251565e-16
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -1.1102230246251565e-16
     },
     "61": {
         "id": "w1h0et",
@@ -1359,7 +2680,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "62": {
         "id": "w1e6bu",
@@ -1378,7 +2721,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "63": {
         "id": "w0y2j9",
@@ -1399,7 +2764,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.5000000000000001
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.5,
+                "mateusz": -0.5,
+                "viktor": -0.5
+            },
+            "aske": {
+                "bence": -0.5,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": -0.5,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.5000000000000001
     },
     "64": {
         "id": "w1374z",
@@ -1420,7 +2807,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "65": {
         "id": "w1e6y7",
@@ -1442,7 +2851,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "66": {
         "id": "wxbaki",
@@ -1464,7 +2895,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "67": {
         "id": "wxba43",
@@ -1486,7 +2939,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "68": {
         "id": "wx8oio",
@@ -1505,7 +2980,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.75
     },
     "69": {
         "id": "wx8hb0",
@@ -1528,7 +3025,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -1.1102230246251565e-16
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -1.1102230246251565e-16
     },
     "70": {
         "id": "wx8a90",
@@ -1549,7 +3068,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "71": {
         "id": "wx7m7l",
@@ -1571,7 +3112,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "72": {
         "id": "wx7gw9",
@@ -1599,7 +3162,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.227972027972028
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.18181818181818188,
+                "mateusz": -0.2857142857142856,
+                "viktor": 0.18181818181818188
+            },
+            "aske": {
+                "bence": 0.18181818181818188,
+                "mateusz": 0.0769230769230771,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.2857142857142856,
+                "aske": 0.0769230769230771,
+                "viktor": 0.0769230769230771
+            },
+            "viktor": {
+                "bence": 0.18181818181818188,
+                "aske": 1,
+                "mateusz": 0.0769230769230771
+            }
+        },
+        "fleiss_kappa_score": 0.227972027972028
     },
     "73": {
         "id": "wx632h",
@@ -1627,7 +3212,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.06666666666666675
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.5,
+                "mateusz": 0.0,
+                "viktor": 0.5
+            },
+            "aske": {
+                "bence": 0.5,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.5,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.06666666666666675
     },
     "74": {
         "id": "wx4ewp",
@@ -1652,7 +3259,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.1250000000000002
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.1250000000000002
     },
     "75": {
         "id": "wxhq0b",
@@ -1677,7 +3306,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.1250000000000002
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.1250000000000002
     },
     "76": {
         "id": "wxf152",
@@ -1698,7 +3349,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -1.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -1.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -1.0
     },
     "77": {
         "id": "wx3zgc",
@@ -1719,7 +3392,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "78": {
         "id": "wxnoai",
@@ -1747,7 +3442,29 @@
                 "Identity"
             ]
         },
-        "fleiss-kappa": 0.32121212121212106
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": -0.5,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.32121212121212106
     },
     "79": {
         "id": "wxk3t5",
@@ -1769,7 +3486,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.37142857142857166
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.5,
+                "mateusz": -0.8000000000000003,
+                "viktor": -0.5
+            },
+            "aske": {
+                "bence": -0.5,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": -0.5,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.37142857142857166
     },
     "80": {
         "id": "wxf9w4",
@@ -1789,7 +3528,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "81": {
         "id": "wxoavv",
@@ -1809,7 +3570,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "82": {
         "id": "wxnmmr",
@@ -1830,7 +3613,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "83": {
         "id": "wxi3gq",
@@ -1849,7 +3654,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.75
     },
     "84": {
         "id": "wx9npe",
@@ -1870,7 +3697,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "85": {
         "id": "vt9b2z",
@@ -1891,7 +3740,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.5000000000000001
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.5,
+                "mateusz": -0.5,
+                "viktor": -0.5
+            },
+            "aske": {
+                "bence": -0.5,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": -0.5,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.5000000000000001
     },
     "86": {
         "id": "vt9032",
@@ -1912,7 +3783,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.5000000000000001
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.5,
+                "mateusz": -0.5,
+                "viktor": -0.5
+            },
+            "aske": {
+                "bence": -0.5,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": -0.5,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.5000000000000001
     },
     "87": {
         "id": "vt8l6l",
@@ -1935,7 +3828,29 @@
                 "Fun"
             ]
         },
-        "fleiss-kappa": -0.33333333333333337
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.8000000000000003,
+                "mateusz": 1,
+                "viktor": -0.8000000000000003
+            },
+            "aske": {
+                "bence": -0.8000000000000003,
+                "mateusz": -0.8000000000000003,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": -0.8000000000000003,
+                "viktor": -0.8000000000000003
+            },
+            "viktor": {
+                "bence": -0.8000000000000003,
+                "aske": 1,
+                "mateusz": -0.8000000000000003
+            }
+        },
+        "fleiss_kappa_score": -0.33333333333333337
     },
     "88": {
         "id": "vt8k9q",
@@ -1954,7 +3869,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "89": {
         "id": "vt8f2a",
@@ -1973,7 +3910,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "90": {
         "id": "vtchze",
@@ -1998,7 +3957,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.6000000000000001,
+                "mateusz": -0.33333333333333326,
+                "viktor": -0.6000000000000001
+            },
+            "aske": {
+                "bence": -0.6000000000000001,
+                "mateusz": 0.19999999999999996,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.33333333333333326,
+                "aske": 0.19999999999999996,
+                "viktor": 0.19999999999999996
+            },
+            "viktor": {
+                "bence": -0.6000000000000001,
+                "aske": 1,
+                "mateusz": 0.19999999999999996
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "91": {
         "id": "vtbss4",
@@ -2019,7 +4000,29 @@
                 "Fun"
             ]
         },
-        "fleiss-kappa": 0.4666666666666667
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.4666666666666667
     },
     "92": {
         "id": "vtbspn",
@@ -2040,7 +4043,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -1.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -1.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -1.0
     },
     "93": {
         "id": "vtkuhk",
@@ -2061,7 +4086,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "94": {
         "id": "vtkmjy",
@@ -2083,7 +4130,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.37142857142857166
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.3999999999999999,
+                "mateusz": -0.8000000000000003,
+                "viktor": 0.3999999999999999
+            },
+            "aske": {
+                "bence": 0.3999999999999999,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": 0.3999999999999999,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.37142857142857166
     },
     "95": {
         "id": "vt9cv7",
@@ -2105,7 +4174,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "96": {
         "id": "vt8z5k",
@@ -2131,7 +4222,29 @@
                 "Identity"
             ]
         },
-        "fleiss-kappa": 0.11111111111111101
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": -0.8000000000000003,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.11111111111111101
     },
     "97": {
         "id": "vt8yw9",
@@ -2151,7 +4264,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "98": {
         "id": "vt7rop",
@@ -2171,7 +4306,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "99": {
         "id": "vtlzed",
@@ -2193,7 +4350,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "100": {
         "id": "trxskd",
@@ -2213,7 +4392,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "101": {
         "id": "trxc51",
@@ -2233,7 +4434,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "102": {
         "id": "trwsx1",
@@ -2253,7 +4476,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "103": {
         "id": "trwldk",
@@ -2273,7 +4518,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "104": {
         "id": "trwbio",
@@ -2296,7 +4563,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.33333333333333337
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.3999999999999999,
+                "mateusz": -0.5,
+                "viktor": 0.3999999999999999
+            },
+            "aske": {
+                "bence": 0.3999999999999999,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": 0.3999999999999999,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.33333333333333337
     },
     "105": {
         "id": "trwstx",
@@ -2316,7 +4605,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "106": {
         "id": "trv7ic",
@@ -2338,7 +4649,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "107": {
         "id": "truwqm",
@@ -2359,7 +4692,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "108": {
         "id": "trub1o",
@@ -2380,7 +4735,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -1.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -1.0,
+                "mateusz": 1,
+                "viktor": -1.0
+            },
+            "aske": {
+                "bence": -1.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": -1.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -1.0
     },
     "109": {
         "id": "ts1cb1",
@@ -2406,7 +4783,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": 0.06878306878306871
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.5,
+                "viktor": 0.5
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.5
+            }
+        },
+        "fleiss_kappa_score": 0.06878306878306871
     },
     "110": {
         "id": "trxsnt",
@@ -2434,7 +4833,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.1748251748251746
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.6666666666666667,
+                "mateusz": 0.0,
+                "viktor": -0.6666666666666667
+            },
+            "aske": {
+                "bence": -0.6666666666666667,
+                "mateusz": -0.33333333333333326,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -0.33333333333333326,
+                "viktor": -0.33333333333333326
+            },
+            "viktor": {
+                "bence": -0.6666666666666667,
+                "aske": 1,
+                "mateusz": -0.33333333333333326
+            }
+        },
+        "fleiss_kappa_score": -0.1748251748251746
     },
     "111": {
         "id": "truot5",
@@ -2460,7 +4881,29 @@
                 "Identity"
             ]
         },
-        "fleiss-kappa": 0.11111111111111101
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": -0.8000000000000003,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.11111111111111101
     },
     "112": {
         "id": "ts2gu7",
@@ -2483,7 +4926,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.3333333333333333
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 1,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.3333333333333333
     },
     "113": {
         "id": "ts81d6",
@@ -2504,7 +4969,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -1.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -1.0,
+                "mateusz": -1.0,
+                "viktor": -1.0
+            },
+            "aske": {
+                "bence": -1.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -1.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": -1.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -1.0
     },
     "114": {
         "id": "ts6uq1",
@@ -2523,7 +5010,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.75
     },
     "115": {
         "id": "trudl6",
@@ -2544,7 +5053,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": 0.4666666666666667
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.4666666666666667
     },
     "116": {
         "id": "ts18tw",
@@ -2567,7 +5098,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.3333333333333333
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": -1.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -1.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.3333333333333333
     },
     "117": {
         "id": "ts3mmr",
@@ -2587,7 +5140,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "118": {
         "id": "ts30ew",
@@ -2608,7 +5183,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "119": {
         "id": "ts1xyz",
@@ -2628,7 +5225,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "120": {
         "id": "tru63u",
@@ -2652,7 +5271,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.26984126984126994
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -1.0,
+                "mateusz": -0.5,
+                "viktor": -1.0
+            },
+            "aske": {
+                "bence": -1.0,
+                "mateusz": 0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.5,
+                "viktor": 0.5
+            },
+            "viktor": {
+                "bence": -1.0,
+                "aske": 1,
+                "mateusz": 0.5
+            }
+        },
+        "fleiss_kappa_score": -0.26984126984126994
     },
     "121": {
         "id": "ts8u96",
@@ -2677,7 +5318,29 @@
                 "Power"
             ]
         },
-        "fleiss-kappa": -0.16666666666666674
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.5,
+                "mateusz": 0.19999999999999996,
+                "viktor": 0.5
+            },
+            "aske": {
+                "bence": 0.5,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.19999999999999996,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": 0.5,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.16666666666666674
     },
     "122": {
         "id": "ts4u3x",
@@ -2698,7 +5361,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "123": {
         "id": "tse019",
@@ -2719,7 +5404,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 1.0
     },
     "124": {
         "id": "tsdrc6",
@@ -2740,7 +5447,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.5000000000000001
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.5,
+                "mateusz": -0.5,
+                "viktor": -0.5
+            },
+            "aske": {
+                "bence": -0.5,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": -0.5,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.5000000000000001
     },
     "125": {
         "id": "umddbn",
@@ -2764,7 +5493,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.37142857142857166
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.3999999999999999,
+                "mateusz": -0.8000000000000003,
+                "viktor": 0.3999999999999999
+            },
+            "aske": {
+                "bence": 0.3999999999999999,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": 0.3999999999999999,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.37142857142857166
     },
     "126": {
         "id": "umdc3m",
@@ -2784,7 +5535,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "127": {
         "id": "umd8ai",
@@ -2804,7 +5577,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "128": {
         "id": "umcho0",
@@ -2829,7 +5624,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.16666666666666674
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.5,
+                "mateusz": 0.19999999999999996,
+                "viktor": -0.5
+            },
+            "aske": {
+                "bence": -0.5,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.19999999999999996,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "bence": -0.5,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.16666666666666674
     },
     "129": {
         "id": "umcgj6",
@@ -2850,7 +5667,29 @@
                 "Fun"
             ]
         },
-        "fleiss-kappa": -1.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -1.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -1.0
     },
     "130": {
         "id": "umcfqo",
@@ -2872,7 +5711,29 @@
                 "Power"
             ]
         },
-        "fleiss-kappa": -0.06666666666666679
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.06666666666666679
     },
     "131": {
         "id": "umcakl",
@@ -2892,7 +5753,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "132": {
         "id": "umblqc",
@@ -2912,7 +5795,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "133": {
         "id": "umbe82",
@@ -2937,7 +5842,29 @@
                 "Conflict"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.6000000000000001,
+                "mateusz": -0.33333333333333326,
+                "viktor": -0.6000000000000001
+            },
+            "aske": {
+                "bence": -0.6000000000000001,
+                "mateusz": 0.19999999999999996,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.33333333333333326,
+                "aske": 0.19999999999999996,
+                "viktor": 0.19999999999999996
+            },
+            "viktor": {
+                "bence": -0.6000000000000001,
+                "aske": 1,
+                "mateusz": 0.19999999999999996
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "134": {
         "id": "umb9l8",
@@ -2950,7 +5877,29 @@
             "mateusz": [],
             "viktor": []
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": NaN
     },
     "135": {
         "id": "um9jff",
@@ -2969,7 +5918,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.75
     },
     "136": {
         "id": "um7nmi",
@@ -2989,7 +5960,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "137": {
         "id": "um6v6b",
@@ -3009,7 +6002,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "138": {
         "id": "um6dsa",
@@ -3034,7 +6049,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.33333333333333337
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -1.0,
+                "mateusz": -1.0,
+                "viktor": -1.0
+            },
+            "aske": {
+                "bence": -1.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -1.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": -1.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -0.33333333333333337
     },
     "139": {
         "id": "umejff",
@@ -3058,7 +6095,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.26984126984126994
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -1.0,
+                "mateusz": -0.5,
+                "viktor": -1.0
+            },
+            "aske": {
+                "bence": -1.0,
+                "mateusz": 0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.5,
+                "viktor": 0.5
+            },
+            "viktor": {
+                "bence": -1.0,
+                "aske": 1,
+                "mateusz": 0.5
+            }
+        },
+        "fleiss_kappa_score": -0.26984126984126994
     },
     "140": {
         "id": "ump8z6",
@@ -3086,7 +6145,29 @@
                 "Identity"
             ]
         },
-        "fleiss-kappa": -0.2606060606060607
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.5,
+                "mateusz": -0.5,
+                "viktor": -0.5
+            },
+            "aske": {
+                "bence": -0.5,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": -0.5,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -0.2606060606060607
     },
     "141": {
         "id": "umcbk5",
@@ -3105,7 +6186,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.75
     },
     "142": {
         "id": "umvwpr",
@@ -3127,7 +6230,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "143": {
         "id": "umvhds",
@@ -3147,7 +6272,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "144": {
         "id": "sg7jpy",
@@ -3166,7 +6313,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.75
     },
     "145": {
         "id": "sg7925",
@@ -3190,7 +6359,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.37142857142857166
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.5,
+                "mateusz": -0.8000000000000003,
+                "viktor": -0.5
+            },
+            "aske": {
+                "bence": -0.5,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": -0.5,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.37142857142857166
     },
     "146": {
         "id": "sg70m5",
@@ -3209,7 +6400,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.75
     },
     "147": {
         "id": "sg6s07",
@@ -3234,7 +6447,29 @@
                 "Power"
             ]
         },
-        "fleiss-kappa": 0.3939393939393937
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.3939393939393937
     },
     "148": {
         "id": "sg64wf",
@@ -3253,7 +6488,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "149": {
         "id": "sfzwhp",
@@ -3273,7 +6530,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "150": {
         "id": "sfzdtz",
@@ -3297,7 +6576,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.37142857142857166
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.5,
+                "mateusz": -0.8000000000000003,
+                "viktor": -0.5
+            },
+            "aske": {
+                "bence": -0.5,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": -0.5,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.37142857142857166
     },
     "151": {
         "id": "sfz4kw",
@@ -3322,7 +6623,29 @@
                 "Conflict"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.6000000000000001,
+                "mateusz": -0.33333333333333326,
+                "viktor": -0.6000000000000001
+            },
+            "aske": {
+                "bence": -0.6000000000000001,
+                "mateusz": 0.19999999999999996,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.33333333333333326,
+                "aske": 0.19999999999999996,
+                "viktor": 0.19999999999999996
+            },
+            "viktor": {
+                "bence": -0.6000000000000001,
+                "aske": 1,
+                "mateusz": 0.19999999999999996
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "152": {
         "id": "sfz07q",
@@ -3345,7 +6668,29 @@
                 "Conflict"
             ]
         },
-        "fleiss-kappa": -0.33333333333333337
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.8000000000000003,
+                "mateusz": -0.5,
+                "viktor": -0.8000000000000003
+            },
+            "aske": {
+                "bence": -0.8000000000000003,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": -0.8000000000000003,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.33333333333333337
     },
     "153": {
         "id": "sfyt5d",
@@ -3369,7 +6714,29 @@
                 "Conflict"
             ]
         },
-        "fleiss-kappa": -0.26984126984126994
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -1.0,
+                "mateusz": -0.5,
+                "viktor": -1.0
+            },
+            "aske": {
+                "bence": -1.0,
+                "mateusz": 0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.5,
+                "viktor": 0.5
+            },
+            "viktor": {
+                "bence": -1.0,
+                "aske": 1,
+                "mateusz": 0.5
+            }
+        },
+        "fleiss_kappa_score": -0.26984126984126994
     },
     "154": {
         "id": "sg3qmx",
@@ -3392,7 +6759,29 @@
                 "Similarity"
             ]
         },
-        "fleiss-kappa": -0.33333333333333337
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.3999999999999999,
+                "mateusz": -0.5,
+                "viktor": 0.3999999999999999
+            },
+            "aske": {
+                "bence": 0.3999999999999999,
+                "mateusz": -0.8000000000000003,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": -0.8000000000000003,
+                "viktor": -0.8000000000000003
+            },
+            "viktor": {
+                "bence": 0.3999999999999999,
+                "aske": 1,
+                "mateusz": -0.8000000000000003
+            }
+        },
+        "fleiss_kappa_score": -0.33333333333333337
     },
     "155": {
         "id": "sg1bni",
@@ -3411,7 +6800,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "156": {
         "id": "sg53uo",
@@ -3437,7 +6848,29 @@
                 "Identity"
             ]
         },
-        "fleiss-kappa": 0.11111111111111101
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": -0.8000000000000003,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.8000000000000003,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.11111111111111101
     },
     "157": {
         "id": "sg50pm",
@@ -3459,7 +6892,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "158": {
         "id": "sg91v2",
@@ -3481,7 +6936,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "159": {
         "id": "sg1ltb",
@@ -3501,7 +6978,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "160": {
         "id": "sgbn4f",
@@ -3520,7 +7019,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "161": {
         "id": "sgioev",
@@ -3540,7 +7061,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.0
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0
     },
     "162": {
         "id": "sgg9as",
@@ -3562,7 +7105,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "163": {
         "id": "sg65qn",
@@ -3581,7 +7146,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.75
     },
     "164": {
         "id": "x9o8ud",
@@ -3600,7 +7187,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -1.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -1.0,
+                "viktor": -1.0
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -1.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "165": {
         "id": "x9o6ma",
@@ -3619,7 +7228,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.75
     },
     "166": {
         "id": "x9nyz0",
@@ -3643,7 +7274,29 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.26984126984126994
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -1.0,
+                "mateusz": -0.5,
+                "viktor": -1.0
+            },
+            "aske": {
+                "bence": -1.0,
+                "mateusz": 0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.5,
+                "viktor": 0.5
+            },
+            "viktor": {
+                "bence": -1.0,
+                "aske": 1,
+                "mateusz": 0.5
+            }
+        },
+        "fleiss_kappa_score": -0.26984126984126994
     },
     "167": {
         "id": "x9mxik",
@@ -3662,7 +7315,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.75
     },
     "168": {
         "id": "x9lvgr",
@@ -3682,7 +7357,29 @@
                 "Power"
             ]
         },
-        "fleiss-kappa": -0.1250000000000002
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -0.8000000000000003,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -0.8000000000000003,
+                "viktor": -0.8000000000000003
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -0.8000000000000003
+            }
+        },
+        "fleiss_kappa_score": -0.1250000000000002
     },
     "169": {
         "id": "x9oanz",
@@ -3706,7 +7403,29 @@
                 "Power"
             ]
         },
-        "fleiss-kappa": 0.1666666666666666
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "bence": 0.0,
+                "mateusz": -0.4285714285714286,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": -0.4285714285714286,
+                "viktor": -0.4285714285714286
+            },
+            "viktor": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -0.4285714285714286
+            }
+        },
+        "fleiss_kappa_score": 0.1666666666666666
     },
     "170": {
         "id": "x9ln7j",
@@ -3728,7 +7447,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.6
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "aske": {
+                "bence": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.6
     },
     "171": {
         "id": "x9lb4s",
@@ -3751,7 +7492,29 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.33333333333333337
+        "inter-annotation-agreement": {
+            "bence": {
+                "aske": -0.8000000000000003,
+                "mateusz": -0.5,
+                "viktor": -0.8000000000000003
+            },
+            "aske": {
+                "bence": -0.8000000000000003,
+                "mateusz": 0.3999999999999999,
+                "viktor": 1
+            },
+            "mateusz": {
+                "bence": -0.5,
+                "aske": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "viktor": {
+                "bence": -0.8000000000000003,
+                "aske": 1,
+                "mateusz": 0.3999999999999999
+            }
+        },
+        "fleiss_kappa_score": -0.33333333333333337
     },
     "172": {
         "id": "x9z7rg",
@@ -3774,7 +7537,39 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.19999999999999996
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "bence": {
+                "gustav": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 1,
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "gustav": 1,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": -0.19999999999999996
     },
     "173": {
         "id": "x9z4yn",
@@ -3798,7 +7593,39 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -1.0
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": -1.0,
+                "aske": -1.0,
+                "mateusz": -1.0,
+                "viktor": -1.0
+            },
+            "bence": {
+                "gustav": -1.0,
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "aske": {
+                "gustav": -1.0,
+                "bence": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": -1.0,
+                "bence": 1,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "gustav": -1.0,
+                "bence": 1,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -1.0
     },
     "174": {
         "id": "x9z9xc",
@@ -3823,7 +7650,39 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.19642857142857137
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 0.0,
+                "aske": 0.3999999999999999,
+                "mateusz": 0.0,
+                "viktor": 0.3999999999999999
+            },
+            "bence": {
+                "gustav": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 0.3999999999999999,
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "gustav": 0.3999999999999999,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.19642857142857137
     },
     "175": {
         "id": "x9xprj",
@@ -3847,7 +7706,39 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.1666666666666666
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "mateusz": 1,
+                "viktor": 0.0
+            },
+            "bence": {
+                "gustav": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": 1,
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.1666666666666666
     },
     "176": {
         "id": "x9wvvo",
@@ -3869,7 +7760,39 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "bence": {
+                "gustav": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 1,
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": 1,
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "gustav": 1,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.8
     },
     "177": {
         "id": "x9l6ea",
@@ -3890,7 +7813,39 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.1666666666666666
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 1,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "bence": {
+                "gustav": 1,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.1666666666666666
     },
     "178": {
         "id": "x9keid",
@@ -3919,7 +7874,39 @@
                 "Identity"
             ]
         },
-        "fleiss-kappa": 0.0999999999999999
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 1,
+                "aske": 0.0,
+                "mateusz": -0.8000000000000003,
+                "viktor": 0.0
+            },
+            "bence": {
+                "gustav": 1,
+                "aske": 0.0,
+                "mateusz": -0.8000000000000003,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "mateusz": 0.0,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": -0.8000000000000003,
+                "bence": -0.8000000000000003,
+                "aske": 0.0,
+                "viktor": 0.0
+            },
+            "viktor": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 0.0
+            }
+        },
+        "fleiss_kappa_score": 0.0999999999999999
     },
     "179": {
         "id": "x9hmul",
@@ -3941,7 +7928,39 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "bence": {
+                "gustav": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 1,
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": 1,
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "gustav": 1,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.8
     },
     "180": {
         "id": "x9g5ik",
@@ -3967,7 +7986,39 @@
                 "Power"
             ]
         },
-        "fleiss-kappa": 0.027777777777777728
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 0.0,
+                "aske": 0.5,
+                "mateusz": 0.19999999999999996,
+                "viktor": 0.5
+            },
+            "bence": {
+                "gustav": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 0.5,
+                "bence": 0.0,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": 0.19999999999999996,
+                "bence": 0.0,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "gustav": 0.5,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": 0.027777777777777728
     },
     "181": {
         "id": "x9z70u",
@@ -3992,7 +8043,39 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.3406593406593405
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "bence": {
+                "gustav": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.3406593406593405
     },
     "182": {
         "id": "x9z1ya",
@@ -4019,7 +8102,39 @@
                 "Power"
             ]
         },
-        "fleiss-kappa": -0.2500000000000001
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 0.5,
+                "aske": 0.5,
+                "mateusz": -0.33333333333333326,
+                "viktor": 0.5
+            },
+            "bence": {
+                "gustav": 0.5,
+                "aske": 0.0,
+                "mateusz": -0.5,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 0.5,
+                "bence": 0.0,
+                "mateusz": -0.5,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": -0.33333333333333326,
+                "bence": -0.5,
+                "aske": -0.5,
+                "viktor": -0.5
+            },
+            "viktor": {
+                "gustav": 0.5,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": -0.5
+            }
+        },
+        "fleiss_kappa_score": -0.2500000000000001
     },
     "183": {
         "id": "x9s4rc",
@@ -4046,7 +8161,39 @@
                 "Trust"
             ]
         },
-        "fleiss-kappa": -0.33928571428571436
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": -0.5,
+                "aske": -0.8000000000000003,
+                "mateusz": -0.8000000000000003,
+                "viktor": -0.8000000000000003
+            },
+            "bence": {
+                "gustav": -0.5,
+                "aske": 0.3999999999999999,
+                "mateusz": 0.3999999999999999,
+                "viktor": 0.3999999999999999
+            },
+            "aske": {
+                "gustav": -0.8000000000000003,
+                "bence": 0.3999999999999999,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": -0.8000000000000003,
+                "bence": 0.3999999999999999,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "gustav": -0.8000000000000003,
+                "bence": 0.3999999999999999,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -0.33928571428571436
     },
     "184": {
         "id": "x9qwrc",
@@ -4068,7 +8215,39 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 1
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "bence": {
+                "gustav": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 1,
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": 1,
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "gustav": 1,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.8
     },
     "185": {
         "id": "x9qu19",
@@ -4092,7 +8271,39 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": 0.16666666666666682
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "bence": {
+                "gustav": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": 0.16666666666666682
     },
     "186": {
         "id": "x9pbd1",
@@ -4115,6 +8326,38 @@
                 "Knowledge"
             ]
         },
-        "fleiss-kappa": -0.19999999999999996
+        "inter-annotation-agreement": {
+            "gustav": {
+                "bence": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "bence": {
+                "gustav": 0.0,
+                "aske": 0.0,
+                "mateusz": 0.0,
+                "viktor": 0.0
+            },
+            "aske": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "mateusz": 1,
+                "viktor": 1
+            },
+            "mateusz": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 1,
+                "viktor": 1
+            },
+            "viktor": {
+                "gustav": 0.0,
+                "bence": 0.0,
+                "aske": 1,
+                "mateusz": 1
+            }
+        },
+        "fleiss_kappa_score": -0.19999999999999996
     }
 }
