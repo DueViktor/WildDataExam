@@ -19,11 +19,11 @@ dimensional_thresholds = {
 num_days_rolling_average = 7
 
 # Load in the aggregated dataset
-dataset_raw = pd.read_csv("data/final_datasets/aggregated_dataset.tsv", sep=";")
+dataset_raw = pd.read_csv("data/final_datasets/aggregated_dataset.csv", sep=";")
 
 # Select subset of columns
 dataset = dataset_raw[
-    ["date", "High", "Low", "Mean", "event_id", "event_type", "period_type"]
+    ["date", "High", "Low", "Mean", "Close", "event_id", "event_type", "period_type"]
 ].drop_duplicates()
 
 # Initialize dimensions
@@ -64,7 +64,7 @@ for et in dataset["event_type"].unique():
 
     # Group event posts by date (summed)
     # Basically assigns a count of posts containing a given dimension for each day
-    cols = ["date"] + dims + ["Mean"]
+    cols = ["date"] + dims + ["Close"]
     dataset_onehot = dataset_onehot[cols].groupby("date").mean().sort_index()
 
     # Apply rolling average, essentially, iterating over the days,
