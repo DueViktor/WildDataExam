@@ -20,7 +20,8 @@
 - Rename the file to `yourname.json` and upload to `data/annotation/annotated/yourname.json` like this: `viktor.json`
 - For those needing git help:
   ```bash
-  git add data/annotation/annotated/git commit -m "Added annotations"
+  git add data/annotation/annotated/git 
+  commit -m "Added annotations"
   git push
   ```
 

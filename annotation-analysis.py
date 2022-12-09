@@ -23,6 +23,9 @@ for entry in master:
 
     master[entry]["annotations"] = {}
 
+# Change the key to be the "id" of the entry
+master = {entry["id"]: entry for entry in master.values()}
+
 # read in the files from annotation_path one by one and create a dataframe.
 annotation_path = "data/annotation/annotated"
 annotation_files = [
@@ -30,26 +33,33 @@ annotation_files = [
 ]
 
 for file_path in annotation_files:
-
+    
     name = file_path.replace(".json", "")
-
+    
+    print(os.path.join(annotation_path, file_path))
+    
     file = json.load(open(os.path.join(annotation_path, file_path)))
-
+    
     for entry in file:
 
-        if entry["id"] in master:
+        id_ = entry["data"]["id"]
+
+        if id_ in master:
 
             try:
                 choices = entry["annotations"][0]["result"][0]["value"]["choices"]
-                master[entry["id"]]["annotations"][name] = choices
+                master[id_]["annotations"][name] = choices
 
             except IndexError:
+                
                 if entry["annotations"][0]["result"] == []:
                     choices = []
-                    master[entry["id"]]["annotations"][name] = []
+                    master[id_]["annotations"][name] = []
                 else:
                     raise IndexError
-
+        else:
+            print("Entry not in master", id_)
+            continue
 
 def create_annotation_grid(annotations):
     """
@@ -152,5 +162,6 @@ for entry in master:
     master[entry]["fleiss_kappa_score"] = fleiss_kappa_score
 
 # save master to a json file named master.json
+print("Saving to data/annotation/master.json")
 with open("data/annotation/master.json", "w") as f:
     json.dump(master, f)
