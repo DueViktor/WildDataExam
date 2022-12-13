@@ -56,9 +56,7 @@ for dim in dims:
 # Count number of scores above threshold for each day for each dimension
 posts_per_day = dataset_raw.groupby(["date"]).sum()
 # Remove columns that are not dimensions
-posts_per_day = posts_per_day.drop(
-    ["High", "Low", "Mean", "event_id", "romance"], axis=1
-)
+posts_per_day = posts_per_day.drop(["High", "Low", "Mean", "event_id"], axis=1)
 
 # Group event posts by date (summed)
 # Basically assigns a count of posts containing a given dimension for each day
@@ -107,6 +105,7 @@ for dim in dims:
         # Drop empty dimensions
         dataset_out.drop(dim, axis=1, inplace=True)
         dataset_out_sd.drop(dim, axis=1, inplace=True)
+        posts_per_day.drop(dim, axis=1, inplace=True)
         print("Dropping", dim)
 
 # Merge with standard deviation dataframe
