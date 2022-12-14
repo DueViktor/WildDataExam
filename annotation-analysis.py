@@ -1,7 +1,4 @@
-"""
-Analysis of how well we the annotations were done.
-
-"""
+"""Analysis of how well we the annotations were done."""
 from collections import defaultdict
 from statsmodels.stats.inter_rater import fleiss_kappa, aggregate_raters
 import os
@@ -161,7 +158,7 @@ for entry in master:
 
     master[entry]["fleiss_kappa_score"] = fleiss_kappa_score
 
-# save master to a json file named master.json
-print("Saving to data/annotation/master.json")
-with open("data/annotation/master.json", "w") as f:
+# save master to a json file named annotations.json
+print("Saving to data/annotation/annotations.json")
+with open("data/annotation/annotations.json", "w") as f:
     json.dump(master, f)
