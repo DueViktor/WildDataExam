@@ -38,6 +38,8 @@ def plot_dim(dim):
     plt.xticks(rotation=90)
     # Make x-axis ticks every 20 days
     plt.xticks(np.arange(0, len(dataset["date"]), 20), size=15)
+    # Make yaxis limits
+    plt.ylim(-6, 4)
 
     # Visualize event id 1, 2 and 3 as x-span
     for event_id in [1, 2, 3]:
@@ -94,7 +96,7 @@ def plot_dim(dim):
 
     # Create title with dim and bigger font with more distance to the x-axis
     plt.title(dim[0].upper() + dim[1:] + " Dimension", fontsize=30, pad=20)
-
+    plt.tight_layout()
     # Save figure
     plt.savefig("viz/dimension_plots/z_score_" + dim + ".png")
 
