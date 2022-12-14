@@ -1,3 +1,20 @@
+"""
+NB: NEED TO UPDATE FILE PATHS
+
+This script creates a data frame with aggregated data for each day. It calculates the
+- 10 columns: with the z-scores for each dimension for each day. 
+- 10 columns: with the standard deviation for each dimension for each day.
+- 10 columns: with the number of posts classified within a dimension for each day.
+- 3 columns: with the event type, event id and period type for each day.
+- 1 column: with the closing bitcoin price for each day.
+
+The output is saved to data/final_datasets/FINAL_ZScores.csv
+
+Input files:
+- data/final_datasets/aggregated_dataset.csv (RAW dataset)
+- data/annotation/new_thresholds.json (Thresholds for each dimension)
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import dtale
@@ -12,7 +29,12 @@ thresholds = thresholds.rename(columns={0: "threshold"})
 num_days_rolling_average = 7
 
 # Load in the aggregated dataset
-dataset_raw = pd.read_csv("data/final_datasets/aggregated_dataset.tsv", sep=";")
+dataset_raw = pd.read_csv("data/final_datasets/aggregated_dataset.csv", sep=";")
+
+# Create close column dropping duplicates and sort by date
+closing_price = dataset_raw[["date", "Close"]].drop_duplicates().sort_values(by="date")
+# Rename close column to closing_price
+closing_price = closing_price.rename(columns={"Close": "closing_price"})
 
 # Select subset of columns
 dataset = dataset_raw[
@@ -120,6 +142,11 @@ dataset_out = dataset_out.merge(
 
 # Merge with event data
 dataset_out = dataset_out.merge(events, on="date", how="left")
+
+# Merge with closing price
+dataset_out = dataset_out.merge(closing_price, on="date", how="left")
+# Remove close column
+dataset_out = dataset_out.drop(["Close"], axis=1)
 
 # Save the dataset
 dataset_out.to_csv("data/final_datasets/FINAL_zscores.tsv", sep=";", index=None)
