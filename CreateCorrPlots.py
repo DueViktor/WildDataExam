@@ -5,16 +5,16 @@ import numpy as np
 
 # Set threshold for binarizing labels
 dimensional_thresholds = {
-    "conflict": 0.4307594341891152,
-    "similarity": 0.25042258473959833,
-    "knowledge": 0.7951832256864669,
-    "power": 0.2077113337193926,
-    "status": 0.3232280425727367,
-    "support": 0.0542994892224669,
-    "identity": 0.37557719512419263,
-    "romance": 1,
-    "trust": 0.17556890451442433,
-    "fun": 0.41641424761878115,
+    "conflict": 0.8184784765549521,
+    "similarity": 0.8549107804017894,
+    "knowledge": 0.5558013547550549,
+    "power": 0.944096300531836,
+    "status": 0.547299369356849,
+    "support": 0.5083391610313864,
+    "identity": 0.5063081636148341,
+    "romance": 0.8167551083360757,
+    "trust": 0.585200906532971,
+    "fun": 0.7147785827756565,
 }
 num_days_rolling_average = 7
 
