@@ -8,7 +8,7 @@ import numpy as np
 import json
 
 # master json file for all the annotations
-annotate = pd.read_csv("data/annotation/data.csv")
+annotate = pd.read_csv("data/annotation-task/data.csv")
 
 master = annotate.to_dict(orient="index")
 
@@ -24,7 +24,7 @@ for entry in master:
 master = {entry["id"]: entry for entry in master.values()}
 
 # read in the files from annotation_path one by one and create a dataframe.
-annotation_path = "data/annotation/annotated"
+annotation_path = "data/annotation-task/individual-annotations/"
 annotation_files = [
     file for file in os.listdir(annotation_path) if file.endswith(".json")
 ]
@@ -59,9 +59,8 @@ for file_path in annotation_files:
             continue
 
 def create_annotation_grid(annotations):
-    """
-    Create a grid of annotations for each annotator
-    """
+    # Create a grid of annotations for each annotator
+    
     assert isinstance(annotations, dict)
 
     all_annotations = set()
@@ -89,9 +88,7 @@ for entry in master:
 
     annotation_grid = create_annotation_grid(master[entry]["annotations"])
 
-    """
-    Calculate the inter-annotator agreement for each annotator
-    """
+    # Calculate the inter-annotator agreement for each annotator
 
     for annotator_one in master[entry]["annotations"]:
         for annotator_two in master[entry]["annotations"]:
@@ -128,9 +125,7 @@ for entry in master:
                         annotator_two
                     ] = le_cohen
 
-    """
-    Fleiss kappa score
-    """
+    # Fleiss kappa score    
 
     if annotation_grid.columns.size == 0:
         master[entry]["fleiss_kappa_score"] = np.nan
@@ -159,6 +154,6 @@ for entry in master:
     master[entry]["fleiss_kappa_score"] = fleiss_kappa_score
 
 # save master to a json file named annotations.json
-print("Saving to data/annotation/annotations.json")
-with open("data/annotation/annotations.json", "w") as f:
+print("Saving to data/created-datasets/annotations.json")
+with open("data/created-datasets/annotations.json", "w") as f:
     json.dump(master, f)
