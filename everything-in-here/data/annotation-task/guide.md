@@ -10,18 +10,18 @@
   label-studio
   ```
 - Create new project
-- Under `Data Import` import `data/annotation/data.csv`. and pick "`List of Tasks`".
+- Under `Data Import` import `data/annotation-task/data.csv`. and pick "`List of Tasks`".
 - Then pick the setup: Go to "Natural Language Processing" and choose "Text Classification". It will open an interface where you should go to `code` and replace the existing code with this [HTML CODE](##-HTML-CODE).
 - Press `save`. 
 - Start annotating by pressing `Label All Tasks`.
 
 ## When you're done annotating
 - Go to `Export` and export the annotations as `JSON` file.
-- Rename the file to `yourname.json` and upload to `data/annotation/annotated/yourname.json` like this: `viktor.json`
+- Rename the file to `yourname.json` and upload to `data/annotation-task/individual-annotations/yourname.json` like this: `viktor.json`
 - For those needing git help:
   ```bash
-  git add data/annotation/annotated/git 
-  commit -m "Added annotations"
+  git add . 
+  git commit -m "Added annotations"
   git push
   ```
 
