@@ -2,8 +2,8 @@
 This script plots the z-scores for each dimension and saves the plots to the 
 viz/dimension_plots folder
 
-The script is reading the z-scores from the data/final_datasets/FINAL_zscores.tsv file 
-which is created by the Create-Z-scores.py script
+The script is reading the z-scores from the data/created-datasets/zscores.tsv file 
+which is created by the z-scores-create.py script
 """
 
 import pandas as pd
@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the z_score dataset
-dataset = pd.read_csv("data/final_datasets/FINAL_zscores.tsv", sep=";")
+dataset = pd.read_csv("data/final_datasets/zscores.tsv", sep=";")
 
 # Function for plotting a dimension
 def plot_dim(dim):
