@@ -33,6 +33,7 @@ def load_data():
 
     cols = [
         "id",
+        "author",
         "corpus",
         "date",
         "text_type",
@@ -66,6 +67,7 @@ def load_BTC_data():
 
     BTC_prices = coin_frames["BTC"]
     BTC_prices["Date"] = BTC_prices["Date"].apply(lambda x: x.replace("_", "-"))
+    return BTC_prices
 
 
 def aggregate_comments(posts_df, comments_df):
@@ -79,6 +81,8 @@ def aggregate_comments(posts_df, comments_df):
     source_choice = sources[-1]
 
     cols = [
+        "id",
+        "author",
         "corpus",
         "date",
         "conflict",
@@ -98,7 +102,7 @@ def aggregate_comments(posts_df, comments_df):
     btc_reddit = source_df.loc[source_df.subreddit == "Bitcoin"][cols].sort_values(
         "date"
     )
-
+    btc_reddit["date"] = btc_reddit["date"].apply(lambda x: x.replace("_", "-"))
     return btc_reddit
 
 
@@ -110,7 +114,15 @@ def merge(btc_reddit, BTC_prices):
         left_on="date",
         right_on="Date",
     ).drop("Date", axis=1)
-    btc_full.set_index("date", inplace=True)
+
+    return btc_full
+
+
+def create_btc_full():
+    posts_df, comments_df = load_data()
+    BTC_prices = load_BTC_data()
+    btc_reddit = aggregate_comments(posts_df, comments_df)
+    btc_full = merge(btc_reddit, BTC_prices)
 
     return btc_full
 
@@ -224,3 +236,9 @@ def assign_events(event_frame, btc_full):
     final = pd.concat([df_temp, boring])
 
     final.to_csv("data/final_datasets/aggregated_dataset.csv", index=None, sep=";")
+
+
+if __name__ == "__main__":
+    event_frame = create_event_frame()
+    btc_full = create_btc_full()
+    assign_events(event_frame, btc_full)
