@@ -7,7 +7,7 @@ Table of Contents:
 - `events.csv`: Hand labeled events from the closing price of the bitcoin market. 
 - `annotation.csv` : This `.csv` contain the merge of individual annotations of 187 reddit posts regarding five cryptocurrencies.
 - `thresholds.csv`: yo
-- `z_scores.csv`: CSV containing: 
+- `z_scores.csv`: Aggregated data set with z-scores for each dimension for each day. The data set contains:   
   - 10 columns: with the z-scores for each dimension for each day. 
   - 10 columns: with the standard deviation for each dimension for each day. 
   - 10 columns: with the number of posts classified within a dimension for each day.
