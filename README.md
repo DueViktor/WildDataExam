@@ -1,12 +1,10 @@
-# WildDataExam
+# Crypto Emotions
 
-[**OVERLEAF LINK**](https://www.overleaf.com/8443914629xktdwskccrdp)
+Add how to run the code
 
-For information on the project and collection of papers see the 
-[Google folder](https://drive.google.com/drive/folders/1KaI41lntbBiIWsLibMnNNQkUgpdUMebX?fbclid=IwAR1D60oO5mp2zjipcCOMiOFvg7lgVZzC4J6VMkLjwhQNglU5HECkXrH1RzI).
+The folder scripts contains the code to create the datasets and visualisations. The folder data contains the datasets that have been created by the scripts and all scripts output to visualisations in any plot have been created by it.
 
 ## Coins
-
 |     | Abbreviation | Name     | Coin link                                          |
 | --- | ------------ | -------- | -------------------------------------------------- |
 | 1   | BTC          | Bitcoin  | https://coinmarketcap.com/currencies/bitcoin/      |
