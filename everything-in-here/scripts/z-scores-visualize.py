@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load the z_score dataset
-dataset = pd.read_csv("../data/created-datasets/FINAL_zscores.tsv", sep=";")
+dataset = pd.read_csv("../data/created-datasets/zscores.csv", sep=";")
 
 # Function for plotting a dimension
 def plot_dim(dim):
@@ -106,7 +106,7 @@ def plot_dim(dim):
     plt.title(dim[0].upper() + dim[1:] + " Dimension", fontsize=30, pad=20)
     plt.tight_layout()
     # Save figure
-    plt.savefig("viz/dimension_plots/z_score_" + dim + ".png")
+    plt.savefig("../visualisations/dimension_plots/z_score_" + dim + ".png")
 
 
 # Plot dimensions

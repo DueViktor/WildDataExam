@@ -151,4 +151,4 @@ dataset_out = dataset_out.merge(closing_price, on="date", how="left")
 dataset_out = dataset_out.drop(["Close"], axis=1)
 
 # Save the dataset
-dataset_out.to_csv("../data/created-datasets/FINAL_zscores.tsv", sep=";", index=None)
+dataset_out.to_csv("../data/created-datasets/zscores.csv", sep=";", index=None)
