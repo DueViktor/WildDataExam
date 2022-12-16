@@ -8,7 +8,7 @@ import numpy as np
 import json
 
 # master json file for all the annotations
-annotate = pd.read_csv("data/annotation-task/data.csv")
+annotate = pd.read_csv("../data/annotation-task/data.csv")
 
 master = annotate.to_dict(orient="index")
 
@@ -24,19 +24,19 @@ for entry in master:
 master = {entry["id"]: entry for entry in master.values()}
 
 # read in the files from annotation_path one by one and create a dataframe.
-annotation_path = "data/annotation-task/individual-annotations/"
+annotation_path = "../data/annotation-task/individual-annotations/"
 annotation_files = [
     file for file in os.listdir(annotation_path) if file.endswith(".json")
 ]
 
 for file_path in annotation_files:
-    
+
     name = file_path.replace(".json", "")
-    
+
     print(os.path.join(annotation_path, file_path))
-    
+
     file = json.load(open(os.path.join(annotation_path, file_path)))
-    
+
     for entry in file:
 
         id_ = entry["data"]["id"]
@@ -48,7 +48,7 @@ for file_path in annotation_files:
                 master[id_]["annotations"][name] = choices
 
             except IndexError:
-                
+
                 if entry["annotations"][0]["result"] == []:
                     choices = []
                     master[id_]["annotations"][name] = []
@@ -58,9 +58,10 @@ for file_path in annotation_files:
             print("Entry not in master", id_)
             continue
 
+
 def create_annotation_grid(annotations):
     # Create a grid of annotations for each annotator
-    
+
     assert isinstance(annotations, dict)
 
     all_annotations = set()
@@ -125,7 +126,7 @@ for entry in master:
                         annotator_two
                     ] = le_cohen
 
-    # Fleiss kappa score    
+    # Fleiss kappa score
 
     if annotation_grid.columns.size == 0:
         master[entry]["fleiss_kappa_score"] = np.nan
@@ -155,5 +156,5 @@ for entry in master:
 
 # save master to a json file named annotations.json
 print("Saving to data/created-datasets/annotations.json")
-with open("data/created-datasets/annotations.json", "w") as f:
+with open("../data/created-datasets/annotations.json", "w") as f:
     json.dump(master, f)

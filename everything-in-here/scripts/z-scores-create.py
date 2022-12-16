@@ -21,7 +21,7 @@ import dtale
 import numpy as np
 
 # Import threshold data from data/annotation/thresholds.json
-thresholds = pd.read_json("data/annotation/new_thresholds.json", orient="index")
+thresholds = pd.read_json("../data/annotation-task/new_thresholds.json", orient="index")
 # Rename column as threshold
 thresholds = thresholds.rename(columns={0: "threshold"})
 
@@ -29,7 +29,7 @@ thresholds = thresholds.rename(columns={0: "threshold"})
 num_days_rolling_average = 7
 
 # Load in the aggregated dataset
-dataset_raw = pd.read_csv("data/final_datasets/aggregated_dataset.csv", sep=";")
+dataset_raw = pd.read_csv("../data/created-datasets/aggregated_dataset.csv", sep=";")
 
 # Create close column dropping duplicates and sort by date
 closing_price = dataset_raw[["date", "Close"]].drop_duplicates().sort_values(by="date")
@@ -38,7 +38,7 @@ closing_price = closing_price.rename(columns={"Close": "closing_price"})
 
 # Select subset of columns
 dataset = dataset_raw[
-    ["date", "High", "Low", "Mean", "event_id", "event_type", "period_type"]
+    ["date", "High", "Low", "event_id", "event_type", "period_type"]  # deleting "Mean"
 ].drop_duplicates()
 
 # Initialize dimensions
@@ -78,7 +78,9 @@ for dim in dims:
 # Count number of scores above threshold for each day for each dimension
 posts_per_day = dataset_raw.groupby(["date"]).sum()
 # Remove columns that are not dimensions
-posts_per_day = posts_per_day.drop(["High", "Low", "Mean", "event_id"], axis=1)
+posts_per_day = posts_per_day.drop(
+    ["High", "Low", "event_id"], axis=1
+)  # deleting "Mean"
 
 # Group event posts by date (summed)
 # Basically assigns a count of posts containing a given dimension for each day
@@ -149,4 +151,4 @@ dataset_out = dataset_out.merge(closing_price, on="date", how="left")
 dataset_out = dataset_out.drop(["Close"], axis=1)
 
 # Save the dataset
-dataset_out.to_csv("data/final_datasets/FINAL_zscores.tsv", sep=";", index=None)
+dataset_out.to_csv("../data/created-datasets/FINAL_zscores.tsv", sep=";", index=None)
