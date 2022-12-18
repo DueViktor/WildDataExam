@@ -3,7 +3,7 @@ import os
 from tqdm import tqdm
 import re
 
-fpath = "reddit_dataset/"
+fpath = "../data/labelled_reddit_data/"
 files = os.listdir(fpath)
 files = [i for i in files if "2022_03" and ".tsv" in i]
 
