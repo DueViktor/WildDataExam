@@ -1,4 +1,4 @@
 - `annotataion-task`: All data regarding the annotation task
 - `created-datasets`: Data that has been created by us for further analysis.
-- `preprocessed-reddit-scrape`: Reddit posts and comments for all crypto currencies
+- `preprocessed-reddit-scrape`: Reddit posts and comments for all crypto currencies with the 10 dimensions models scores.
 - `raw`: The raw data from the `scripts/reddit-scrape.py` and the download from `investing.com`.
