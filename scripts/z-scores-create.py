@@ -17,11 +17,10 @@ Input files:
 
 import pandas as pd
 import matplotlib.pyplot as plt
-import dtale
 import numpy as np
 
 # Import threshold data from data/annotation/thresholds.json
-thresholds = pd.read_json("../data/annotation-task/new_thresholds.json", orient="index")
+thresholds = pd.read_json("data/created-datasets/thresholds.json", orient="index")
 # Rename column as threshold
 thresholds = thresholds.rename(columns={0: "threshold"})
 
@@ -29,7 +28,7 @@ thresholds = thresholds.rename(columns={0: "threshold"})
 num_days_rolling_average = 7
 
 # Load in the aggregated dataset
-dataset_raw = pd.read_csv("../data/created-datasets/aggregated_dataset.csv", sep=";")
+dataset_raw = pd.read_csv("data/created-datasets/aggregated_dataset.csv", sep=";")
 
 # Create close column dropping duplicates and sort by date
 closing_price = dataset_raw[["date", "Close"]].drop_duplicates().sort_values(by="date")
@@ -151,4 +150,4 @@ dataset_out = dataset_out.merge(closing_price, on="date", how="left")
 dataset_out = dataset_out.drop(["Close"], axis=1)
 
 # Save the dataset
-dataset_out.to_csv("../data/created-datasets/zscores.csv", sep=";", index=None)
+dataset_out.to_csv("data/created-datasets/zscores_1.csv", sep=";", index=None)
